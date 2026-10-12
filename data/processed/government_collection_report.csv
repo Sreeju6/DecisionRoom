@@ -1,0 +1,32 @@
+State_UT,URL,Status,Saved_File
+Andhra Pradesh,https://apis.ap.gov.in/home/,Downloaded,documents/government\Andhra_Pradesh_startup_policy.txt
+Arunachal Pradesh,https://www.startup.arunachal.gov.in/startup-policy,"ERROR: HTTPSConnectionPool(host='www.startup.arunachal.gov.in', port=443): Max retries exceeded with url: /startup-policy (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+Assam,http://startup.assam.gov.in/,Downloaded,documents/government\Assam_startup_policy.txt
+Bihar,https://startup.bihar.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.bihar.gov.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+Chhattisgarh,https://invest.cg.gov.in/startup,Downloaded,documents/government\Chhattisgarh_startup_policy.txt
+Goa,https://www.startup.goa.gov.in/index,"ERROR: HTTPSConnectionPool(host='www.startup.goa.gov.in', port=443): Max retries exceeded with url: /index (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)')))",
+Gujarat,https://startup.gujarat.gov.in/home,No useful text,
+Haryana,https://startupharyana.gov.in/,Downloaded,documents/government\Haryana_startup_policy.txt
+Himachal Pradesh,https://emerginghimachal.hp.gov.in/startup/,Downloaded,documents/government\Himachal_Pradesh_startup_policy.txt
+Jammu and Kashmir,https://startupjk.com/,Downloaded,documents/government\Jammu_and_Kashmir_startup_policy.txt
+Jharkhand,https://abvil.jharkhand.gov.in/documents/Policy2023.pdf,Downloaded,documents/government\Jharkhand_startup_policy.txt
+Karnataka,https://www.missionstartupkarnataka.org/,Downloaded,documents/government\Karnataka_startup_policy.txt
+Kerala,https://startupmission.kerala.gov.in/,Downloaded,documents/government\Kerala_startup_policy.txt
+Ladakh,https://ediiladakh.org/,Downloaded,documents/government\Ladakh_startup_policy.txt
+Madhya Pradesh,https://startup.mp.gov.in/,Downloaded,documents/government\Madhya_Pradesh_startup_policy.txt
+Maharashtra,https://msins.in/,No useful text,
+Manipur,https://startupmanipur.in/,Downloaded,documents/government\Manipur_startup_policy.txt
+Meghalaya,https://www.meghalaya.gov.in/,Downloaded,documents/government\Meghalaya_startup_policy.txt
+Mizoram,https://startup.mizoram.gov.in/,HTTP 404,
+Nagaland,https://startup.nagaland.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.nagaland.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startup.nagaland.gov.in', port=443): Failed to resolve 'startup.nagaland.gov.in' ([Errno 11001] getaddrinfo failed)""))",
+Odisha,https://startupodisha.gov.in/,"ERROR: HTTPSConnectionPool(host='startupodisha.gov.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+Puducherry,https://startup.puducherry.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.puducherry.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startup.puducherry.gov.in', port=443): Failed to resolve 'startup.puducherry.gov.in' ([Errno 11001] getaddrinfo failed)""))",
+Punjab,https://startup.punjab.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startup.punjab.gov.in', port=443): Failed to resolve 'startup.punjab.gov.in' ([Errno 11001] getaddrinfo failed)""))",
+Rajasthan,https://startup.rajasthan.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.rajasthan.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startup.rajasthan.gov.in', port=443): Failed to resolve 'startup.rajasthan.gov.in' ([Errno 11001] getaddrinfo failed)""))",
+Sikkim,https://sikkim.gov.in/,Downloaded,documents/government\Sikkim_startup_policy.txt
+Tamil Nadu,https://startuptn.in/,No useful text,
+Telangana,https://startup.telangana.gov.in/,Downloaded,documents/government\Telangana_startup_policy.txt
+Tripura,https://startup.tripura.gov.in/,No useful text,
+Uttar Pradesh,https://startup.up.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.up.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startup.up.gov.in', port=443): Failed to resolve 'startup.up.gov.in' ([Errno 11001] getaddrinfo failed)""))",
+Uttarakhand,https://startup.uk.gov.in/,"ERROR: HTTPSConnectionPool(host='startup.uk.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startup.uk.gov.in', port=443): Failed to resolve 'startup.uk.gov.in' ([Errno 11001] getaddrinfo failed)""))",
+West Bengal,https://startupwb.gov.in/,"ERROR: HTTPSConnectionPool(host='startupwb.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='startupwb.gov.in', port=443): Failed to resolve 'startupwb.gov.in' ([Errno 11001] getaddrinfo failed)""))",

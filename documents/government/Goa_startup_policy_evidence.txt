@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Goa
+Policy identified: Goa Startup Policy 2025
+Policy period: 2025-2028
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/tejas.html
+
+EVIDENCE SUMMARY
+Startup India's July 2026 state-policy directory lists Goa Startup Policy 2025 for 2025-2028. The accessible Startup India Goa policy page also documents startup support such as self-certification, subsidized incubator seat costs, stamp-duty reimbursement, interest subvention and a one-time grant for startups with a promising MVP. The detailed incentive page currently available through Startup India is labelled Goa Startup Policy 2021-25, so the older incentive details should not be treated as evidence for the 2025 policy without checking the newer policy document.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

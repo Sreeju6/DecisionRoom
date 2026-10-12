@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Odisha
+Policy identified: Odisha Startup Policy 2016 (with amendments)
+Policy period: 2018-present
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Odisha-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India lists Odisha Startup Policy 2016-2020 and the current directory identifies the policy as Odisha Startup Policy 2016 with amendments, 2018-present. The accessible policy summary includes a monthly sustenance allowance of Rs. 20,000 for one year for eligible recognized startups, government procurement provisions including a 20% procurement target from Micro & Small Enterprises or Startups, and incubator capital support up to Rs. 1 crore.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

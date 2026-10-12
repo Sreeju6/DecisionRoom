@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Tamil Nadu
+Policy identified: Tamil Nadu Startup and Innovation Policy 2023
+Policy period: 2023-2032
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India's July 2026 directory lists Tamil Nadu Startup and Innovation Policy 2023 for 2023-2032. The accessible detailed Startup India page is the older Tamil Nadu Startup & Innovation Policy 2018-2023. That page records one-stop startup registration/support, TANSIM services, IP support, procurement facilitation, a proposed Tamil Nadu Startup Fund of Funds of Rs. 250 crore, and nominal-lease land for startup parks. These details are historical unless verified against the 2023 policy document.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

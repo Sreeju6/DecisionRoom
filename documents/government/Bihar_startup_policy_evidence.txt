@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Bihar
+Policy identified: Bihar Startup Policy 2022
+Policy period: 2022-2027
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Bihar-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India lists Bihar Startup Policy 2022-2027 under the Department of Industries. The policy includes self-certification support, exemption from certain licensing/registration requirements for five years subject to statutory safety licences, and other startup, incubator and investor incentives.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

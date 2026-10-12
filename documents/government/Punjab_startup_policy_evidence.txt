@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Punjab
+Policy identified: Punjab Startup Policy 2026
+Policy period: 2026-2031
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/tejas.html
+
+EVIDENCE SUMMARY
+Startup India's July 2026 policy directory lists Punjab Startup Policy 2026 for 2026-2031. The detailed Startup India policy page currently accessible is the older Industrial & Business Development Policy 2017-2022; it records historical startup support including incubator capital grants, interest subsidy, lease-rental subsidy and seed funding. These older details are explicitly marked historical and are not treated as benefits of the 2026 policy.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

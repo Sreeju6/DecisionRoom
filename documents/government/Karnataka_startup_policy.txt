@@ -1,0 +1,2295 @@
+KARNATAKA STARTUP POLICY 2025–2030
+Source: Government of Karnataka policy PDF
+Source URL: https://eitbt.karnataka.gov.in/startup/public/uploads/media_to_upload1763380262.pdf
+PDF pages: 37
+NOTE: Text below is extracted from the supplied PDF. Check the original PDF for visual formatting, tables, and any extraction errors.
+
+==============================================================================
+
+
+
+--- PDF PAGE 1 ---
+
+
+
+
+--- PDF PAGE 2 ---
+
+
+
+
+--- PDF PAGE 3 ---
+
+
+
+
+--- PDF PAGE 4 ---
+
+CONTENTS
+01
+02
+03
+INTRODUCTION
+POLICY RATIONAL
+POLICY PILLARS
+09
+12
+15
+1.1 Industry Overview- Global
+2.1 Vision
+3.1 Pillar 1: Funding and Grants
+3.1.5 Venture Capital Fund
+3.2.2 Strengthening and Expanding Startup Incubation Infrastructure
+2.3.1 Support Mechanism for Startup Lifecycle
+3.1.3 Rajiv Gandhi Entrepreneurial Program (RGEP)
+3.2 Pillar 2: Incubation and Infrastructure Support
+3.1.8 ELEVATE NXT
+3.3.3.3 Virtual Incubation and Mentorship Connect Platform
+3.2.5 Innovation Labs
+09
+12
+15
+16
+18
+13
+16
+18
+17
+19
+20
+1.2 Industry Overview- India
+2.2 Mission
+3.1.1 Idea2PoC Grant-in-Aid Scheme- ELEVATE
+3.1.10 Research and Translation Fund
+3.1.6 Beyond Bengaluru Cluster Seed Fund
+3.3.3.1 Assistance for Setting Up New Incubation Centres by Private Entities
+2.4 Essential Pillars for Holistic Development
+3.1.4 Grand Challenges Karnataka (GCK)
+3.2.1 Ecosystem of Excellence
+3.1.9 ELEVATE Beyond Bengaluru
+3.2.3 Dedicated Incubator & Accelerator Hub for Emerging Startups - Beyond Bengaluru
+3.2.6 Prototype Labs
+10
+12
+15
+17
+17
+18
+13
+16
+18
+17
+19
+20
+1.3 Industry Overview- Karnataka
+2.3 Stages of Startup Lifecycle
+3.1.2 ELEVATE Unnati
+3.1.11 Alternate Investment Bridge
+3.1.7 Fund of Funds
+3.3.3.2 Incubation Centers Support for Upgradation/Expansion
+3.2.4 Growth Labs
+10
+12
+15
+18
+17
+19
+19
+
+
+--- PDF PAGE 5 ---
+
+04
+SPECIAL INITIATIVES 25
+4.1 INNOVERSE
+3.3 Pillar 3: Mentoring and skill development
+4.6 Digital Clinics
+3.4.1 Global Capability Centres (GCC)
+3.5.2 Market Access and Event Participation
+4.4 Propel
+3.3.3 Skill Advisory Committee
+4.13 Promoting technologies in local language
+3.5 Pillar 5: International collaboration and access
+4.9 Springboard – Venture Capital Connect Platform
+3.4.4 Technology Transfer Organisation (TTO)
+3.6.2 Rural Innovation Center
+25
+20
+26
+21
+23
+25
+20
+28
+22
+27
+22
+24
+4.2 Center for Applied AI and Tech Solutions (CATS)
+3.3.1 New Age Innovation Network 2.0 (NAIN 2.0)
+4.11 Karnataka Avishkaar Nidhi
+3.4.6 Hackathons
+4.7 Booster Kit Partners
+3.4.2 Preferential Market Access in Public Procurement
+3.6 Pillar 6: Inclusion and Sustainability
+4.5 Circular Economy
+3.4 Pillar 4: Market Access and Expansion
+3.5.1 Global Innovation Alliance Connect (GIA)
+4.10 Government First
+3.4.5 High Impact Events for Strengthening Innovation
+3.7 Pillar 7: Regulatory Facilitation
+25
+20
+27
+22
+26
+21
+24
+26
+21
+22
+27
+22
+24
+4.3 Digital Art Center (DAC)
+3.3.2 Collaboration with Ecosystem Partners
+4.12 Support for Women Entrepreneurship
+3.4.7 Bootcamps
+4.8 Karnataka Innovation Authority (KIA) Act 2020 for Startups
+3.4.3 Karnataka Acceleration Network (KAN)
+3.6.1 Grassroot Innovation
+25
+20
+28
+22
+26
+21
+24
+
+
+--- PDF PAGE 6 ---
+
+05
+07
+06
+FISCAL  INCENTIVES AND CONCESSIONS
+ELIGIBILITY CRITERIA, POLICY VALIDITY & SANCTION PROCESS
+ANNEXURE 1: DEFINITIONS
+ANNEXURE 2: GLOSSARY
+ENABLEMENT AND FACILITATION
+29
+32
+33
+36
+31
+5.1 Reimbursement of State GST
+7.1 Eligibility Criteria to avail Incentives and Concessions
+6.1 Nodal Agency- Karnataka Innovation and Technology Society   
+  (KITS) and Karnataka Startup Cell
+5.4	 Quality	Certification	Cost	Reimbursement
+5.7 Research and Development Project Grants
+29
+32
+31
+30
+30
+5.2 Patent Subsidy
+7.2 Sanction Process
+6.2 Startup Portal 2.0
+5.5 Reimbursement of PF/ESI
+5.8 Internship Support
+29
+32
+31
+30
+30
+5.3 Global Karnataka
+6.3 Vision Group on Startups
+5.6 Cloud Storage
+29
+31
+30
+
+
+--- PDF PAGE 7 ---
+
+
+
+
+--- PDF PAGE 8 ---
+
+01
+INTRODUCTION
+The Government of Karnataka has formulated the 
+Karnataka Startup Policy 2025-2030 with a vision 
+to position the state as a global leader in innovation 
+and entrepreneurship. Karnataka continues to 
+play a pivotal role in stimulating the startup 
+environment at both national and international 
+levels, leveraging its tech-enabled ecosystem, 
+strong talent base, and entrepreneurial strength.
+Karnataka is strategically positioned to emerge as 
+a global powerhouse in the startup ecosystem, 
+fostering an environment where entrepreneurs 
+can scale, innovate, and capitalize on diverse 
+opportunities. With its robust infrastructure, 
+progressive policies, and thriving talent pool, the 
+state continues to attract high-growth startups, 
+DeepTech ventures, and disruptive innovations 
+across multiple sectors.
+The Startup Policy 2025 aims to strengthen 
+Karnataka’s position as the ‘Champion State’ for 
+startups, adopting a holistic approach to 
+ecosystem development through strategic 
+interventions across key pillars such as Funding 
+and Grants, Market Access and Expansion, 
+Infrastructure & Tech Development Support, 
+Talent & Skill Development and Social Inclusion. 
+The policy guarantees financial assistance for 
+startups by offering marketing cost support, 
+enabling them to expand operations, enhance 
+visibility, and accelerate growth in competitive 
+markets.
+Recognizing Bengaluru’s global leadership in the 
+startup ecosystem, the government is committed 
+to maintain its top position while simultaneously 
+developing emerging cities Beyond Bengaluru as 
+preferred startup destinations. This policy focuses 
+on expanding innovation, fostering emerging-tech 
+entrepreneurship and strengthening industry 
+collaborations to create a robust infrastructure 
+and a conducive policy environment for startups 
+to thrive.
+The global startup ecosystem continues to 
+expand, with over 150 million startups worldwide. 
+This rapid growth highlights the increasing role of 
+entrepreneurship in economic development, job 
+creation, and technological innovation.
+According to the Global Startup Ecosystem Report 
+2025 by Startup Genome, the top 5 global startup 
+ecosystems are: Silicon Valley, New York City, 
+London, Tel Aviv, and Boston & Beijing. The global 
+startup ecosystem in 2024–2025 has experienced 
+robust growth, fueled by technological innovation 
+and significant Venture Capital (VC) investments. 
+The Global VC investment rose to $368.3 billion 
+across 35,684 deals in 2024, up from $349.4 
+billion in 2023. The United States led with $209 
+billion in VC investments, marking its third-highest 
+total in 20 years. Despite the regional disparities, 
+the overall increase in global VC funding 
+underscores the resilience and dynamism of the 
+startup landscape.
+The global startup ecosystem is undergoing rapid 
+transformation, serving as a catalyst for economic 
+growth, technological innovation, and 
+entrepreneurial development. As startups adopt 
+AI, DeepTech, blockchain, and sustainability-
+driven models, they benefit from increased cross-
+border collaborations, venture capital investments, 
+and government-backed incubators. This 
+accelerated support will help in fueling the rise of 
+next-generation unicorns and decacorns, driving 
+global innovation.
+1.1 Industry Overview- Global
+
+
+--- PDF PAGE 9 ---
+
+India has rapidly evolved into a global startup 
+powerhouse, ranking as the third-largest startup 
+ecosystem in the world with over 1.59 lakhs 
+startups as recognized by Department for 
+Promotion of Industry and Internal Trade (DPIIT), 
+of which 73,151 are women led as of 2025. These 
+startups have supported employment generation 
+to the tune of 16.6 lakhs.
+India’s startup ecosystem has witnessed 
+remarkable expansion, growing from ~ 500 
+startups in 2016 to 199,979 in 2025, reflecting a 
+39,895.8% surge. Over 400+ incubators and over 
+100 unicorns in sectors such as fintech, edtech, 
+health-tech, and e-commerce continue to drive 
+innovation and investment in the country. While 
+Bengaluru, Hyderabad, Mumbai, and Delhi-NCR 
+remain key startup hubs, 45% of startups now 
+originate from non-metro cities. This reflects the 
+broadening entrepreneurial landscape supported 
+by initiatives like Startup India Seed Fund Scheme 
+and Atal Incubation Centers (AICs) that provide 
+funding and mentorship to startups.
+The startup ecosystem is undergoing a significant 
+transformation, backed by advancements in 
+emerging technologies. Generative AI and 
+DeepTech is drawing substantial investments, 
+reinforcing India’s status as a global innovation 
+leader. With 5 million software developers, India 
+stands as the second-largest developer nation, 
+driving technological progress. E-commerce and 
+Fintech remain at the forefront of funding activity, 
+while the rise of quick commerce is reshaping 
+consumer behavior and accelerating digital 
+transactions.
+India’s startup ecosystem is fueled by continuous 
+technological advancements that ensure 
+sustained growth and innovation. According to a 
+report released by CII in 2024, the startup and 
+venture economy could potentially contribute ~$1 
+trillion to India’s estimated $7 trillion economy by 
+2030 and create 50 million jobs.7 India is well-
+positioned to lead the future of startups on the 
+world stage with flagship initiatives such as Make 
+in India, Startup India, Stand Up India, SAMRIDH, 
+Aspire, Atal Innovation Mission, Startup India 
+Showcase, and Startup India Innovation Week. 
+These efforts reinforce and further establish the 
+country as a global powerhouse in 
+entrepreneurship, driving innovation and sustained 
+economic growth.
+Karnataka stands as the unrivaled leader in India’s 
+startup landscape, playing a pivotal role in 
+positioning the country as a global innovation and 
+entrepreneurial hub. As of 2025, the state is home 
+to more than 18,952 registered startups, as per 
+DPIIT.  
+Karnataka stands at the forefront of India’s 
+innovation-driven growth, with a thriving startup 
+ecosystem anchored in Bengaluru and expanding 
+rapidly across Beyond Bengaluru regions. The 
+state is emerging as a national leader in DeepTech, 
+Artificial Intelligence (AI), and Quantum 
+Technologies, supported by world-class 
+institutions and forward-looking policies. 
+Initiatives like INNOVERSE, a first-of- its-kind 
+DeepTech incubation and innovation center are  
+1.2 Industry Overview- India
+1.3 Industry Overview- Karnataka
+
+
+--- PDF PAGE 10 ---
+
+fostering cross-sectoral collaboration and 
+accelerating the commercialization of cutting-
+edge research. As part of its commitment to 
+future-ready innovation, the Government of 
+Karnataka will invest heavily in DeepTech, to 
+support startups in this space. With a strong 
+focus on emerging technologies and national 
+priorities, Karnataka continues to shape India’s 
+critical growth story in the global innovation 
+landscape.
+Karnataka’s startup ecosystem attracts 
+substantial investments across various sectors. 
+In 2025, Enterprise Applications led with $298.6 
+million, marking an 80% increase from 2024, while 
+FinTech secured $221.1 million, reflecting a 271% 
+surge. Retail sector followed closely, raising 
+$219.8 million, an 80% rise from the previous year.
+Karnataka, with over 40 years of experience in the 
+tech sector, now hosts more than 550 Global 
+Capability Centers (GCCs), comprising nearly one-
+third of India’s total. Karnataka currently nurtures 
+nearly 50 of India’s total of 118 unicorns further 
+solidifying its reputation as a global innovation 
+hub and a driving force in India’s entrepreneurial 
+growth.13 The state’s innovation ecosystem is 
+enriched by its robust institutional framework, 
+including 500+ incubators, accelerators, 
+Technology & Business Incubators, and Common 
+Instrumentation Facilities, R&D infrastructure and 
+co-working spaces. Karnataka is home to many 
+incubators, supported by premier institutions 
+such as IISc Bengaluru, IIIT-B, IIM Bangalore, 
+NCBS, and NITK Surathkal. Programs such as 
+K-Tech Innovation Hubs, Centers of Excellence 
+(CoEs) in artificial intelligence, machine learning, 
+cybersecurity, robotics, and space tech have 
+created an environment conducive to research-
+driven startups and product development.
+Through the Grand Challenges Program, the 
+Department of E, IT and Bt, has created a dynamic 
+platform for startups to showcase innovative and 
+disruptive solutions addressing Environmental, 
+Social, and Governance (ESG) challenges and 
+Sustainable Development Goals (SDGs).
+Additionally, Karnataka has expanded its Global 
+Innovation Alliances (GIA) initiative, enabling 
+startups to access global markets and collaborate 
+with innovation hubs worldwide. Under GIA, the 
+state has established international partnerships 
+with over 30+ countries, positioning Karnataka’s 
+startups on a global stage.
+Bengaluru, labeled India’s tech capital, stands as a 
+leading hub for the country’s thriving information 
+technology sector. The “Silicon Valley of India,” as 
+it is widely recognized, hosts over 13,000 start-
+ups (as of 2024), across sectors such as 
+information technology, fintech, edtech, 
+Healthtech, AgriTech, mobility, and DeepTech.
+According to the Global StartupBlink Index 2025, 
+Bengaluru now ranks 10th among the top 20 
+startup cities globally, marking a significant rise in 
+its international standing. It leads among Asian 
+cities featured in the top 20, with New Delhi and 
+Mumbai following at 11th and 18th positions 
+respectively. This achievement underscores 
+Bengaluru’s growing influence as a global 
+innovation powerhouse and reinforces its position 
+as India’s premier startup ecosystem.
+Bengaluru’s thriving startup ecosystem, fueled by 
+innovation and strong investor confidence, has 
+secured $71.19 billion funding between 2014 to 
+2024, strengthening its position as the top 
+destination for venture capital inflows. Remarkably, 
+50% of all funded startups in India originate from 
+Bengaluru, highlighting its unmatched ability to 
+attract investments, nurture entrepreneurship, 
+and accelerate groundbreaking innovations.
+With a dynamic mix of DeepTech, SaaS, fintech, 
+and AI-driven startups, Bengaluru continues to 
+strengthen its global reputation as a technology 
+powerhouse and a launchpad for unicorns and 
+decacorns, driving India’s digital economy 
+forward.
+As a state, Karnataka is open, future-ready and 
+grounded in inclusive innovation.
+
+
+--- PDF PAGE 11 ---
+
+02
+POLICY RATIONAL
+i. To position the state as a global innovation hub, fostering a vibrant and supportive ecosystem for 
+nurturing startups throughout their lifecycle. 
+ii. To provide resources, mentorship, and infrastructure desired to drive sustainable growth and 
+technological advancements.
+i. Through this policy Karnataka seeks to establish up to 25,000 additional startups, out of 
+which upto 10,000 startups emerging from clusters Beyond Bengaluru. By expanding the 
+entrepreneurial footprints, the initiative helps the state to enhance its role as a leading 
+innovation hub. 
+ii. Encourage innovation in Artificial Intelligence, blockchain, quantum computing, and other 
+deep- tech fields to position the state as a leader in emerging and advanced technologies. 
+iii. Expand innovation hubs, incubation centers, and co-working spaces to support entrepreneurs 
+across different regions. 
+iv. Strengthen international collaborations, trade partnerships, and global networking 
+opportunities for startups to expand their reach. 
+v. Enable investment opportunities for startups by facilitating access to institutional and angel 
+investors while leveraging government-backed financial support. 
+vi. Support the development of incubation and acceleration facilities to serve as key enablers in 
+strengthening the startup ecosystem. 
+vii. Facilitate innovative solutions in social governance sectors, leveraging the ESG framework to 
+solve pressing environmental and social issues while aligning with Sustainable Development 
+Goals (SDGs). 
+viii. Encourage solutions that address social challenges by integrating impact-driven business 
+models for boosting social entrepreneurship.
+2.1 Vision
+2.2 Mission
+
+
+--- PDF PAGE 12 ---
+
+The startup journey is marked by distinct stages 
+each with its own challenges, opportunities, and 
+critical decisions. To foster sustainable growth 
+and innovation, tailored support mechanisms are 
+essential at every phase. From the spark of an 
+idea in the seed stage to international expansion 
+and IPO readiness in the late expansion phase, 
+startups require a well curated combination of 
+support such as funding, mentorship, 
+infrastructure, and market access. The following 
+breakdown outlines the type of support available 
+across the startup lifecycle, ensuring founders 
+have the tools and guidance needed to navigate 
+and thrive in this dynamic ecosystem  
+ z Stage 1: Seed Stage:
+• Ideation Grants / Grant-in-Aid:  Non-equity 
+funding to build MVPs or conduct feasibility 
+studies.
+• Mentoring & Coaching: Guidance on business 
+model, product-market fit, and team building.
+• Incubation Support:  Access to co-working 
+spaces, basic infrastructure, and 
+administrative support.
+• Technical Support:  Help with prototyping, 
+product design, and early tech stack 
+decisions.
+• Networking Events:  Exposure to other 
+founders, early-stage investors, and domain 
+experts.
+• Legal & IP Support: Assistance with company 
+registration, IP filing, and compliance basics  
+ z Stage 2: Early Stage: 
+• Seed Funding / Angel Investment:  Initial 
+capital to build and launch the product.
+• Accelerator Programs: Structured programs 
+offering mentorship, funding, and demo days.
+• Preferential Market Access:  Help with pilot 
+projects, early adopters, and B2B/B2G 
+connections.
+• Business Development Mentoring:  Sales 
+strategy, pricing models, and customer 
+feedback loops.
+• Internship & Talent Access: Connecting with 
+students and professionals for hiring.
+• Branding & Marketing Support:  Guidance on 
+digital marketing, PR, and go-to-market 
+strategy.
+  Stage 3: Growth Stage:
+• Venture Capital Funding  for scaling teams, 
+marketing, and operations.
+• Advanced Mentoring: Strategic guidance on 
+scaling, leadership, and international 
+expansion.
+• Market Expansion Support:  Entry into new 
+geographies or sectors, export readiness 
+(Including international)
+• Technology Upgradation Support:  
+Automation tools, booster support
+• Corporate Partnerships:  Collaborations with 
+large enterprises for distribution or co- 
+development.
+• Regulatory & Compliance Advisory: Help 
+with sector-specific regulations
+  Stage 4: Late Expansion:
+• Private Equity / Strategic Investment:  
+Support for large-scale funding for 
+acquisitions or global expansion.
+• IPO Readiness Support:  Legal, financial, and 
+operational preparation for public listing.
+• Global Market Access:  Trade missions, 
+international expos, and cross-border 
+partnerships.
+• Advanced Mentoring:  M&A Advisory (for 
+mergers, acquisitions, or strategic 
+partnerships); Corporate governance and risk 
+management
+To ensure its offerings align with the 
+evolving needs of startups, the Karnataka 
+Startup Policy has modularized its 
+programs and initiatives in coordination 
+with the stages of the startup lifecycle. 
+Government aims to strengthen 
+Karnataka’s startup ecosystem through 7 
+essential pillars for implementing targeted 
+initiatives to foster innovation, growth, and 
+sustainability. Each of the Seven policy 
+pillars is designed to provide targeted 
+support at key inflection points:
+2.3.1. Support Mechanism for Startup Lifecycle
+2.4 Essential Pillars for Holistic Development
+
+
+--- PDF PAGE 13 ---
+
+i. Pillar 1: Funding and Grants:  A vital pillar 
+that provides financial backing for early-
+stage startups, offering grants, funding, 
+and subsidies to foster innovation, 
+scalability, and long-term sustainability. It 
+ensures entrepreneurs have access to 
+essential resources, enabling them to 
+develop pioneering ideas and drive 
+business growth.
+ii. Pillar 2: Incubation and Infrastructure: 
+Essential in fostering a thriving startup 
+ecosystem. Karnataka shall invest in 
+state-of-the-art incubation centers, Centre 
+of Excellence and R&D hubs to provide 
+startups with essential resources and 
+support. Additionally, initiatives such as 
+public-private partnerships under this 
+pillar, shall drive innovation by enabling 
+startups to access cutting-edge 
+technology and industry expertise.
+iii. Pillar 3: Mentoring and Skill Development: 
+Cornerstone for fostering innovation and 
+entrepreneurship in Karnataka’s startup 
+ecosystem. Funding for specialized 
+training program, subsidies for industry 
+certification, grants for startup-focused 
+skilling initiatives, incubation-linked 
+training grants and mentorship-driven 
+financial support shall help nurture the 
+next generation startup leaders.
+iv. Pillar 4: Market Access and Expansion: 
+Key for startups aiming to scale and enter 
+new regions. The state shall facilitate 
+global partnerships, government 
+procurement incentives that support 
+startups to reach wider audiences and 
+strengthen their market presence.
+v. Pillar 5: International Collaboration and 
+access: It promotes global engagement 
+by facilitating international partnerships, 
+cross-border innovation, and access to 
+overseas markets. Through targeted 
+strategic initiatives, startups gain exposure 
+to global ecosystems, mentorship, and go-
+to-market support. These efforts aim to 
+position Karnataka-based startups for 
+international competitiveness, attract 
+foreign investment, and foster knowledge 
+exchange across borders.
+vi. Pillar 6: Inclusion and Sustainability: This 
+shall encourage startups and young 
+entrepreneurs to leverage disruptive 
+technologies and innovative business 
+models to address pressing social impact 
+challenges. Tailored funding programs, 
+grants for women-led and rural ventures, 
+and support for grassroots 
+entrepreneurship shall foster inclusivity 
+and drive community-driven innovation.
+vii. Pillar 7: Regulatory Facilitation: This aims 
+to streamline regulatory processes for 
+startups by promoting simplified 
+compliance, single-window clearances, 
+and proactive engagement with relevant 
+authorities. Through targeted measures, 
+Karnataka seeks to create a business-
+friendly environment that reduces 
+bureaucratic hurdles and accelerates 
+startup growth.
+
+
+--- PDF PAGE 14 ---
+
+03
+POLICY PILLARS
+Launched in 2017, the ELEVATE program by the 
+Government of Karnataka, is a flagship program 
+designed to support and fund idea to PoC stage 
+innovative startups in the state. ELEVATE creates 
+a thriving entrepreneurial environment by 
+facilitating mentorship, incubation, legal aid, and 
+connections to investors. This initiative facilitates 
+seamless integration with Department supported 
+K-Tech Hubs including incubation and 
+acceleration centers and Centers of Excellence 
+(CoEs) to provide startups with access to 
+mentorship, incubation and ecosystem 
+integration.
+This holistic support system not only fosters 
+innovation but also contributes to job creation 
+and talent development, solidifying Karnataka’s 
+reputation as a dynamic startup hub.
+The government is committed to fostering 
+entrepreneurship and driving innovation through 
+dedicated funding support:
+• A one-time Grant-in-Aid of up to INR 50 Lakhs 
+is being provided for startups in need of 
+early-stage seed funding to transform their 
+ideas into a proof-of-concept.
+• A greater focus will continue to be given to 
+emerging sectors, by allocating 10% of the 
+Elevate Grant-In-Aid Scheme for startups 
+working in Deep Tech, Assistive Technology 
+and Sustainable Development Goals (SDGs) 
+including Circular Economy, Renewable 
+Energy / Sustainability / Climate Change.
+• Recognized startups under this scheme will 
+continue to receive mentoring and incubation 
+support at subsidized rates from government-
+backed incubation centers, assisting them in 
+product development and validation.
+The Department of E, IT & Bt, along with the 
+Department of Social Welfare, supports an 
+initiative to empower SC and ST entrepreneurs by 
+identifying and supporting startups under the 
+Scheduled Caste Sub Plan (SCSP) and Tribal Sub 
+Plan (TSP) schemes. This program is designed to 
+provide comprehensive support across various 
+stages of the startup lifecycle, ensuring equitable 
+opportunities for entrepreneurs from marginalized 
+communities.
+The program aims to reduce barriers, enhance 
+competitiveness, and drive economic 
+empowerment for SC and ST entrepreneurs, 
+contributing to a more inclusive startup landscape 
+in Karnataka. The approach fosters long-term 
+economic empowerment by enabling sustainable 
+and scalable ventures. It plays a crucial role in 
+building a more inclusive and representative 
+startup ecosystem in Karnataka, where innovation 
+thrives across all social and economic 
+backgrounds.
+Through this initiative, selected startups will 
+receive grant-in-aid support of up to INR 50 lakhs, 
+enabling them to develop and scale their 
+businesses effectively. In addition to financial 
+assistance, the program offers mentoring, 
+incubation support, market access, and other 
+essential enablers to foster sustainable growth.
+3.1 Pillar 1: Funding and Grants
+3.1.1 Idea2PoC Grant-in-Aid Scheme- ELEVATE
+3.1.2 ELEVATE Unnati
+
+
+--- PDF PAGE 15 ---
+
+• The Rajiv Gandhi Entrepreneurial Program 
+aims to nurture early-stage innovators, 
+especially recent graduates, through financial 
+support and structured mentorship. RGEP 
+helps transform raw ideas into viable 
+prototypes, encouraging a shift from job-
+seeking to job-creating mindsets. This 
+initiative strengthens innovation and 
+contributes to a more vibrant, youth-driven 
+entrepreneurial landscape in the state.
+• RGEP provides early-stage funding support, 
+offering a monthly stipend of INR 25,000 for 
+12 months to selected entrepreneurs. The 
+program aims to help them develop 
+prototypes, minimum viable products 
+(MVPs), or proofs of concept, reducing 
+financial barriers and encouraging new 
+business creation. RGEP seeks to shift young 
+professionals away from traditional job-
+seeking toward innovation-driven enterprises.
+• Entrepreneurs selected under this program 
+receive mentorship and incubation support 
+at government-backed Innovation Hubs, 
+ensuring structured guidance throughout 
+their 12-month journey.
+• This ensures that only the most promising 
+ideas receive support, helping Karnataka 
+build a strong foundation for cutting-edge 
+businesses in sectors such as technology, 
+sustainability, and assistive solutions.
+The government recognizes the significant role 
+of startups in advancing the circular economy, 
+improving resource efficiency through reuse, 
+recycling, and refurbishment of natural resources. 
+By driving demand for sustainability-focused 
+products, startups contribute to a more resilient 
+and eco-conscious market. To connect innovative 
+business technology solutions and address 
+demanding Environmental, Social, and 
+Governance (ESG) challenges, key government 
+department such as Urban Development, 
+Transport, Energy, Agriculture, Ecology & 
+Environment, Animal Husbandry, Revenue, 
+Health, and Women & Child Welfare will work 
+collaboratively to identify societal issues that 
+startups can solve through technology-driven 
+interventions.  
+Additionally, Smart Governance challenges will 
+be introduced in partnership with ‘Center for 
+e-Governance, DPAR’ aiming to enhance 
+government service delivery and operational 
+efficiency by integrating cutting- edge innovations 
+from emerging startups.
+• Every year, up to three challenges shall be 
+launched with collaborative funding from 
+Government Departments and Corporates, 
+providing startups with an opportunity to 
+develop innovative solutions. The winners 
+will be receiving an initial grant of INR 10 
+Lakhs to test and demonstrate their ideas, 
+followed by additional funding of INR 50 
+Lakhs for full-scale deployment, ensuring 
+impactful and sustainable implementation.
+• The Department of E, IT and Bt, in collaboration 
+with other Government Departments, aims to 
+promote CSR investments under the 
+Companies Act in projects aligned with 
+Sustainable Development Goals (SDGs). 
+These include Renewable Energy, 
+Sustainability, and Climate Change 
+technology-driven solutions that create long-
+term transformative value and drive 
+sustainable growth. To support startups, the 
+same funding pattern as previous initiatives 
+will be adopted.
+• By bridging the gap between public 
+challenges and startup innovation, GCK 
+fosters a culture of problem-solving 
+entrepreneurship and strengthens 
+Karnataka’s position as a hub for mission-
+driven startups.
+The Karnataka Information Technology Venture 
+Capital Fund (KITVEN Fund) serves as the nodal 
+agency managing a dedicated venture capital 
+fund of INR 100 crores aimed at nurturing high-
+potential startups in emerging and deep tech 
+sectors. The fund will support innovation across 
+domains such as Artificial Intelligence, Machine 
+Learning, Electric Vehicles, MedTech, Robotics, 
+Drones, and other transformative technologies.
+3.1.3 Rajiv Gandhi Entrepreneurial Program (RGEP)
+3.1.4 Grand Challenges Karnataka (GCK)
+3.1.5 Venture Capital Fund
+
+
+--- PDF PAGE 16 ---
+
+The government is committed to fostering the 
+growth of startups Beyond Bengaluru Urban 
+District by providing funding support through the 
+Beyond Bengaluru Cluster Seed Fund. This 
+initiative focuses on emerging technology 
+clusters in Beyond Bengaluru region, wherein 
+startups are supported to scale up and expand 
+their innovations effectively. It will support early-
+stage startups by providing critical seed capital, 
+mentorship, and access to investor networks and 
+helps in bridging urban-rural innovation, 
+encourages local entrepreneurship, and nurturing 
+region-specific solutions.
+The Government of Karnataka will establish a 
+Fund of Funds totaling INR 500 crores to support 
+startups developing innovative solutions with 
+longer gestation periods. This initiative aims to 
+provide sustained financial support to startups 
+working on innovations, scientific research and 
+high-impact projects.
+The primary aim of this Fund of Funds will be to 
+support startups from Beyond Bengaluru 
+emerging clusters towards innovation and 
+ecosystem development.
+The Government of Karnataka is set to launch a 
+special program, expanding on the success of 
+the flagship ELEVATE grant-in-aid program. This 
+initiative aims to support startups across the 
+state focusing on DeepTech in key sectors such 
+as, but not limited to AI, Biotechnology, Quantum 
+Computing, Advanced Materials, Climate tech, 
+Space tech, etc.
+A significant amount has been allocated over the 
+next five years to support call for applications, 
+ensuring at least one call per year. The funding 
+distribution will be determined based on the 
+quality and volume of applications. By providing 
+critical financial support, the program seeks to 
+drive innovation, accelerate commercialization, 
+and scale transformative solutions, reinforcing 
+Karnataka’s position as a global DeepTech hub 
+while promoting high-value job creation and 
+attracting international investments
+Elevate Beyond Bengaluru will be a key initiative 
+by the Government of Karnataka to foster startup 
+growth and innovation in tier-2 and tier-3 cities. 
+By expanding opportunities Beyond Bengaluru’s 
+established tech ecosystem, the program aims to 
+create a thriving, multi-city innovation hub. It 
+fosters regional innovation clusters, encourages 
+problem-solving, and promotes inclusive 
+economic development. This decentralized 
+approach will drive new business opportunities, 
+generate high-value jobs, and strengthen 
+Karnataka’s overall startup landscape.
+Over the next five years, budget has been 
+allocated to support at least one call per year. 
+This structured approach ensures sustained 
+financial backing for promising startups 
+particularly those Beyond Bengaluru, promoting a 
+decentralized innovation landscape.
+In essence, the ELEVATE Beyond Bengaluru 
+initiative plays a crucial role in spreading the 
+advantages of Karnataka’s dynamic startup 
+ecosystem to regions Beyond Bengaluru, 
+fostering balanced growth and empowering 
+entrepreneurs across the state.
+A dedicated fund of INR 10 crores has been 
+established to support research, development 
+and commercialization of innovative ideas, 
+empowering startups to transform their concepts 
+into market-ready products.
+This initiative will support startups, providing 
+consistent financial assistance for pioneering 
+technologies and scalable innovations. This 
+ensures sustained growth and promotes the 
+development of impactful solutions in the 
+entrepreneurial ecosystem.
+3.1.6 Beyond Bengaluru Cluster Seed Fund
+3.1.7 Fund of Funds
+3.1.8 ELEVATE NXT
+3.1.9 ELEVATE Beyond Bengaluru
+3.1.10 Research and Translation Fund
+
+
+--- PDF PAGE 17 ---
+
+Partnering with private companies to provide 
+alternate funding support can be a game-changer 
+for startups in Karnataka, especially those 
+navigating the early and growth stages. Beyond 
+traditional government grants and public sector 
+schemes, strategic collaborations with 
+corporates—ranging from CSR funds and 
+innovation challenges to co-investment models—
+shall be focused upon such that this unlocks 
+flexible, sector-specific capital.
+In addition to this, partnerships designed to 
+provide the following shall be explored:
+• Mentorship from seasoned business leaders 
+and domain experts tailored to startup needs.
+• Market access and go-to-market support  to 
+help startups scale effectively.
+• Fundraising assistance  by connecting 
+startups with relevant investors, including 
+angels, micro funds, and institutions.
+• Startup events  across Karnataka, offering 
+platforms for showcasing innovations, 
+networking, and investor engagement.
+Such partnerships shall not only diversify the 
+funding landscape but also bring valuable 
+industry linkages, market insights, and credibility 
+that boost investor confidence. By tapping into 
+corporate networks and resources, startups can 
+accelerate their product development, pilot new 
+solutions, and scale with sustained momentum, 
+strengthening Karnataka’s position as a leading 
+innovation hub.
+Karnataka has set up multiple Centres of 
+Excellence (CoEs) to strengthen the startup 
+ecosystem by driving innovation and supporting 
+technological advancement across diverse 
+sectors. These CoEs function as specialized 
+hubs that offer startups access to mentorship, 
+state-of-the-art infrastructure, funding 
+opportunities and industry linkages enabling 
+them to scale efficiently and competitively.
+Some key CoEs in the state have been built in 
+association with academic institutions, industry 
+bodies etc. These include Wired and Wireless 
+Technology (IISC), Quantum Research Park (IISC), 
+CoE in Agritech (C-CAMP), Animation, Visual 
+Effects, Gaming and Comics (ABAI), Efficiency 
+Augmentation (STPI), Cyber Security (IISC), 
+Center of Excellence in Aqua Marine Innovation 
+(NUCSER, Mangalore), Fintech (IIMBx, NSRCEL), 
+Center for Ethical Things (IIIT-B, WEF), Internet of 
+Things (NASSCOM), Machine Learning and 
+Robotics (IIITB), Center for Design (FSID, IISC), 
+Semiconductor Design Fabless Accelerator 
+(IESA), (NASSCOM 10K), Machine Intelligence & 
+Robotics, Med-tech.
+Government of Karnataka working towards 
+developing new CoEs in strategic areas like 
+Space Technology, Gaming and Deeptech. Six 
+additional CoEs will be established across the 
+state during the policy period to foster 
+entrepreneurship and innovation across various 
+sectors.
+The State Government will extend support to 
+private incubators and accelerators in 
+establishing state- of-the-art incubation centers. 
+To facilitate this, a one-time capital grant of up to 
+50% or INR 50 Lakhs (whichever is less) for fixed 
+cost investments, excluding land and building, 
+will be provided for setting up incubators in 
+emerging technology clusters across the state.
+Furthermore, support will be extended to nurture 
+early-stage startups through structured 
+programs. Through this, the Department shall 
+extend support across diverse sectors including 
+Software, IT Services, Deftronics, Biotechnology, 
+Semiconductors, Telecom, and Electronic 
+Manufacturing, while also fostering innovation in 
+cutting-edge deep-tech areas such as Quantum 
+Computing, Artificial Intelligence, Machine 
+Learning, Robotics, Advanced Materials, 
+Cybersecurity, Photonics, Blockchain, Space 
+Technology, among others.
+3.1.11 Alternate Investment Bridge
+3.2 Pillar 2: Incubation and Infrastructure Support
+3.2.2  Strengthening and Expanding Startup Incubation Infrastructure
+3.2.1 Ecosystem of Excellence
+3.2.1.1 Assistance for Setting Up New Incubation Centres by Private Entities
+
+
+--- PDF PAGE 18 ---
+
+Government will enhance the capacity of existing 
+incubation centers by offering one-time capital 
+grant of 50% of Fixed Cost Investment (excluding 
+land and building) with a ceiling of INR 25 Lakhs, 
+whichever is lower, for scaling up infrastructure 
+such as upgradation/expansion of workstations, 
+interiors, labs etc. of the facility which helps in 
+ensuring a robust incubation ecosystem for 
+startups.
+To support the growth and development of 
+startups, the government will partner with 
+stakeholders to establish a virtual incubation 
+platform. This initiative aims to provide incubation 
+services as per global standards, ensuring that 
+startups can access service from anywhere. The 
+platform will offer services including incubation, 
+mentoring, seed financing, access to labs, 
+production facilities, investor outreach and 
+connect, entrepreneurial tool kits and detailed 
+analytics. In addition, it will integrate key 
+ecosystem enablers such as investors, 
+incubators, accelerators and policymakers to 
+strengthen overall entrepreneurial landscape.
+The allocated budget of INR 80 crores will support 
+the establishment of up to six new accelerators 
+and incubators, while also strengthening up to 
+fifteen existing facilities, including private 
+incubators across the Beyond Bengaluru region. 
+These hubs will serve as key enablers for early-
+stage startups, providing structured programs 
+that include education, mentorship and access to 
+funding.
+Startups will be encouraged to participate in 
+these accelerators and incubators for a defined 
+period, receiving tailored guidance to help them 
+transition into scalable, high-growth businesses. 
+By strategically expanding and reinforcing such 
+facilities in emerging clusters, the government 
+aims to accelerate startup development, driving 
+innovation and economic growth Beyond 
+Bengaluru.
+3.2.1.2 Incubation Centers Support for Upgradation/Expansion
+3.2.1.3 Virtual Incubation and Mentorship Connect Platform
+3.2.3 Dedicated Incubator and Accelerator Hub for Emerging 
+Startups - Beyond Bengaluru
+Growth Labs aims to position Karnataka at the 
+forefront of cutting-edge technology, driving 
+breakthroughs in research and development, and 
+attracting investments. It also aims to build 
+globally benchmarked infrastructure and nurture 
+talent-rich ecosystem that extends Beyond 
+Bengaluru. The six identified tech clusters will be 
+categorized into two broad clusters:
+• Cluster A: Mysuru, Mangaluru, Tumkur
+• Cluster B:  Hubbali-Dharwad, Kalaburagi, 
+Shivamogga
+This classification will ensure tailored support 
+and strategic interventions to foster innovation 
+and entrepreneurship, driving growth Beyond 
+Bengaluru’s established startup ecosystem.
+The state will establish 2 new growth labs, one in 
+each cluster to support startup with incubation 
+and innovation space.
+The initiative is designed to accelerate the 
+development of high-potential startups by 
+providing them with structured support in scaling 
+their operations. It acts as a catalyst for growth-
+stage ventures by offering access to expert 
+mentorship, market linkages, investor networks, 
+and tailored business development strategies.
+3.2.4 Growth Labs
+
+
+--- PDF PAGE 19 ---
+
+To cultivate innovation and creativity among 
+students, Innovation Labs will be set up in schools 
+and colleges across Beyond Bengaluru. These 
+labs will provide a dynamic, hands-on learning 
+environment in STEM fields, encouraging 
+curiosity and problem-solving through state-of-
+the-art resources.
+These labs will be equipped with advanced tools 
+such as 3D printers, robotics kits, and IoT devices, 
+students will have the opportunity to experiment, 
+prototype, and develop solutions for real-world 
+challenges. By fostering technological 
+exploration, these labs aim to nurture a new 
+generation of innovators and entrepreneurs 
+Beyond Bengaluru’s established tech hubs. These 
+labs shall provide a collaborative environment 
+equipped with advanced infrastructure, expert 
+mentorship, and access to funding and industry 
+networks.
+Karnataka is set to strengthen its innovation 
+ecosystem by establishing prototype labs in 
+Beyond Bengaluru region. These labs shall 
+provide startups and small businesses access to 
+cutting-edge R&D facilities, enabling them to 
+develop and test new technologies without the 
+burden of high infrastructure costs. By fostering 
+innovation, generating employment opportunities 
+and driving economic growth in emerging 
+clusters, this initiative will play a vital role in 
+advancing Karnataka’s digital economy and 
+technological landscape
+Government aims to facilitate region wise 
+connect between NAIN centers and External 
+Incubators/ Accelerators (herein after referred to 
+as Project Monitoring Unit (PMU) or an ‘Anchor 
+Institute’ close to the NAIN centers). Each NAIN 
+center shall be mapped to a selected PMU which 
+shall ensure that all NAIN centers are handheld 
+by the PMU and provided with support in terms of 
+implementation, mentoring, guidance and 
+industry connect for the student projects to help 
+convert proposed ideas to technology-based 
+solutions/working prototypes/entities. A financial 
+support of INR 10 Lakhs per year per NAIN 2.0 
+center will be provided to the PMU.
+The Department has established a Skill Advisory 
+Committee on Emerging Technologies to 
+enhance employability for graduates, larger and 
+focused talent pool aligned with industry needs.
+The member committee aims to bridge the skill 
+gap between industry requirements and 
+Karnataka’s tech workforce. It collaborates with 
+industry leaders, academic professionals, and 
+NAIN 2.0 helps transform student ideas into 
+practical models and startups. This initiative not 
+only decentralizes innovation but also builds a 
+robust pipeline of young entrepreneurs equipped 
+to tackle real- world problems.
+Under the New Age Innovation Network 2.0 (NAIN 
+2.0) scheme, 50 new NAIN centres are being 
+established in technology institutions outside 
+Bengaluru Urban District, with a focus on 
+Government Engineering Colleges. Each institute 
+will be supported to establish incubators to foster 
+innovation and entrepreneurship among 
+students.
+• The initiative includes 35 NAIN 2.0 centres 
+dedicated to IT/Electronics and 15 centres in 
+Biotechnology. Each NAIN 2.0 centre receives 
+funding support of up to INR 5 Lakhs per 
+student project, supporting a maximum of 10 
+projects per year over a three-year period.
+• Additionally, a minimum of two projects per 
+centre must align with Sustainable 
+Development Goals (SDGs), including 
+Circular Economy, Renewable Energy, 
+Sustainability, and Climate Change.
+• To ensure smooth operations, each NAIN 2.0 
+centre will receive an annual financial support 
+of INR 12 Lakhs for operational expenditures, 
+encouraging an environment that nurtures 
+student-driven innovation and technology-led 
+advancements.
+3.2.5 Innovation Labs
+3.2.6 Prototype Labs
+3.3.2 Collaboration with Ecosystem Partners
+3.3.3 Skill Advisory Committee
+3.3 Pillar 3: Mentoring and skill development
+3.3.1 New Age Innovation Network 2.0 (NAIN 2.0)
+
+
+--- PDF PAGE 20 ---
+
+As Global Capability Centres (GCCs) evolve into 
+Innovation Hubs and Centres of Excellence (CoE), 
+the government seeks to maximize their potential 
+by fostering strategic partnerships between 
+GCCs and technology institutions, driving 
+innovation and growth across the state.
+Government of Karnataka has unveiled the Global 
+Capability Centres (GCC) Policy 2024-2029, 
+aiming to establish 500 new GCCs by 2029. This 
+makes Karnataka the first state in India to 
+introduce a dedicated policy for the sector. The 
+initiative is expected to create 3.5 lakhs jobs and 
+generate $50 billion economic output. As part of 
+the Beyond Bengaluru program, the policy 
+promotes decentralized economic growth by 
+encouraging businesses to expand operations in 
+cities like Mangaluru, Mysuru, Hubballi-Dharwad- 
+Belagavi, Kalaburagi, Tumakuru, and Shivamogga.
+The policy highlights sustainability, inclusivity, 
+and workforce empowerment, ensuring 
+Karnataka remains at the forefront of global 
+business transformation.
+To enhance startup participation in government 
+procurement, Government of Karnataka has 
+introduced key amendments to Karnataka 
+Transparency in Public Procurements Act, 1999 
+through the Karnataka Transparency in Public 
+Procurements (Amendment) Rules, 2021. These 
+changes provide general relaxation for startups, 
+facilitate value-based preferential procurement 
+and mandate the adoption of a startup inclusion 
+plan in tender processes across Government 
+Departments, Boards, State PSUs, and other 
+organizations.
+The Preferential Market Access in Public 
+Procurement initiative opens up a valuable 
+market for startups, allowing them to pilot and 
+scale their solutions within government 
+departments. It not only boosts revenue 
+opportunities but also builds reliability and 
+visibility of young entrepreneurs.
+The Karnataka Acceleration Network (KAN) is a 
+flagship initiative by the Government of Karnataka, 
+designed to enhance startup acceleration 
+ecosystem across Karnataka and extend the 
+assistance to startups, especially from outside 
+Bengaluru Urban District. This six-month program 
+equips growth-stage startups with the necessary 
+tools for scaling, business strategy, market 
+validation, customer acquisition and investment 
+preparedness. In addition to structured 
+mentorship, startups will gain access to 
+infrastructure support and market linkages, 
+providing them with a strong foundation for 
+growth and long-term success.
+• To further strengthen the startup ecosystem, 
+the Karnataka Acceleration Network will be 
+established at a cost of INR 50 crores, in 
+collaboration with the Central Government 
+and entrepreneurs. Out of this, INR 20 crores 
+shall be provided by the State Government. 
+This shall enable global engagement and 
+international expansion for startups in order 
+to enhance their competitive edge.  
+• KAN aims to accelerate startup growth, 
+enhance business performance, and assist 
+entrepreneurs in venture capital fund raising, 
+acquisition exits, and customer traction by 
+encouraging innovation and entrepreneurship. 
+• Priority will be given to startups focused on 
+Sustainable Development Goals (SDGs), 
+particularly in areas such as Circular 
+Economy, Renewable Energy, Sustainability, 
+and Climate Change, to drive impactful and 
+innovative solutions.
+3.4 Pillar 4: Market Access and Expansion
+3.4.1 Global Capability Centres (GCC)
+3.4.2 Preferential Market Access in Public Procurement
+3.4.3 Karnataka Acceleration Network (KAN)
+training institutions to design market-oriented 
+skill development programs in cutting-edge fields 
+such as Generative AI, Metaverse, Sustainable 
+Computing, Flexible Electronics, and Wearable 
+Sensors.
+The Committee will provide policy 
+recommendations, conduct industry trend 
+analysis, and develop actionable strategies to 
+ensure Karnataka remains future-ready in 
+emerging technologies
+
+
+--- PDF PAGE 21 ---
+
+Curated as a tool for enablement under NAIN 2.0, 
+the Technology Transfer Organisation aims to be 
+a key facilitator of technology transfer, fostering 
+innovation, entrepreneurship, and industrial 
+partnerships that drive social and economic 
+growth in Karnataka, contributing to India’s 
+overall development.
+• This involves managing, protecting, and 
+commercializing intellectual property (IP), 
+nurturing a culture of innovation and 
+entrepreneurship, and establishing strong 
+industry, government, and stakeholder 
+connections to promote technology transfer 
+and commercialization.
+• The initiative supports the creation of 
+startups and spin-offs, helping innovators 
+transform their ideas into successful 
+ventures.
+• Each Project Monitoring Unit (PMU)/Anchor 
+Institute will receive a consolidated budget of 
+up to INR 25 Lakhs. The funds will be 
+allocated across various expenditure heads, 
+including setup and infrastructure, IP filing 
+costs, outreach and promotional activities, 
+training and capacity building and any other 
+The Government of Karnataka will actively host 
+and support a diverse range of events to position 
+the state as a global innovation hub while 
+fostering emerging technology ecosystems 
+Beyond Bengaluru. These high-impact events will 
+strengthen regional innovation, attract 
+investments, and position Karnataka as a leader 
+in technology-driven economic growth.
+In addition to organizing its own events, the 
+government will collaborate and sponsor 
+prominent events across the state. This strategic 
+involvement will provide startups, ecosystem 
+partners, and stakeholders with valuable 
+exposure, networking opportunities, and 
+participation benefits, further accelerating 
+Karnataka’s innovation-driven economy.
+To drive entrepreneurship Beyond Bengaluru, the 
+government will host up to five hackathons 
+annually, providing a collaborative space for 
+developers, designers, domain experts, and 
+investors to develop innovative solutions for 
+regional challenges.
+These hackathons will play a crucial role in 
+strengthening the startup ecosystem by fostering 
+creativity, highlighting local talent and attracting 
+interest from larger organizations and investors. 
+Additionally, participants will gain hands-on 
+experience in coding, prototyping, marketing, and 
+pitching, equipping early- stage entrepreneurs 
+with the skills needed to transform their ideas 
+into scalable businesses.
+Under this initiative, state will conduct bootcamps 
+in Beyond Bengaluru emerging clusters which 
+will serve as a key driver in building a vibrant 
+entrepreneurial ecosystem. These sessions will 
+focus on equipping entrepreneurs with essential 
+skills in business planning, financial management, 
+digital marketing and technology adoption. 
+Through mentorship from industry experts, 
+interactive workshops and valuable network 
+opportunities, bootcamps will provide startups 
+with necessary guidance to refine their strategies,
+tackle challenges and scale their operations 
+effectively. This program will play a crucial role in 
+strengthening entrepreneurial ecosystem in 
+emerging regions.
+The Global Innovation Alliances (GIA) initiative by 
+the Government of Karnataka is designed to 
+deepen strategic ties with leading global 
+innovation hubs and create pathways for startups 
+to expand internationally. Through programs like 
+the GIA Market Access Initiative and the GIA Tech
+3.4.4 Technology Transfer Organisation (TTO)
+3.4.5 High Impact Events for Strengthening Innovation
+3.4.6 Hackathons
+3.4.7 Bootcamps
+3.5 Pillar 5: International collaboration and access
+3.5.1 Global Innovation Alliance Connect (GIA)
+
+
+--- PDF PAGE 22 ---
+
+Emerging venture particularly from the Beyond 
+Bengaluru region, shall be provided with market 
+access and event participation support enabling 
+them to take part in key industry events, trade 
+shows, and domestic/international expos, 
+offering valuable opportunities to showcase 
+innovations, connect with potential investors, 
+and explore new markets.
+By facilitating access to these platforms, the 
+initiative aims to enhance global visibility, foster 
+strategic partnerships, and accelerate the growth 
+and expansion of Karnataka-based startups. This 
+support is a critical component of the state’s 
+commitment to build a globally competitive, 
+inclusive, and innovation- driven startup 
+ecosystem.
+3.5.2 Market Access and Event Participation
+Engagement Meet, the government showcases 
+Karnataka’s most promising startups, equipping 
+them with the tools, exposure, and opportunities 
+needed to enter global markets and adopt 
+advanced technologies.
+The government’s active collaboration with 
+international organizations and foreign 
+governments provides startups with unparalleled 
+access to new markets, cross-border 
+partnerships, and global investor networks. 
+Regular consultations with key stakeholders 
+including industry bodies, academic institutions, 
+and startups—help shape emerging technologies 
+and business models aligned with global trends.
+To enhance global investor engagement, the 
+State actively facilitates venture capital pitching 
+opportunities through curated platforms and 
+international forums. These high-impact sessions 
+enable startup founders to showcase their 
+innovations to global venture capitalists and 
+strategic investors, fostering visibility and access 
+to international funding. Continued engagement 
+with global companies further strengthens co- 
+development initiatives, technology transfer, and 
+strategic partnerships positioning Karnataka as a 
+globally connected innovation hub. Preference 
+will be accorded to proposals aligned with the 
+State’s Global Alliance Partners, ensuring deeper 
+integration with international innovation 
+ecosystems.
+GIA Program Structure – Three Strategic Pillars
+i. G2G Engagement Focuses on government-
+to-government partnerships to broaden 
+Karnataka’s collaboration with global 
+technology hubs.
+ii. Global Expansion for Startups Executes soft-
+landing programs for startups in Karnataka 
+and GIA partner countries, enabling smoother 
+entry into international ecosystems.
+iii. Institution to Institution Engagement / 
+Innovation Exchange Facilitates institution to 
+institution partnerships, connecting 
+Karnataka’s innovation stakeholders with 
+counterparts in GIA partner nations.
+Key Activities Under GIA
+• Signing of MoUs and LoIs with partner 
+countries
+• Facilitation of official inbound delegations
+• Global roadshows to promote international 
+partnerships
+• GIA MAP – Outbound exploratory programs 
+for startups
+• GIA Mixer – Country-specific networking and 
+pitch events
+• Webinars – Knowledge-sharing and virtual 
+engagements with global partners
+This initiative reflects Karnataka’s commitment 
+to building a globally connected innovation 
+ecosystem, empowering startups to scale beyond 
+borders and compete on the world stage.
+Through this initiative the Department of E, IT and 
+Bt, has already linked with over 30+ GIA Country 
+Partner and 60+ engagements, cultivating a truly 
+international platform for entrepreneurship and 
+innovation.
+
+
+--- PDF PAGE 23 ---
+
+The Grassroot Innovation Programme in 
+Karnataka is designed to identify, support, and 
+promote grassroot-level innovations, particularly 
+those with a rural impact. The initiative focuses on 
+bottom-up solutions that address local challenges, 
+improve socio-economic conditions, and enhance 
+the standard of living in rural communities.
+• The government currently allocates INR 5 
+crores to support the identification, evaluation, 
+and commercialization of grassroot 
+innovations developed by farmers, artisans, 
+laborers, technicians, and other innovators, 
+enabling them to create practical solutions for 
+local challenges.
+• Grassroot innovators are provided financial 
+assistance of up to INR 4 lakhs for feasible 
+projects. The program supports innovators 
+from diverse backgrounds, including farmers, 
+artisans, laborers, and technicians, helping 
+them refine their technologies and 
+commercialize their solutions.
+• Key areas of focus include agriculture, 
+healthcare, environmental sustainability, 
+education, social impact, and technological 
+advancements.
+• The initiative aims to strengthen rural 
+innovation ecosystems, improve access to 
+infrastructure, and foster collaborations 
+between urban and rural innovators, ensuring 
+inclusive and sustainable development.
+3.6 Pillar 6: Inclusion and Sustainability
+3.6.1 Grassroot Innovation
+The government plans to set up a Rural Innovation 
+Centre at a government academic institution 
+Beyond Bengaluru, with funding support of up to 
+INR 15 crores. This initiative will be implemented 
+in collaboration with local ecosystem partners, 
+including incubators, accelerators, and premier 
+academic institutes. The centre aims to 
+strengthen the regional entrepreneurial 
+ecosystem, fostering the growth of grassroots 
+and rural startups by providing essential 
+resources, mentorship, and infrastructure.
+1.   Self-Certification: Startups will be allowed to 
+submit self-certifications in the prescribed 
+formats under the relevant acts and regulatory 
+frameworks, ensuring compliance while 
+minimizing practical barriers. This streamlined 
+process will be facilitated through the Karnataka 
+Startup Cell, enabling startups to focus on growth 
+and innovation while maintaining regulatory 
+adherence.
+a. The Factories Act 1948
+b. The Maternity Benefit Act 1961
+c. The Karnataka Shops & Commercial 
+Establishments Act 1961
+d. The Contract Labour (Regulations & 
+Abolition) Act 1970
+e. The Payment of Wages Act, 1936
+f. The Minimum Wages Act 1948
+g. The Employment Exchanges (Compulsory 
+Notification of Vacancies) Act 1959
+h. General permission shall be available for 
+3-shift operations with women working in the 
+night for startups, subject to such units 
+taking the prescribed precautions in respect 
+of safety and security of employees in 
+addition to providing the required welfare and 
+health amenities as prescribed under 
+applicable labour laws and oBtaining the 
+necessary approvals from the competent 
+authority of the Government under the 
+Karnataka Shops and Commercial 
+Establishments Act and Rules or the Factories 
+Act 1948 and Rules, there under as the case 
+may be.
+2.   To foster a more startup-friendly environment, 
+the Department of Electronics, IT, Bt and S&T, 
+through the Karnataka Startup Cell, offers 
+dedicated regulatory facilitation support to 
+emerging ventures. This includes streamlining 
+the startup registration process and providing 
+hands-on assistance in claiming government 
+incentives. Acting as a single-window interface, 
+the department helps startups to efficiently 
+navigate documentation, eligibility verification, 
+and compliance procedures. By simplifying 
+workflows and ensuring timely approvals, the 
+government aims to minimize administrative 
+hurdles and empower startups to emphasis on 
+innovation, product development, & scaling their 
+businesses.
+3.6.2 Rural Innovation Center
+3.7 Pillar 7: Regulatory Facilitation
+
+
+--- PDF PAGE 24 ---
+
+3.   To ensure a smooth and compliant exit 
+process, the Department will provide support to 
+startups in completing necessary formalities. 
+This includes guidance on updating their status, 
+assistance with closing incentive claims, and 
+coordination with relevant government 
+departments to fulfill regulatory and 
+documentation requirements. The department 
+aims to make the exit process transparent, 
+efficient, and hassle-free allowing startups to 
+conclude operations responsibly while 
+maintaining compliance with state regulations.
+The Department has launched INNOVERSE- a 
+first of its kind innovation and incubation centre 
+focused on DeepTech. INNOVERSE is envisaged 
+to be a game-changer for Karnataka’s startup 
+ecosystem. Government of Karnataka has 
+allocated INR 50 crores towards the establishment 
+of INNOVERSE which will bring together startups, 
+academia, industry leaders, and government 
+bodies to drive DeepTech innovation. INNOVERSE 
+will focus on domains like SpaceTech, Defence, 
+HealthTech, ClimateTech, Quantum Computing, 
+and AI, to build products and solutions for future 
+problems.
+Incubated startups will be benefited from access 
+to advanced infrastructure, strategic mentorship, 
+funding opportunities, and global networks 
+enabling them to scale faster and compete 
+globally. The centre will also foster IP creation 
+and R&D, strengthening Karnataka’s position as a 
+global leader in DeepTech entrepreneurship. 
+Also, this initiative will deepen the state’s 
+innovation capacity, attract high-value 
+investments, and catalyze the growth of a future-
+ready startup ecosystem.
+The Centre for Applied AI and Tech Solutions 
+(CATS) is a strategic initiative by the Government 
+of Karnataka, aimed at advancing Artificial 
+Intelligence (AI) research and its practical 
+applications across various sectors. CATS will be 
+established jointly by Government of Karnataka, 
+Government of India and Corporate to position 
+Karnataka as a leader in AI-driven governance, 
+industry solutions, and emerging technology 
+adoption.
+By fostering collaboration between startups, 
+academia, research institutions, and industry 
+leaders, CATS aims to accelerate AI adoption, 
+attract investments, and strengthen Karnataka’s 
+position as a global AI hub.
+Also, CATS offers a launchpad to develop and 
+commercialize AI-driven solutions by providing 
+access to cutting-edge infrastructure, expert 
+mentorship, and collaborative opportunities with 
+academia and government.
+Integrates digital technologies into traditional 
+fine arts education. In Phase-I, 27 colleges have 
+been transformed into digital art centers, 
+providing students with training in tools like 
+Adobe Photoshop and Blender. The program has 
+successfully placed over 150 students in the 
+digital arts industry.
+In Phase-II of the DAC, additional 30 new colleges 
+will be given assistance to setup digital art 
+centers.
+By integrating Digital Art education into academic 
+institutions, the centers bridge the gap between 
+academia & industry, fostering early-stage 
+innovation and entrepreneurship.
+The Department is set to launch Propel - an 
+innovative online platform designed to bridge the 
+gap between startups & key stakeholders, 
+including government departments, corporates, 
+& Global Capability Centres. It serves as a 
+dynamic matchmaking hub, enabling startups to 
+display their solutions, gain visibility, and access 
+potential partnerships for business growth & 
+market expansion.
+4.1 INNOVERSE
+4.2 Center for Applied AI and Tech Solutions (CATS)
+4.3 Digital Art Center (DAC)
+4.4 Propel
+04
+SPECIAL INITIATIVES
+
+
+--- PDF PAGE 25 ---
+
+To drive the transition towards a Circular Economy 
+and create a more sustainable society, the 
+Government of Karnataka, led by the Department 
+of E, IT and Bt, will establish multidepartment 
+consortium to design and implement targeted 
+interventions across key areas, ensuring effective 
+strategies for advancing sustainability and 
+innovation. This initiative focuses on
+• Creating spaces for experimentation and 
+partnerships
+• Facilitating access to finance
+• Stimulating demand through government 
+participation
+• Establishing incubators for circular economy 
+projects, building stakeholder networks
+• Conducting awareness programs and 
+promoting public-private partnerships.
+To support these efforts, INR 5 crores has been 
+allocated for key interventions.
+Additionally, a dedicated Resource Centre will be 
+set up to encourage and support Circular 
+Economy Innovation Startups, with funding of up 
+to INR 50 lakhs during the policy period. This 
+centre will offer insights, networking 
+opportunities, and expert-led guidance. The 
+government will also launch an annual 
+acceleration program with a funding support of 
+INR 40 lakhs per cohort, aimed at startups 
+developing products and services aligned with 
+Sustainable Development Goals (SDGs), including 
+Renewable Energy, Sustainability, Climate 
+Change, and Circular Economy. Through these 
+measures, Karnataka aims to strengthen its 
+leadership in sustainable innovation and drive 
+impactful change across emerging sectors
+Through this portal, startups can connect with 
+industry experts, explore funding opportunities, 
+and collaborate on problem-solving initiatives 
+that address sector-specific challenges. By 
+developing strategic engagements and 
+knowledge exchange, the platform accelerates 
+the adoption of emerging technologies, 
+strengthens the startup ecosystem, and drives 
+innovation across industries.
+Digital Clinics will play a vital role in nurturing 
+innovation and ensuring sustainable growth for 
+startups in Beyond Bengaluru regions. These shall 
+aim to empower entrepreneurs with essential 
+financial and legal knowledge, these clinics will 
+provide structured guidance on legal operations, 
+bookkeeping, credit access, digital payments, 
+financial management, government schemes, and 
+securing funding through digital platforms. By 
+addressing key challenges faced by startups, the 
+initiative will enable them to build a strong 
+foundation for long-term success in the digital 
+economy.
+The Digital clinics may also procure digital tools 
+relevant to startups in their growth journey. Tools 
+procured by the clinics may be given to startups at 
+a subsidized rate to help reduce the overall cost 
+burden of such tools for startup in their initial 
+days. Digital clinics will be funded by the 
+department and will support the startups from 
+Beyond Bengaluru region.
+The Startup Karnataka Booster Kit is a strategic 
+initiative designed to empower startups by 
+providing access to essential tools, resource and 
+service that accelerate growth. It offers startups a 
+power-packed collection of software tools and 
+services at a special price, tailored to meet the 
+needs of early-stage ventures.
+Startups registered under Karnataka Startup Cell 
+can avail benefits such as cloud services, virtual 
+telephony, incubation support, marketing 
+assistance, legal and accounting aid, mentorship 
+and government pilot opportunities. This initiative 
+aligns with the state’s vision to support startups 
+from Beyond Bengaluru region, promoting women-
+led entrepreneurship and enhance sector specific 
+ecosystem.
+The Karnataka Innovation Authority (KIA) Act 
+2020 is enacted to promote and regulate 
+innovative technologies across the state, fostering 
+a dynamic environment for emerging businesses 
+and entrepreneurs. One of its key provisions is the 
+establishment of “Regulatory Sandboxes” which
+4.5 Circular Economy
+4.6 Digital Clinics
+4.7 Booster Kit Partners
+4.8 Karnataka Innovation Authority (KIA) Act 2020 for Startups
+
+
+--- PDF PAGE 26 ---
+
+provide innovators with a temporary exemption 
+window to experiment with new technologies. 
+This mechanism allows the state to observe 
+these innovations, assess their impact and 
+introduce necessary legislative changes to 
+support future advancements.
+To encourage startup participation and ensure a 
+supportive framework, the government will offer 
+fiscal assistance under the policy:
+• Sandbox operators supporting a minimum of 
+five startups will receive a 50% reimbursement 
+on processing fees for establishing regulatory 
+sandboxes.
+• Startups participating in regulatory 
+sandboxes will be eligible for a 75% 
+reimbursement on application fees, enabling 
+them to explore new technologies with 
+reduced financial barriers.
+By facilitating regulatory experimentation, this 
+initiative strengthens Karnataka’s position as a 
+hub for innovation-driven entrepreneurship.
+Springboard is a flagship initiative by the 
+Government of Karnataka, launched as part of 
+the Bengaluru Tech Summit, to strengthen the 
+startup ecosystem by facilitating direct 
+engagement between emerging ventures and 
+global investors. It serves as a dynamic platform 
+that bridges the gap between startups, mentors, 
+and venture capital networks, fostering innovation 
+and scale. Key features and objectives driving 
+Springboard’s role in startup empowerment:
+• Mentor–Mentee Connect Springboard 
+enables structured interactions between 
+experienced industry mentors and startup 
+founders. These sessions help refine 
+business models, improve investor readiness, 
+and guide startups through critical growth 
+stages.  
+• Investor Meetups & Pitch Session is a 
+platform that hosts curated pitch events 
+where selected startups present their ideas 
+to venture capitalists, angel investors, and 
+family offices. These meetups are designed 
+to unlock funding opportunities and build 
+long-term strategic partnerships.
+• Product Launch Support Startups can 
+leverage Springboard to showcase new 
+products, gain market visibility, and receive 
+feedback from investors and industry 
+experts. This exposure helps validate 
+offerings and accelerate go-to-market 
+strategies.  
+• Global Exposure & Strategic Capital Access 
+Springboard also facilitates international 
+collaboration, helping startups connect with 
+foreign investors and innovation hubs. This 
+positions Karnataka-based ventures for IPO 
+readiness, M&A opportunities, and global 
+expansion.
+The initiative is designed to catalyze innovation 
+across emerging sectors such as fintech, 
+healthtech, gaming, and cleantech. Springboard 
+empowers startups to refine their business 
+models, secure funding, and gain market visibility.
+By integrating global venture capital networks 
+and fostering cross-border collaboration, it aims 
+to position Karnataka as a premier destination 
+for venture capital activity in Asia, enabling 
+startups to scale sustainably & compete on a 
+global stage.
+Startups having solutions which can solve social 
+issues in collaboration with state departments 
+will be supported with necessary handholding 
+and stakeholder introduction so that they 
+participate in tender and EoIs with certain 
+relaxations to make them eligible.
+Startups having proven technologies seeking 
+support in developing their product/solution will 
+be supported to carry out such activities. 
+Preference will be given to products and services 
+which are aimed at solving social issues.
+4.9 Springboard – Venture Capital Connect Platform
+4.10 Government First
+4.11 Karnataka Avishkaar Nidhi
+
+
+--- PDF PAGE 27 ---
+
+a. WEscalate: WEscalate is a dual incubation 
+and acceleration program to support women 
+led startups in becoming investment-ready. 
+Incubators and Accelerators are mapped 
+based on their ability to implement region-
+specific programs, with each cohort focusing 
+on a sector like Biotech, AgriTech, MedTech/
+Healthtech and Cleantech. Startups that 
+successfully complete the incubation phase 
+are eligible for funding in the acceleration 
+phase, with a minimum of 30% transitioning 
+forward.  
+The program aims to nurture early-stage 
+women entrepreneurs and accelerate the 
+growth of women-led startups, ensuring they 
+scale effectively. Over a period of 1 year, this 
+program supports 30 women led startups in 
+2 cohorts with 15 startups per cohort. By 
+implementing two cohorts annually with 
+support from Incubators/Accelerators, this 
+initiative strives to create a more inclusive 
+startup ecosystem in Karnataka.  
+b. Incubation Program: The Incubation Program 
+is designed to help early-stage women 
+entrepreneurs turn their ideas into business. 
+Over six months, 15 selected startups receive 
+business skills training, mentoring, peer 
+learning, market and customer analysis, 
+business plan development, pitch preparation, 
+and investor connections. This hybrid model 
+(onsite + virtual) will emphasize personalized 
+mentoring to ensure tailored support.  
+The Department contributes up to INR 20 
+lakhs per cohort as a grant-in-aid to run the 
+incubation program. After successful 
+completion, based on the performance, 
+decision will be taken on funding follow- up 
+grant for acceleration program. A provision 
+for setting up women led incubator will also 
+be created under the policy which will be 
+implemented based on the feasibility study. 
+c. Acceleration Program:  Startups that 
+complete 6-month incubation program 
+graduate to acceleration program for another 
+6 months. This program focuses on market 
+validation, securing funding, and expanding 
+market access.      
+Allocation of fund up to INR 30 lakhs per 
+cohort, including an INR 8.7 lakhs deployment 
+grant is provided. This grant is distributed 
+among the top three startups based on their 
+performance, enabling them to implement 
+their products or services effectively. 
+Incubators and accelerators are encouraged 
+to leverage corporate networks for matching 
+grants, with a strong emphasis on social 
+deployment projects.
+4.12 Support for Women Entrepreneurship
+Kannada language development in the tech space 
+is integral to the State’s continued leadership in 
+information technology. As per the National 
+Education Policy 2020 narrative, the curriculum 
+and pedagogy, will be redesigned to be strongly 
+rooted in the local context and ethos in terms of 
+culture, traditions, heritage, customs, language, 
+philosophy, geography, ancient and contemporary 
+knowledge, societal and scientific needs, 
+indigenous and traditional ways of learning etc.
+Government intends to collaborate and promote 
+startups that will work on tech solutions in 
+Kannada language. The objective of this initiative 
+is to ensure easy adaptability of Kannada language 
+for digital software/technology platforms, enable 
+adoption of AI-aided translation, transliteration, 
+transcription (speech to text), and other services 
+between English and Kannada, Kannada and other 
+languages and mentor connect for Kannada 
+language technology usage and advocacy.
+4.13 Promoting technologies in local language
+
+
+--- PDF PAGE 28 ---
+
+Startups can avail the following standard package of incentives and offerings during the policy period.
+5.1 Reimbursement of State GST
+5.2 Patent Subsidy
+5.3 Global Karnataka
+Category
+Category
+Incentive
+Incentive
+Reimbursement 
+of State GST
+Patent Subsidy
+Global 
+Karnataka
+50% of Net SGST for 7 Years with cap of 100% of Fixed Capital 
+Investment (FCI) from the date of commencement of 
+commercial production. Applicable for all the startups 
+across the state.
+Financial support amounting to 75% of actual expenses, 
+subject to a maximum of ₹15 lakhs per year during the policy 
+period. A maximum of five (5) claims per year shall be 
+permitted, applicable to both domestic and international 
+patent filings.
+• Immediate reimbursement of 60% out of 75% of 
+expenses, shall be provided for actual expenses incurred 
+towards statutory and official government patent filing 
+charges, upon validation of proof of submission to 
+recognized patent offices.
+• The remaining 40% out of 75% of expenses, including 
+expenses such as consultancy fees, searches, and 
+related documentation, shall be disbursed upon 
+verification of relevant supporting documents.
+• Startups participating in international events, 
+conferences, trade shows and similar will be reimbursed 
+40% of the total cost incurred on the expenditure. This 
+incentive will be subject to a maximum of INR 5 Lakhs per 
+year per startup during the policy period.
+• Startups exhibiting in state supported Events and 
+conferences will be provided with 50% of the exhibiting 
+cost upfront to reduce the initial cost outflow to the 
+participants.
+05
+FISCAL INCENTIVES 
+& CONCESSIONS
+Category Incentive
+
+
+--- PDF PAGE 29 ---
+
+5.4 Quality Certification Cost Reimbursement
+5.5 Reimbursement of PF/ESI
+5.6 Cloud Storage
+5.7 Research and Development Project Grants
+5.8 Internship Support
+Category
+Category
+Category
+Category
+Category
+Incentive
+Incentive
+Incentive
+Incentive
+Incentive
+Quality Certification 
+Cost Reimbursement
+Reimbursement of 
+PF/ESI
+Cloud Storage
+Research and 
+Development 
+Project Grants
+Internship Support
+50% reimbursement of cost of quality certification fee with 
+an overall ceiling of INR 6 Lakhs (with maximum of 5 industry 
+standard quality certifications) during the policy period.
+Reimbursement of Provident Fund (PF) / Employees State 
+Insurance (ESI) of INR 3,000 per employee per month for the 
+first two years of employment. This incentive shall be 
+applicable for new jobs created and capped at INR 12 lakhs 
+per company during the policy period.
+• Startups within the first five years of incorporation will be 
+eligible for a 40% reimbursement, up to INR 1 lakh per 
+year, on expenses incurred for cloud computing and 
+storage. This benefit can be availed once during the 
+policy period.
+Up to 50% of the total cost of research project capped at INR 
+1 crore, for the first 25 projects during the policy period. This 
+shall be for supporting R&D projects under Triple Helix Model 
+(industry- academia- startups)
+• Subsidy of up to INR 5000 per month per startup for hiring 
+maximum 3 interns across the state for period up to 6 
+months. This can be availed three times during the policy 
+period.
+• This benefit cannot be clubbed with Yuva Nidhi Scheme
+
+
+--- PDF PAGE 30 ---
+
+6.1 Nodal  Agency- Karnataka Innovation and Technology 
+       Society (KITS) and Karnataka Startup Cell
+06
+ENABLEMENT & 
+FACILITATION
+• Karnataka Innovation and Technology 
+Society  
+KITS is the nodal agency to promote the 
+startup ecosystem in the State and is 
+responsible for facilitating implementation 
+of various schemes, programs, interventions 
+of the policy and any new initiatives required 
+for the growth of the startup ecosystem in 
+the State.
+• Karnataka Startup Cell  
+Constituted under the aegis of KITS, 
+Karnataka Startup Cell is an initiative to 
+promote and facilitate the startup ecosystem. 
+The Karnataka Startup Cell acts as a single 
+point of contact for information on various 
+incentives and offerings, government 
+sponsored events, K-tech ecosystem hubs 
+including CoEs, TBIs, CIFs, Incubators and 
+facilitates industry mentor connect, investor 
+network, etc. The Startup Cell also enables 
+networking through outreach and awareness 
+activities such as participation in International 
+Trade Shows/ Exhibitions events, etc. For  
+developing a more holistic inclusive Startup 
+ecosystem in the State, the Startup Cell shall 
+be further strengthened during this policy 
+period.
+• Karnataka Digital Economy Mission (KDEM) 
+as Facilitator  
+KDEM is a Section 8 Company (not-for-profit) 
+with equity participation by both Industry and 
+Government of Karnataka (Department of E, 
+IT and Bt). KDEM has been setup to promote 
+digital industry growth by providing hand-
+holding services and suggesting policy 
+initiatives to be taken up by the State. KDEM, 
+with dedicated program verticals for Startups 
+and Beyond Bengaluru, has taken several 
+initiatives to promote and facilitate the 
+startup and innovation ecosystem in the 
+State. KDEM will continue to support the 
+Department in implementation of various 
+startup initiatives.
+The new dynamic bilingual Startup portal 2.0 will 
+be designed with enhanced features with an aim 
+to unify and bring together the entire startup 
+ecosystem and processes under one platform. It 
+will also integrate the upcoming LEAP initiatives 
+to provide one stop information for all initiatives 
+by the department.
+The Government has constituted a Vision Group 
+on Startups, comprising leading industry 
+stalwarts and domain experts, to provide 
+strategic direction and thought leadership for 
+strengthening the State’s innovation ecosystem.
+The Group will advise on:
+• Enhancing incubation and acceleration 
+support
+• Establishing global partnerships and 
+strategic alliances
+• Promoting entrepreneurship in emerging 
+technology clusters
+• Implementing an enabling legal and policy 
+framework to foster innovation
+The Vision Group shall recommend actionable 
+strategies to the State Government for the 
+effective implementation of key initiatives aimed 
+at nurturing and scaling the startup ecosystem 
+across Karnataka.
+6.2 Startup Portal 2.0
+6.3 Vision Group on Startups
+
+
+--- PDF PAGE 31 ---
+
+7.1 Eligibility Criteria to avail Incentives and Concessions
+7.2 Sanction Process
+07
+ELIGIBILITY CRITERIA, 
+POLICY VALIDITY AND 
+SANCTION PROCESS
+To avail the policy incentives and concessions, the entity 
+should meet the definition of Startup as per the Startup 
+Policy and must be registered with Karnataka Startup Cell 
+under Karnataka Innovation & Technology Society (KITS), 
+Department of E, IT and Bt, GoK as a Startup.
+A. Definitions of Startups
+As per Gazette Notification No. G.S.R. 108(E), dated 
+February 04, 2026.
+In this notification, —
+a. ‘Startup’ means an entity which:
+i. is incorporated or registered in India as a private 
+limited company (as defined in the Companies Act, 
+2013) or registered as a partnership firm (registered 
+under section 59 of the Partnership Act, 1932) or a 
+limited liability partnership (under the Limited Liability 
+Partnership Act, 2008) or a Multi-State Cooperative 
+Society registered with the Central Registrar of 
+Cooperative Societies (under the Multi-State 
+Cooperative Societies Act, 2002) or a Cooperative 
+Society registered under any State or Union Territory 
+Cooperative Societies Act with the respective Registrar 
+ of Cooperative Societies in India;    
+ii. is within a period of ten years from the date of its 
+incorporation or registration;  
+iii. has a turnover for any of the financial years since 
+incorporation or registration not exceeding two 
+hundred crore rupees; and  
+iv. is working towards innovation, development or 
+improvement of products or processes or services, or 
+is a scalable business model with a high potential of 
+employment generation or wealth creation.
+Deeptech Startup Definition:
+Provided that, in the case of an entity recognised as a ‘Deep 
+Tech Startup’ under this notification:
+a. the period specified in clause (ii) shall be up to twenty 
+years from the date of its incorporation or registration; 
+and
+b. the turnover limit specified in clause (iii) shall be three 
+hundred crore rupees for any of the financial years 
+since incorporation or registration.
+Provided further that,  an entity formed by splitting up or 
+reconstruction of an existing business shall not be 
+considered a Startup.  
+Explanation-
+For the purposes of this notification, an entity shall cease 
+to be a Startup on completion of ten years from the date of 
+its incorporation or registration, or if its turnover for any 
+previous year exceeds two hundred crore rupees.
+Provided that, in the case of an entity recognised as a Deep 
+Tech Startup under this notification, such entity shall cease 
+to be a Deep Tech Startup on completion of twenty years 
+from the date of its incorporation or registration, or if its 
+turnover for any previous year exceeds three hundred
+crore rupees.
+B. Exit Clause
+A startup will cease to receive benefits under this policy on 
+completion of ten years from the date of its incorporation/ 
+registration or if its turnover for any previous year exceeds 
+INR 200 crores.
+Benefits and offerings under this policy shall be 
+extended periodically through dedicated committees 
+constituted for specific purposes. The Operational 
+Guidelines of this policy shall outline the detailed 
+modalities, eligibility criteria, and processes for 
+availing such benefits.
+All schemes and incentives will be administered 
+subject to budgetary provisions and availability of 
+funds during the policy period.
+
+
+--- PDF PAGE 32 ---
+
+ANNEXURE 1: 
+DEFINITIONS
+1. Acceleration Programs: Acceleration programs are short to medium term mentoring programs to 
+support startups with business expansion once they have scaled up from an idea to formal product 
+launch in the market. Startups typically enter accelerator program for a fixed period of time as part 
+of a cohort of companies
+2. Accelerator: An accelerator is typically a three-to-four-month program for startups at early traction 
+and scaling stage. It is a process of intense, rapid, and immersive education aimed at accelerating 
+the growth of the startup. The accelerator may take a set amount of seed equity from the startups 
+in their cohorts in exchange for capital and mentorship.
+3. Angel Investors: Individual wealthy private investor who provide early-stage seed funding to small 
+startups or entrepreneurs. The Angel investor should be registered with SEBI or banks or GoK/GoI 
+approved incubation centers.
+4. Assistive Technology: Assistive technology (AT) is any item, piece of equipment, software program, 
+product system, or service that is used to increase, maintain, or improve the functional capabilities 
+of persons with disabilities or older people, or people with gradual functional decline as defined by 
+WHO, thereby promoting their well-being.
+5. Beyond Bengaluru: Used to describe cities/areas in Karnataka outside Bengaluru (Urban) District
+6. Circular Economy Startups: Startups who qualify to be part of Circular Economy Startups Innovation 
+are defined as those startups that have solutions contributing to circular economy model which 
+involves sharing, leasing, reusing, repairing, refurbishing, reducing and recycling of existing materials 
+and products as long as possible. The technology enabled innovative solution should be aligned to 
+the principles of circular economy to tackles challenges like climate change, biodiversity loss, waste, 
+and pollution etc.
+7. DeepTech:  
+a. To understand a deep tech startup, we must first understand what a deep tech startup isn’t, then 
+identify parameters that define a deep tech startup. A non-deep tech startup typically relies 
+predominantly on the business model as its differentiating factor or moat, rather than science and 
+technology as the underlying competitive edge. It is based on easily producible or replicable 
+technologies without significant advancements.  
+b. A deep tech startup involves early-stage technologies based on scientific or engineering 
+advancements, which are yet to be developed for any commercial applications.  
+c. A deep tech startup typically produces a solution along an unexplored pathway based on new 
+knowledge within a scientific or engineering discipline or by combining knowledge from multiple 
+disciplines.  
+d. The above two factors enable deep tech startups to create and own Intellectual Property (IP), 
+which is its distinguishing parameter from non-deep tech startups  
+e. A deep tech startup carries a large technical or scientific uncertainty and hence presents a large 
+opportunity or risk depending upon whether it succeeds.
+
+
+--- PDF PAGE 33 ---
+
+f. A deep tech startup is characterized by extended development timelines and requires high capital 
+intensity.  
+g. Complexity: They have complex technical solutions that have the potential to redefine or create 
+new markets  
+h. At the Intersection of Technologies: They may leverage more than one technology to solve 
+problems.
+Note: The definition of a startup as outlined in the Karnataka Startup Policy will be applicable for the 
+ELEVATE X grant-in-aid scheme.
+8. Emerging Technologies:  Emerging technologies are new technologies whose development or 
+practical applications, or both are still largely inherent, such that they are emerging into eminence 
+from a background of nonexistence or ambiguity. Emerging technologies are often anticipated as 
+capable of changing the status quo.
+9. Entity: A Private Limited Company (as per the Companies Act 2013), a Registered Partnership Firm 
+(under the Partnership Act, 1932) or Limited Liability Partnership (under the Limited Liability 
+Partnership Act, 2008)
+10. Grassroot Innovation or Innovation with Rural Impact:  Startups who qualify to be part of Grassroot 
+or Rural Innovations are defined as those startups that lead bottom-up solutions for sustainable 
+development; solutions that respond to local situation / interest / values of rural communities and are 
+aimed at improving the socio-economic condition/ ease of living and standard of living of the rural 
+communities
+11. Incubator:  
+a. New Incubator: An incubator should have a minimum 7,500 sq ft area and should be an incubation 
+facility for a minimum 50 seats. The incubator should have provision to provide necessary 
+infrastructure to startups such as plug & play facilities, meeting/conference rooms/office space or 
+shared services, high-speed internet access, etc. The Incubator shall also provide various services to 
+startups such as mentors, training, funding, legal services, accountancy services, technical assistance, 
+networking activities, marketing assistance etc.  
+b. Expansion/ Upgradation of Incubator: An incubator increasing its capacity by additional 2,500 sq 
+ft area, and incubation facility for a minimum 25 additional seats or more.
+12. Innovation Regulatory Sandbox:  An innovation regulatory sandbox is a regulatory approach, 
+customarily epitomized in writing and published, that allows conscious, time bound testing of 
+innovations under a regulator’s oversight
+13. K-Tech Ecosystem:  The State boasts of a vast tech ecosystem comprising Innovation Hubs, 
+Incubators, Centres of Excellence, Technology & Business Incubators, Common Instrumentation 
+Facilities, NAIN Institutions etc.
+14. New Age Innovation Network (NAIN) 2.0:  New Age Innovation Network (NAIN) centres established 
+by Government under the Startup Policy 2022.
+15. Reimbursement: Compensation given by the State/ public body/ organization for a defined expense 
+by giving them an amount equal to what was agreed upon.
+16. Renewable Energy, Climate change, Sustainability Startups:  Startups who qualify to be part of 
+Renewable Energy, Climate change, Sustainability startups Innovation are defined as those startups 
+with innovative technology solutions addressing critical innovation gaps in the Renewable Energy,
+
+
+--- PDF PAGE 34 ---
+
+Climate change, Sustainability Innovation sector.  
+17. Sandbox Operator: The Sandbox Operator under the Karnataka Innovation Authority Act is defined as 
+‘An agency or instrumentality of the Government of Karnataka, notified by the Authority under Section 
+13 of KIA Act to oversee and implement a Regulatory Sandbox.
+18. Seed Funding: Seed capital is the initial funding used to begin the creation of a business or a new 
+product. Seed capital is used to develop a business idea to the point that it can be presented effectively 
+to venture capital firms that have large amounts of money to invest.
+19. Subsidy: Subsidy is a sum of money granted by the state or a public body to help an industry or business 
+to keep the price of a commodity or service low.
+20. Technology Business Incubators (TBIs):  Incubating facility in an institution of higher learning and 
+provides services such as business advice, financial counseling, assistance with business management 
+and accounting, legal and regulatory guidance, access to mentors etc., in addition to physical 
+infrastructure appropriate for the thrust area for the incubator.
+21. Venture Capital: Venture Capital firms invest in startups at a later stage. Startups with a potential to 
+grow, need a certain amount of investment. Wealthy investors like to invest their capital in such 
+businesses with a long-term growth perspective. This capital is known as venture capital and the 
+investors are called venture capitalists.
+22. Venture Capital Funds: Investment funds that manage money from investors seeking equity stakes in 
+startups with robust growth potential. These investments are characterized as high-risk/high-return 
+opportunities.
+23. Women Entrepreneurship: Any entity meeting and qualifying the definition as per the Government Order 
+ITBt 09 PRM 2021, dated 18.06.2021.
+“Women Entrepreneurship -Any entity having women as founder or co-founder (individual or 
+group of women) with minimum 51% stake in the entity and qualifying the definition of a Startup 
+as per the prevailing Karnataka Startup Policy”.
+This definition shall be applied for giving preference in seed Funding, Venture Funding and Public 
+Procurement Policy for Startups.
+However, Startups with women founder/co-founder having less than 51% stake and giving at least 
+51% employment opportunities to women in the Startup entity, shall be considered for availing 
+other benefits such as government sponsored incubation support, acceleration support, capacity 
+development workshops, mentorship and so on.
+
+
+--- PDF PAGE 35 ---
+
+
+
+
+--- PDF PAGE 36 ---
+
+
+
+
+--- PDF PAGE 37 ---
+
+K A R N A T A K A
+Startup Policy
+Contacts:
+Karnataka Innovation and Technology Society
+(KITS)Department of Electronics, IT, BT and S&T
+Government of Karnataka
+No. 59, 3rd Floor, BKG Sapphire Building,
+Railway Parellel Road, Kumara Park West,
+Bengaluru - 560020
+Office Phone: 080-22231006, 22231008 
+Email: md.ktech@karnataka.gov.in,
+mdkbits@gmail.com
+2025-2030

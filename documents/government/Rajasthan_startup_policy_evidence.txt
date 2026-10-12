@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Rajasthan
+Policy identified: Rajasthan Startup Policy 2022
+Policy period: 2022-2027
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Rajasthan_State_Report.pdf
+
+EVIDENCE SUMMARY
+Startup India's 2026 Rajasthan State Report states that the Rajasthan Startup Policy 2022 is implemented through iStart Rajasthan. It provides ideation grants up to Rs. 2.4 lakh, with additional support for women-led startups, viability grants for seed-stage startups, scale-up funding, and a Startup Equity Fund with matching investment up to Rs. 5 crore per startup. It also describes reimbursement/subsidy support for patents, marketing and quality certification.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

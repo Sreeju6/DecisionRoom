@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: West Bengal
+Policy identified: West Bengal Startup Policy
+Policy period: 2016-2021
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/West-Bengal-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India identifies the West Bengal Startup Policy as effective through December 2021. The accessible policy summary records mentoring assistance, infrastructure/capital assistance for entrepreneurship development centres, and patent incentives for eligible incubated startups. Because the listed policy period has ended, these should be treated as historical evidence rather than current benefits.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

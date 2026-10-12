@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Uttarakhand
+Policy identified: Uttarakhand State Startup Policy-2023
+Policy period: 2023-2028
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/startup-scheme/state-startup-policies/uttarakhand_state_startup_policy.html
+
+EVIDENCE SUMMARY
+Startup India's current state-policy directory lists Uttarakhand State Startup Policy-2023 for 2023-2028. The accessible detailed Startup India page is an older Uttarakhand policy summary and records monthly allowance, marketing assistance, patent reimbursement, stamp-duty support, SGST reimbursement, infrastructure support and need-based assistance. These detailed benefits are retained as historical policy evidence unless verified against the 2023 document.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

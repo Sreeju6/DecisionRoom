@@ -1,0 +1,689 @@
+{
+  "target_state": "Tamil Nadu",
+  "decision_question": "Should a women-led, early-stage climate-tech startup in Tamil Nadu apply for TANSEED funding under the Tamil Nadu Startup and Innovation Policy 2023, and what risks, eligibility conditions, and alternative funding options should it consider before applying?",
+  "generated_at": "2026-10-12T16:11:57+05:30",
+  "data_agent": {
+    "success": true,
+    "target_state": "Tamil Nadu",
+    "state_evidence": {
+      "State/UT": "Tamil Nadu",
+      "2020": 772,
+      "2021": 1107,
+      "2022": 1811,
+      "2023": 2816,
+      "2024": 2656,
+      "Total_Startups_2020_2024": 9162,
+      "Startup_Growth_2020_2024": 1884,
+      "Growth_Percentage": 244.04145077720204,
+      "Funding_Records": 112.0,
+      "Unique_Startups": 77.0,
+      "Total_Funding_USD": 2675023000.0,
+      "Average_Funding_USD": 23884133.93,
+      "Median_Funding_USD": 1397000.0,
+      "Funding_Data_Available": true
+    },
+    "state_ranking": {
+      "State/UT": "Tamil Nadu",
+      "Total_Startups_2020_2024": 9162,
+      "Growth_Percentage": 244.04145077720204,
+      "Total_Funding_USD": 2675023000.0,
+      "Funding_Data_Available": true,
+      "Startup_Base_Rank": 6,
+      "Startup_Growth_Rank": 9,
+      "Funding_Rank": 5
+    },
+    "comparable_states": [
+      {
+        "State/UT": "Telangana",
+        "Total_Startups_2020_2024": 6763,
+        "Growth_Percentage": 120.87912087912088,
+        "Total_Funding_USD": 1707975000.0,
+        "Funding_Data_Available": true
+      },
+      {
+        "State/UT": "Haryana",
+        "Total_Startups_2020_2024": 6707,
+        "Growth_Percentage": 108.55421686746988,
+        "Total_Funding_USD": 3122328000.0,
+        "Funding_Data_Available": true
+      },
+      {
+        "State/UT": "Gujarat",
+        "Total_Startups_2020_2024": 11630,
+        "Growth_Percentage": 290.9194097616345,
+        "Total_Funding_USD": 2462396000.0,
+        "Funding_Data_Available": true
+      },
+      {
+        "State/UT": "Delhi",
+        "Total_Startups_2020_2024": 12626,
+        "Growth_Percentage": 56.9620253164557,
+        "Total_Funding_USD": 3426493000.0,
+        "Funding_Data_Available": true
+      },
+      {
+        "State/UT": "Karnataka",
+        "Total_Startups_2020_2024": 12709,
+        "Growth_Percentage": 78.65990990990991,
+        "Total_Funding_USD": 2561458000.0,
+        "Funding_Data_Available": true
+      }
+    ],
+    "india_market_context": {
+      "Country": "India",
+      "Year": 2024,
+      "GDP_Growth_Percent": 7.09927893176518,
+      "GDP_USD": 3760813470500.86,
+      "Internet_Users_Percent": 64.9434967,
+      "Population": 1450935791.0
+    }
+  },
+  "research_agent": {
+    "query": "Should a women-led, early-stage climate-tech startup in Tamil Nadu apply for TANSEED funding under the Tamil Nadu Startup and Innovation Policy 2023, and what risks, eligibility conditions, and alternative funding options should it consider before applying? What startup policies, incentives, eligibility conditions, and market-entry support are documented for Tamil Nadu?",
+    "target_state": "Tamil Nadu",
+    "result_count": 5,
+    "results": [
+      {
+        "source": "Tamil_Nadu_Startup_and_Innovation_Policy_2023.txt",
+        "state": "Tamil Nadu",
+        "chunk_number": 41,
+        "similarity": 0.793,
+        "evidence": "aboration with ﬁnancial institutions,\nVenture Capitalists, Angel Investors, and other key stakeholders in the Startup\necosystem. These platforms will be promoted extensively to attract investors from\nacross the globe who are interested in investing in innovative and disruptive Startups\nin Tamil Nadu. By creating these platforms, the State hopes to provide a much-needed\nboost to the Startup ecosystem and drive economic growth.\n7.3.1. Seed Investment\nThe Tamil Nadu Startup Seed Fund (TANSEED) has been revamped to function\nas a Support Equity-linked grant fund scheme that provides early-stage\nStartups with funding of up to Rs. 15 lakh for Rural Impact, Climate Action, and\nWomen-led Startups, and Rs. 10 lakh for other sectors. As a part of the funding,\nStartupTN will take a 3% Support Stake in the Startup ventures and provide\nthem with a one-year accelerator programme that includes mentorship\nsupport, priority access to compliance support services, and various\nnetworking events and initiatives. TANSEED beneﬁciaries may also be\nsupported to participate in government tenders/bids. StartupTN shall earmark\n25% of the total TANSEED assistance to Women-led Startups, and 10% for Rural"
+      },
+      {
+        "source": "Tamil_Nadu_Startup_and_Innovation_Policy_2023.txt",
+        "state": "Tamil Nadu",
+        "chunk_number": 99,
+        "similarity": 0.7518,
+        "evidence": "Medium Enterprises (A) Department, Dated\n26.12.2022, has released a special package of assistance for Women-led Startups.\nThe special package includes ﬁnancial assistance to Women-led Startups under\nTANSEED with assistance of INR 15 lakh and 25% of the total TANSEED beneﬁciary\nis earmarked to Women-led Startups. Additionally, exclusive co-working spaces in\nstate supported incubation centres will be earmarked for Women-led Startups.\nThese facilities will be made available with rent and membership free of cost for\nthe ﬁrst year, subject to a maximum subsidy of INR 2 lakh. Apart from the ﬁnancial\nincentives, mentorship support through Women who had run a business or were\nearlier in top executive positions in a corporate will be facilitated. An exclusive\nannual acceleration program will be conducted for Women-led and FemTech\nStartups.\n46\n--- PDF PAGE 53 ---\nDuring the policy period, the Government of Tamil Nadu aims to make the\nState the leading destination for women-led Startups. Tamil Nadu is already the\ntop state in the country for women entrepreneurship. In order to address the\nchallenges faced by women entrepreneurs in accessing adequate resources,"
+      },
+      {
+        "source": "Tamil_Nadu_Startup_and_Innovation_Policy_2023.txt",
+        "state": "Tamil Nadu",
+        "chunk_number": 42,
+        "similarity": 0.7176,
+        "evidence": "initiatives. TANSEED beneﬁciaries may also be\nsupported to participate in government tenders/bids. StartupTN shall earmark\n25% of the total TANSEED assistance to Women-led Startups, and 10% for Rural\nImpact Startups. TANSEED beneﬁciaries will also have the opportunity to\nparticipate in national and international Startup delegations.\n7.3.1.1. TANSEED\nAccording to the Government Order G.O.(Ms.) No. 49, Micro, Small and Medium\nEnterprises (A) Department, Dated 18.06.2020, the Government of Tamil Nadu\n7.3.1.2. TANSCALE\ncan make investments of up to INR 50 lakh in association with private\ninvestment agencies. Each year, 10 growth-stage Startups will beneﬁt through\nthis scheme. Investments of up to INR 50 lakh will be made for the same equity\nagreed upon by the co-investment partner. A maximum budget of INR 5 crore\nper year will be allotted for this initiative. Reinvesting in more Startups can be\nfacilitated by successful exits.\n7.3. Investment Ecosystem\n--- PDF PAGE 26 ---\nAccording to the Government Order G.O.(Ms.) No. 49, Micro, Small and Medium\nEnterprises (A) Department, Dated 18.06.2020, the Government of Tamil Nadu\n20"
+      },
+      {
+        "source": "Tamil_Nadu_Startup_and_Innovation_Policy_2023.txt",
+        "state": "Tamil Nadu",
+        "chunk_number": 101,
+        "similarity": 0.6911,
+        "evidence": "m areas of women who are aspiring to break\nthe barriers to innovate and scale. In addition, the Tamil Nadu Government in its\nG.O.(Ms.) No. 87 Micro, Small and Medium Enterprises (A) Department, Dated\n26.12.2022, has released a special package of assistance for Women-led Startups.\nThe special package includes ﬁnancial assistance to Women-led Startups under\nTANSEED with assistance of INR 15 lakh and 25% of the total TANSEED beneﬁciary\nis earmarked to Women-led Startups. Additionally, exclusive co-working spaces in\nstate supported incubation centres will be earmarked for Women-led Startups.\nThese facilities will be made available with rent and membership free of cost for\nthe ﬁrst year, subject to a maximum subsidy of INR 2 lakh. Apart from the ﬁnancial\nincentives, mentorship support through Women who had run a business or were\nearlier in top executive positions in a corporate will be facilitated. An exclusive\nannual acceleration program will be conducted for Women-led and FemTech\nStartups.\n47\n7.7.4. Trans People-led and Differently Abled-led Startups\nWith the objective of making the Tamil Nadu Startup Ecosystem"
+      },
+      {
+        "source": "Tamil_Nadu_Startup_and_Innovation_Policy_2023.txt",
+        "state": "Tamil Nadu",
+        "chunk_number": 4,
+        "similarity": 0.685,
+        "evidence": "Ecosystem Report,\n2022. The Indian Startup Ecosystem Report 2022 ranks Chennai as the country’s fourth\ntop Startup hub. Coimbatore, Madurai, Tiruchi, Salem and Vellore are recognised as\nemerging hubs. Overall, Tamil Nadu offers fundamentally sound building blocks\nnecessary to create a distinctive democratic Startup ecosystem. Tamil Nadu has\nwitnessed a notable increase in the number of registered Startups, exceeding 7,000 in\nSeptember 2023 and has attracted signiﬁcant venture capital investments over the\npast two years. Tamil Nadu is now committed to attaining the top ranks in the National\nand International ecosystems, across measures, with the collaborative efforts of various\nstakeholders in the Startup ecosystem.\nThe policy period of the ﬁrst Tamil Nadu Startup and Innovation Policy was\n2018-23. The challenges exposed by the COVID pandemic and the fast-changing\ntechnological landscape now calls for more innovative and vigorous measures to foster\ninnovation and entrepreneurship. Our startups are expected to be not just engines of\neconomic growth; they are game changers in alleviating poverty, reducing inequality\nand increasing social mobility."
+      }
+    ],
+    "candidates_searched": 403,
+    "similarity_threshold": 0.2,
+    "official_verification": {
+      "checked_at": "2026-10-12T16:11:51+05:30",
+      "decision_type": "funding_application",
+      "status": "UNKNOWN — MANUAL CONFIRMATION REQUIRED",
+      "status_code": "UNKNOWN",
+      "current_round_confirmed": false,
+      "current_application_deadline": null,
+      "eligibility_verified": false,
+      "summary": "4/6 configured sources reachable; 0 pages contained TANSEED-specific application signals. Neither reachability nor application wording proves a CURRENT open round. Confirm the latest dated call, deadline, and eligibility with StartupTN.",
+      "sources_checked": [
+        {
+          "name": "StartupTN main website",
+          "url": "https://startuptn.in/",
+          "kind": "official portal",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://startuptn.in/",
+          "content_type": "text/html",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "HTML text extracted"
+        },
+        {
+          "name": "StartupTN TANSEED programme page (may have moved)",
+          "url": "https://startuptn.in/initiative/funding/tanseed",
+          "kind": "programme page",
+          "official": true,
+          "http_status": 404,
+          "reachable": false,
+          "final_url": "https://startuptn.in/initiative/funding/tanseed",
+          "content_type": "text/html",
+          "error": "HTTP 404",
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "No extractable HTML text"
+        },
+        {
+          "name": "StartupTN TANSEED application portal",
+          "url": "https://form.startuptn.in/tanseed",
+          "kind": "application portal",
+          "official": true,
+          "http_status": 404,
+          "reachable": false,
+          "final_url": "https://tanfund.in/startup/sign-up?clid=eyJpIjoiOVVabWxUTlhZQkdwa0xDbmRNcnhfIiwiaCI6IiIsInAiOiIvdGFuc2VlZCIsInQiOjE3OTE4MDE3MTN9.0UYb8OuAOEzlHTI-ghmRZsCq4sewHXycLx3CYJhqB2U",
+          "content_type": "text/html",
+          "error": "HTTP 404",
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "No extractable HTML text"
+        },
+        {
+          "name": "TANFUND portal",
+          "url": "https://www.tanfund.in/",
+          "kind": "funding portal",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.tanfund.in/",
+          "content_type": "text/html",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "HTML text extracted"
+        },
+        {
+          "name": "Startup India Tamil Nadu policy listing",
+          "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html",
+          "kind": "policy listing",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html",
+          "content_type": "text/html; charset=UTF-8",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "HTML text extracted"
+        },
+        {
+          "name": "StartupTN 2023 policy PDF",
+          "url": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+          "kind": "historical policy",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+          "content_type": "application/pdf",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "PDF bytes retrieved; PDF text not parsed by lightweight verifier"
+        }
+      ],
+      "sources_reachable": 4,
+      "sources_total": 6,
+      "tanseed_mentioned_on_any_source": false,
+      "deadline_or_application_signals_found": false,
+      "historical_rounds": [
+        {
+          "edition": "TANSEED 8.0",
+          "reported_deadline": "2025-12-20",
+          "source_url": "https://www.linkedin.com/posts/thestartuptn_startuptn-tanseed-seedfunding-activity-7403007179018215424-shKM",
+          "note": "Dated announcement; historical deadline, not a current application window."
+        }
+      ],
+      "important_limit": "No automated OPEN/CLOSED determination. Historical calls, redirects, general Apply buttons, and network failures are not current scheme evidence."
+    }
+  },
+  "official_verification": {
+    "checked_at": "2026-10-12T16:11:51+05:30",
+    "decision_type": "funding_application",
+    "status": "UNKNOWN — MANUAL CONFIRMATION REQUIRED",
+    "status_code": "UNKNOWN",
+    "current_round_confirmed": false,
+    "current_application_deadline": null,
+    "eligibility_verified": false,
+    "summary": "4/6 configured sources reachable; 0 pages contained TANSEED-specific application signals. Neither reachability nor application wording proves a CURRENT open round. Confirm the latest dated call, deadline, and eligibility with StartupTN.",
+    "sources_checked": [
+      {
+        "name": "StartupTN main website",
+        "url": "https://startuptn.in/",
+        "kind": "official portal",
+        "official": true,
+        "http_status": 200,
+        "reachable": true,
+        "final_url": "https://startuptn.in/",
+        "content_type": "text/html",
+        "error": null,
+        "tanseed_mentioned": false,
+        "tanseed_specific_signals": [],
+        "deadline_signals": [],
+        "content_extraction": "HTML text extracted"
+      },
+      {
+        "name": "StartupTN TANSEED programme page (may have moved)",
+        "url": "https://startuptn.in/initiative/funding/tanseed",
+        "kind": "programme page",
+        "official": true,
+        "http_status": 404,
+        "reachable": false,
+        "final_url": "https://startuptn.in/initiative/funding/tanseed",
+        "content_type": "text/html",
+        "error": "HTTP 404",
+        "tanseed_mentioned": false,
+        "tanseed_specific_signals": [],
+        "deadline_signals": [],
+        "content_extraction": "No extractable HTML text"
+      },
+      {
+        "name": "StartupTN TANSEED application portal",
+        "url": "https://form.startuptn.in/tanseed",
+        "kind": "application portal",
+        "official": true,
+        "http_status": 404,
+        "reachable": false,
+        "final_url": "https://tanfund.in/startup/sign-up?clid=eyJpIjoiOVVabWxUTlhZQkdwa0xDbmRNcnhfIiwiaCI6IiIsInAiOiIvdGFuc2VlZCIsInQiOjE3OTE4MDE3MTN9.0UYb8OuAOEzlHTI-ghmRZsCq4sewHXycLx3CYJhqB2U",
+        "content_type": "text/html",
+        "error": "HTTP 404",
+        "tanseed_mentioned": false,
+        "tanseed_specific_signals": [],
+        "deadline_signals": [],
+        "content_extraction": "No extractable HTML text"
+      },
+      {
+        "name": "TANFUND portal",
+        "url": "https://www.tanfund.in/",
+        "kind": "funding portal",
+        "official": true,
+        "http_status": 200,
+        "reachable": true,
+        "final_url": "https://www.tanfund.in/",
+        "content_type": "text/html",
+        "error": null,
+        "tanseed_mentioned": false,
+        "tanseed_specific_signals": [],
+        "deadline_signals": [],
+        "content_extraction": "HTML text extracted"
+      },
+      {
+        "name": "Startup India Tamil Nadu policy listing",
+        "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html",
+        "kind": "policy listing",
+        "official": true,
+        "http_status": 200,
+        "reachable": true,
+        "final_url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html",
+        "content_type": "text/html; charset=UTF-8",
+        "error": null,
+        "tanseed_mentioned": false,
+        "tanseed_specific_signals": [],
+        "deadline_signals": [],
+        "content_extraction": "HTML text extracted"
+      },
+      {
+        "name": "StartupTN 2023 policy PDF",
+        "url": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+        "kind": "historical policy",
+        "official": true,
+        "http_status": 200,
+        "reachable": true,
+        "final_url": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+        "content_type": "application/pdf",
+        "error": null,
+        "tanseed_mentioned": false,
+        "tanseed_specific_signals": [],
+        "deadline_signals": [],
+        "content_extraction": "PDF bytes retrieved; PDF text not parsed by lightweight verifier"
+      }
+    ],
+    "sources_reachable": 4,
+    "sources_total": 6,
+    "tanseed_mentioned_on_any_source": false,
+    "deadline_or_application_signals_found": false,
+    "historical_rounds": [
+      {
+        "edition": "TANSEED 8.0",
+        "reported_deadline": "2025-12-20",
+        "source_url": "https://www.linkedin.com/posts/thestartuptn_startuptn-tanseed-seedfunding-activity-7403007179018215424-shKM",
+        "note": "Dated announcement; historical deadline, not a current application window."
+      }
+    ],
+    "important_limit": "No automated OPEN/CLOSED determination. Historical calls, redirects, general Apply buttons, and network failures are not current scheme evidence."
+  },
+  "risk_agent": {
+    "target_state": "Tamil Nadu",
+    "decision_type": "funding_application",
+    "risks": [
+      {
+        "category": "Current scheme availability",
+        "severity": "High",
+        "description": "The retrieved policy document describes TANSEED provisions, but the supplied evidence does not confirm whether applications are currently open, the deadline, or the latest scheme rules.",
+        "mitigation": "Check the latest official StartupTN/TANSEED notification and application window before submission."
+      },
+      {
+        "category": "Applicant eligibility and documentation",
+        "severity": "High",
+        "description": "Women-led and climate-action status may be relevant to the policy provisions, but the reports do not verify every legal, registration, stage, sector, or documentation requirement for this applicant.",
+        "mitigation": "Obtain the current eligibility checklist from StartupTN or an authorised incubator and verify each requirement with documents."
+      },
+      {
+        "category": "Funding terms and obligations",
+        "severity": "Medium",
+        "description": "The policy text describes historical equity-linked support terms, including a 3% support stake. The exact current terms and obligations have not been independently confirmed.",
+        "mitigation": "Review the current scheme agreement, support-stake terms, eligible expenses, milestones, reporting duties, and repayment or clawback clauses if any."
+      },
+      {
+        "category": "Evidence of climate impact and use of funds",
+        "severity": "Medium",
+        "description": "The available reports do not establish the startup's measured climate impact, technical validation, budget, or readiness to use grant support.",
+        "mitigation": "Prepare a concise climate-impact case, product evidence, milestones, itemised budget, and measurable outcomes."
+      },
+      {
+        "category": "Alternative funding fit",
+        "severity": "Medium",
+        "description": "The current reports do not compare the applicant's needs with currently available incubator grants, other public programmes, or private investment terms.",
+        "mitigation": "Compare alternatives using eligibility, application timing, dilution/equity, restrictions, amount, and reporting obligations; verify each scheme independently."
+      }
+    ],
+    "risk_count": 5,
+    "note": "Funding risks are distinct from market-entry risks. The risk assessment does not determine eligibility or guarantee an award."
+  },
+  "critic_agent": {
+    "target_state": "Tamil Nadu",
+    "decision_type": "funding_application",
+    "findings": [
+      {
+        "category": "Current scheme status not verified",
+        "finding": "The policy excerpts describe TANSEED provisions but do not confirm the current application window, deadline, budget availability, or latest scheme notification.",
+        "description": "Historical policy text cannot establish that applications are open today or that the same terms still apply.",
+        "suggested_action": "Check the latest official StartupTN/TANSEED notification and record the date and URL of the current guidelines."
+      },
+      {
+        "category": "Eligibility not established",
+        "finding": "The startup is described as women-led, early-stage, and climate-tech, but the supplied evidence does not confirm that it meets every current legal, registration, stage, sector, ownership, or documentation condition.",
+        "description": "A policy category that appears relevant is not the same as confirmed applicant eligibility or a funding award.",
+        "suggested_action": "Compare the applicant's documents against the current official eligibility checklist and confirm unresolved points with StartupTN or an authorised incubator."
+      },
+      {
+        "category": "Funding terms require review",
+        "finding": "The policy text mentions equity-linked support and a 3% support stake, but the supplied reports do not independently confirm current contractual terms or obligations.",
+        "description": "The startup should not assume the quoted amount, support stake, accelerator, or other benefits are available on identical terms today.",
+        "suggested_action": "Obtain the current scheme agreement and review the support stake, permitted uses, milestones, reporting duties, and any other conditions before accepting support."
+      },
+      {
+        "category": "Application readiness and alternatives",
+        "finding": "The reports do not show the applicant's climate-impact measurements, complete application documents, funding requirement, cash-flow plan, or a verified comparison of current alternatives.",
+        "description": "These gaps affect application quality and funding fit; they do not by themselves establish that the startup is ineligible.",
+        "suggested_action": "Prepare an evidence-backed climate-impact summary, milestones, budget, and document checklist while comparing verified incubator, public, and private funding routes."
+      }
+    ],
+    "finding_count": 4,
+    "decision_readiness_concern": true,
+    "note": "Funding critique focuses on current scheme status, eligibility evidence, terms, and application readiness; it does not determine eligibility."
+  },
+  "planner_agent": {
+    "target_state": "Tamil Nadu",
+    "plans": [
+      {
+        "option": "Option 1: Prepare a TANSEED Application",
+        "description": "Prepare an application for the relevant funding scheme after verifying current availability and all eligibility requirements.",
+        "advantages": [
+          "May provide early-stage financial support.",
+          "May provide access to mentoring and an accelerator.",
+          "Could help fund development and validation activities."
+        ],
+        "conditions": [
+          "Confirm that TANSEED applications are currently open.",
+          "Verify the latest eligibility rules and required documents.",
+          "Confirm the startup's legal status, stage, and climate-action eligibility.",
+          "Review the support-stake terms and other funding conditions."
+        ],
+        "risk_level": "Medium"
+      },
+      {
+        "option": "Option 2: Verify Eligibility Before Applying",
+        "description": "Contact StartupTN or an authorised incubator to confirm scheme availability and applicant eligibility before committing resources to an application.",
+        "advantages": [
+          "Reduces the risk of applying under an unsuitable scheme.",
+          "Clarifies eligibility and documentation requirements.",
+          "Allows comparison of suitable funding routes."
+        ],
+        "conditions": [
+          "Obtain the latest official scheme guidelines.",
+          "Confirm application dates, selection criteria, and support terms.",
+          "Prepare evidence of the startup's climate impact and progress.",
+          "Compare the application effort with other funding options."
+        ],
+        "risk_level": "Low"
+      },
+      {
+        "option": "Option 3: Defer TANSEED and Explore Alternatives",
+        "description": "Defer the TANSEED application if eligibility, availability, or required documentation cannot be confirmed, while investigating other suitable options.",
+        "advantages": [
+          "Avoids relying on unverified eligibility assumptions.",
+          "Allows time to strengthen business and impact evidence.",
+          "Enables comparison with incubator grants, angel investment, and other applicable programmes."
+        ],
+        "conditions": [
+          "Identify alternative schemes and independently verify their terms.",
+          "Develop a funding requirement and cash-flow estimate.",
+          "Set a date to reassess TANSEED eligibility and availability."
+        ],
+        "risk_level": "Low initial commitment"
+      }
+    ],
+    "decision_type": "funding_application",
+    "evidence_count": 5,
+    "risk_count": 5,
+    "critique_count": 4,
+    "planning_note": "These are preliminary funding options, not confirmation of eligibility, an open application window, or a funding award. Verify current official requirements before applying."
+  },
+  "final_decision_agent": {
+    "target_state": "Tamil Nadu",
+    "decision_question": "Should a women-led, early-stage climate-tech startup in Tamil Nadu apply for TANSEED funding under the Tamil Nadu Startup and Innovation Policy 2023, and what risks, eligibility conditions, and alternative funding options should it consider before applying?",
+    "decision_type": "funding_application",
+    "recommendation": "VERIFY CURRENT ELIGIBILITY AND SCHEME STATUS BEFORE APPLYING",
+    "preferred_option": "Option 2: Verify Eligibility Before Applying",
+    "confidence": "Low",
+    "confidence_reason": "Current TANSEED availability, application deadlines, and this applicant's detailed eligibility are not verified. Verify them before submitting; this does not mean the startup is ineligible.",
+    "funding_records_available": true,
+    "evidence_count": 5,
+    "high_risk_count": 2,
+    "decision_readiness_concern": true,
+    "risk_summary": [
+      {
+        "risk": "Current scheme availability",
+        "severity": "High",
+        "description": "The retrieved policy document describes TANSEED provisions, but the supplied evidence does not confirm whether applications are currently open, the deadline, or the latest scheme rules.",
+        "mitigation": "Check the latest official StartupTN/TANSEED notification and application window before submission."
+      },
+      {
+        "risk": "Applicant eligibility and documentation",
+        "severity": "High",
+        "description": "Women-led and climate-action status may be relevant to the policy provisions, but the reports do not verify every legal, registration, stage, sector, or documentation requirement for this applicant.",
+        "mitigation": "Obtain the current eligibility checklist from StartupTN or an authorised incubator and verify each requirement with documents."
+      },
+      {
+        "risk": "Funding terms and obligations",
+        "severity": "Medium",
+        "description": "The policy text describes historical equity-linked support terms, including a 3% support stake. The exact current terms and obligations have not been independently confirmed.",
+        "mitigation": "Review the current scheme agreement, support-stake terms, eligible expenses, milestones, reporting duties, and repayment or clawback clauses if any."
+      },
+      {
+        "risk": "Evidence of climate impact and use of funds",
+        "severity": "Medium",
+        "description": "The available reports do not establish the startup's measured climate impact, technical validation, budget, or readiness to use grant support.",
+        "mitigation": "Prepare a concise climate-impact case, product evidence, milestones, itemised budget, and measurable outcomes."
+      },
+      {
+        "risk": "Alternative funding fit",
+        "severity": "Medium",
+        "description": "The current reports do not compare the applicant's needs with currently available incubator grants, other public programmes, or private investment terms.",
+        "mitigation": "Compare alternatives using eligibility, application timing, dilution/equity, restrictions, amount, and reporting obligations; verify each scheme independently."
+      }
+    ],
+    "critique_summary": [
+      {
+        "finding": "Current scheme status not verified",
+        "details": "Historical policy text cannot establish that applications are open today or that the same terms still apply.",
+        "suggested_action": "Check the latest official StartupTN/TANSEED notification and record the date and URL of the current guidelines."
+      },
+      {
+        "finding": "Eligibility not established",
+        "details": "A policy category that appears relevant is not the same as confirmed applicant eligibility or a funding award.",
+        "suggested_action": "Compare the applicant's documents against the current official eligibility checklist and confirm unresolved points with StartupTN or an authorised incubator."
+      },
+      {
+        "finding": "Funding terms require review",
+        "details": "The startup should not assume the quoted amount, support stake, accelerator, or other benefits are available on identical terms today.",
+        "suggested_action": "Obtain the current scheme agreement and review the support stake, permitted uses, milestones, reporting duties, and any other conditions before accepting support."
+      },
+      {
+        "finding": "Application readiness and alternatives",
+        "details": "These gaps affect application quality and funding fit; they do not by themselves establish that the startup is ineligible.",
+        "suggested_action": "Prepare an evidence-backed climate-impact summary, milestones, budget, and document checklist while comparing verified incubator, public, and private funding routes."
+      }
+    ],
+    "justification": "The policy excerpts confirm that TANSEED offers up to Rs.15 lakh for women‑led and climate‑action startups and includes a 3% support stake, but the evidence does not verify whether applications are presently open, the exact deadline, or the latest eligibility checklist. The risk assessment highlights high severity for scheme availability and applicant eligibility. Therefore, the safest course is to first confirm current scheme status and eligibility before investing effort in a full application. Verify current scheme status and eligibility before submitting. Application materials can be prepared in parallel; policy evidence alone does not confirm eligibility.",
+    "evidence_gaps": [
+      "Confirm current TANSEED availability, deadlines, eligibility criteria, and application requirements.",
+      "Verify that the startup meets all legal, registration, stage, sector, ownership, and documentation conditions for the scheme.",
+      "Obtain the latest official TANSEED agreement to confirm equity‑linked terms, milestone expectations, and reporting obligations.",
+      "Assess the startup’s climate‑impact evidence and budget readiness for the grant.",
+      "Compare alternative public or private funding options with verified terms and timelines."
+    ],
+    "conditions_before_expansion": [
+      "Contact StartupTN or an authorised incubator to obtain the latest official TANSEED guidelines and application window.",
+      "Review the current eligibility checklist and confirm the startup’s compliance with all requirements.",
+      "Gather and verify all required documents (registration, financials, climate‑impact metrics, etc.).",
+      "Compare the effort and fit of TANSEED with other available schemes (e.g., TANSCALE, private incubator grants, angel funds)."
+    ],
+    "decision_note": "The decision is based on the absence of confirmed current scheme status and eligibility. Until these gaps are filled, proceeding with a full application risks wasted effort and potential rejection. The recommendation is to verify eligibility and scheme availability first, then decide whether to prepare the application or explore alternatives. This is not a verified eligibility determination or validated business forecast; the recommendation depends on the supplied evidence.",
+    "llm_used": true,
+    "llm_model": "openai/gpt-oss-20b",
+    "llm_status": "LLM synthesis completed; funding-verification safeguard applied.",
+    "llm_guardrail_applied": true,
+    "official_verification": {
+      "checked_at": "2026-10-12T16:11:51+05:30",
+      "decision_type": "funding_application",
+      "status": "UNKNOWN — MANUAL CONFIRMATION REQUIRED",
+      "status_code": "UNKNOWN",
+      "current_round_confirmed": false,
+      "current_application_deadline": null,
+      "eligibility_verified": false,
+      "summary": "4/6 configured sources reachable; 0 pages contained TANSEED-specific application signals. Neither reachability nor application wording proves a CURRENT open round. Confirm the latest dated call, deadline, and eligibility with StartupTN.",
+      "sources_checked": [
+        {
+          "name": "StartupTN main website",
+          "url": "https://startuptn.in/",
+          "kind": "official portal",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://startuptn.in/",
+          "content_type": "text/html",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "HTML text extracted"
+        },
+        {
+          "name": "StartupTN TANSEED programme page (may have moved)",
+          "url": "https://startuptn.in/initiative/funding/tanseed",
+          "kind": "programme page",
+          "official": true,
+          "http_status": 404,
+          "reachable": false,
+          "final_url": "https://startuptn.in/initiative/funding/tanseed",
+          "content_type": "text/html",
+          "error": "HTTP 404",
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "No extractable HTML text"
+        },
+        {
+          "name": "StartupTN TANSEED application portal",
+          "url": "https://form.startuptn.in/tanseed",
+          "kind": "application portal",
+          "official": true,
+          "http_status": 404,
+          "reachable": false,
+          "final_url": "https://tanfund.in/startup/sign-up?clid=eyJpIjoiOVVabWxUTlhZQkdwa0xDbmRNcnhfIiwiaCI6IiIsInAiOiIvdGFuc2VlZCIsInQiOjE3OTE4MDE3MTN9.0UYb8OuAOEzlHTI-ghmRZsCq4sewHXycLx3CYJhqB2U",
+          "content_type": "text/html",
+          "error": "HTTP 404",
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "No extractable HTML text"
+        },
+        {
+          "name": "TANFUND portal",
+          "url": "https://www.tanfund.in/",
+          "kind": "funding portal",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.tanfund.in/",
+          "content_type": "text/html",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "HTML text extracted"
+        },
+        {
+          "name": "Startup India Tamil Nadu policy listing",
+          "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html",
+          "kind": "policy listing",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Tamil-Nadu-state-policy.html",
+          "content_type": "text/html; charset=UTF-8",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "HTML text extracted"
+        },
+        {
+          "name": "StartupTN 2023 policy PDF",
+          "url": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+          "kind": "historical policy",
+          "official": true,
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+          "content_type": "application/pdf",
+          "error": null,
+          "tanseed_mentioned": false,
+          "tanseed_specific_signals": [],
+          "deadline_signals": [],
+          "content_extraction": "PDF bytes retrieved; PDF text not parsed by lightweight verifier"
+        }
+      ],
+      "sources_reachable": 4,
+      "sources_total": 6,
+      "tanseed_mentioned_on_any_source": false,
+      "deadline_or_application_signals_found": false,
+      "historical_rounds": [
+        {
+          "edition": "TANSEED 8.0",
+          "reported_deadline": "2025-12-20",
+          "source_url": "https://www.linkedin.com/posts/thestartuptn_startuptn-tanseed-seedfunding-activity-7403007179018215424-shKM",
+          "note": "Dated announcement; historical deadline, not a current application window."
+        }
+      ],
+      "important_limit": "No automated OPEN/CLOSED determination. Historical calls, redirects, general Apply buttons, and network failures are not current scheme evidence."
+    },
+    "verification_status": "UNKNOWN — MANUAL CONFIRMATION REQUIRED",
+    "verification_checked_at": "2026-10-12T16:11:51+05:30",
+    "verification_sources_reachable": 4,
+    "verification_sources_total": 6,
+    "verified_current_deadline": null
+  }
+}

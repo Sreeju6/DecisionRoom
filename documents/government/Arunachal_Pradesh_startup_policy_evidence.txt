@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Arunachal Pradesh
+Policy identified: Arunachal Pradesh Startup Policy 2022-23
+Policy period: 2022-2027
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Arunachal-Pradesh-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India lists the Arunachal Pradesh Startup Policy 2022-23. The policy provides annual entrepreneurship challenges, selecting 50 startups each year for five years; the top 10 can receive Rs. 5 lakh each with incubation and the next 40 Rs. 4 lakh each with pre-incubation. It also provides support for proof of concept, including support through the Startup India Seed Fund Scheme and state support for eligible startups not accommodated under that scheme.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

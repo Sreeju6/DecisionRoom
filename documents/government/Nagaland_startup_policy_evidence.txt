@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Nagaland
+Policy identified: Nagaland Startup Policy 2019
+Policy period: 2019-2024
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Nagaland-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India lists Nagaland Startup Policy 2019 under the Department of Industries & Commerce, Government of Nagaland. The policy includes 100% reimbursement of stamp duty, registration fee and conversion fee for the first eligible transaction, and Startup India also records capital assistance of up to Rs. 25 lakh for incubators.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

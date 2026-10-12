@@ -1,0 +1,829 @@
+State/UT: Jharkhand
+Source: Jharkhand Startup Policy 2023
+URL: https://abvil.jharkhand.gov.in/documents/Policy2023.pdf
+
+JHARKHAND 
+
+Jharkhand Startup Policy-2023 
+Department of Information Technology & e-Gov. 
+Government of Jharkhand 
+
+CONTENTS 
+SI.No. Title Page No. 
+Preamble 1 
+A. Policy Validity 1 
+B. Vision 1 
+c. Mission 1 
+D. Objectives 1 
+E. Focus Area's 2 
+F. Centre's of Excellence 2 
+(i) Design 3 
+(ii) The 4th Industrial Revolution for core sector 3 
+(iii) Agro- I Forest Products 3 
+G. Components of Jharkhand Startup Policy 2023 4 
+1 Start-Up Support 4 
+1.1. Idea/ Seed I Proto-type Stage- Suppon & Funding 4 
+1.2 Secondary stage or Scale-up Stage- Suppon and funding for the Startups 5 
+1.3 Reimbursements 6 
+1.4 Jharkhand Entrepreneurship Development Fund 7 
+1.5 Infrastructure 8 
+1.6 Centra/Innovation Lab (CIL) 8 
+1.7 Incubation centres in higher educational institutions 9 
+1.8 Mentors and Event 10 
+1.9 Private Incubators/Accelerators 11 
+2 Public (Government) Incubators/Accelerators 12 
+3 State Government Supported Industry-Academia Incubation centre 12 
+4 Virtual Incubator and Single Window Platform 13 
+5 Human Capital Development 14 
+5.1 University/Higher Educational Institution Syllabus 14 
+5.2 State funded Schools Syllabus 15 
+5.3 Faculty Up-gradation and training 15 
+5.4 Interest reimbursement for Student loans 15 
+5.5 Distribution of STEM {Science, Technology, Engineering & Math's) kit in 15 
+the schools 
+5.6 Idea Boot camps/Conclave 16 
+5. 7 Business Plan competitions/Workshops 16 
+5.8 Scientific Conferences/Workshops for Academia-Industry cooperation 16 
+5.9 Weekend Business Challenge Programs 16 
+5.10 Special Platform for experience sharing 16 
+
+6 Monitoring of Policy implementation 17 
+6.1 Screening Committee 17 
+6.2 Date of Commercial Production(DoP) Approval Committee: 17 
+6.3 State Evaluation Board 17 
+7 Special features and Facilities 18 
+7.1 Startup only branch of Bank 18 
+7.2 Collaboration with Global Accelerators and Incubators 18 
+7.3 Jharkhand Startup Champion 18 
+7.4 Entrepreneur Speak 19 
+7.5 One Form Policy 19 
+7.6 Support for Entrepreneur Associations 19 
+7. 7 Public portal and app 19 
+8 Exit Clause 19 
+9. Doubt resolution 19 
+10. Power of the state Government 20 
+11. Appendix A 21 
+12. Appendix B 22 
+
+Acronyms 
+loT Internet of Things 
+CoE Centre of Excellence 
+HEI Higher Educational Institution 
+SEB State Evaluation Board 
+IT Information Technology 
+ITeS Information Technology Enabled Services 
+SEZ Special Economic Zone 
+SGST State Goods and Services Tax 
+DTP Designated Technology Park 
+IT Park Information Technology Park 
+STP Software Technology Park 
+Dept. of IT & Department oflnformation Technology & e-Gov., 
+e-Gov., GoJ GovenunentofJharkhand 
+PMFME Pradhan Mantri Formalisation of Micro Food Processing Enterprises 
+
+PREAMBLE 
+Jharkhand as state exhibits robust business- friendly ecosystem, promoting innovation 
+and nurturing entrepreneurial spirits. The government of Jharkhand is dedicated to craft 
+opportunities for various stratums of the society by providing an equitable ecosystem for the 
+development of entrepreneurship and innovation. 
+The state through this policy is providing a hand holding approach for start-ups by 
+enabling, empowering and engaging them from a very nascent stage and be the partner in 
+their growth journey. The policy focuses on systematic effective pathway with short-term 
+orientation to boost entrepreneurship, revitalize the economy, and investment in the state in 
+coming 5 years and also paves a strategic long-term roadmap for inculcating and promoting 
+the culture of entrepreneurship at individual as well as societal level. 
+A. Policy Validity 
+This policy will be valid for a period of 5 Years from the date of notification. 
+B. Vision 
+To be amongst the top ten leading startup States in the country by the year 2028, by 
+providing an environment to "Entrepreneurs and Startups" for the creation of successful, 
+innovative, and impactful enterprises through dedicated network of incubation centres, SEB 
+andREI's . 
+C. Mission 
+Developing Entrepreneurship ecosystem to facilitate the growth and scaling of at least 
+1000 new start-ups in coming next 5 years. 
+D. Objectives 
+(i) To create 1,00,000 sq. ft. area of dedicated incubation space offering end-to­
+end support to the start-ups in the State, with specific focus towards tribal and 
+rural community. 
+(ii) To create a robust and synergetic platform for the Academia (04 incubation 
+centres previously selected by SEB facilitating maximum innovative start-ups) 
+along with more in STPI, Zila Udyog Kendra Vs ITis' Vs Electronic 
+Manufacturing Cluster V s Various Industrial Development Authorities V s other 
+options to attract tribal and rural community. 
+(iii) To establish more incubation centres at industry & government administrative 
+level across district with an intent to attract tribal and rural community. 
+:: 1 :: 
+
+(iv) To promote tribal, female, rural-ecopreneurs and specially-abled entrepreneurs 
+in all possible areas of innovation at rural, semi-urban and urban areas across 
+Jharkhand. 
+(v) To support and promote one District One Product for the 14 districts of 
+Jharkhand as identified under PMFME scheme of Government of India and 24 
+Districts as identified by Industries Department, GoJ under the One -District -
+One - Product scheme. 
+(vi) To support young minds and talent from all comers of Jharkhand including 
+schools, colleges, ITI's, universities, industries, communities, individuals, 
+innovators etc. 
+(vii) Developing and promoting pool of investors from Jharkhand, India or outside 
+India (both public & private) to support start-ups on funding & internship 
+opportunities.in Jharkhand. 
+E. Focus Area's 
+The key focus areas but not limited to for this policy are as below: 
+(i) Tribal art, culture, language & tourism 
+(ii) Tribal medicines & way of life 
+(iii) Forest and Environment protection and rejuvenation 
+(iv) Food Processing, Dairy, Exotic flowers, plants, vegetables etc. 
+(v) Automation, Industrial and Technical Innovation 
+(vi) Cyber Security and Information Technology 
+(vii) Sports, Education, beauty products Sector 
+(viii) Agriculture, Mining Sector 
+(ix) Solid-Waste Management 
+(x) Urban Infrastructure Planning & Environment 
+(xi) Renewable Energy 
+(xii) Creative ideas pertaining to sectors including and not limited to e-commerce, 
+Digital Health, Logistics, Transportation, Warehouse and Cold storage, 
+Automobile and auto parts, Green Vehicles, Rural innovation, E-Govemance, 
+and other societal requirements. 
+F. Centre's of Excellence 
+This policy is meant to be largely sector agnostic, there will be a few sectors that will 
+benefit from specific focused initiatives. The policy proposes setting up of 3 Centre's of 
+Excellence (COE) to promote growth and traction in specific sectors of high potential. 
+::2:: 
+
+(i) Design 
+There Is a strong sense of performing arts and artistry in the ethnic 
+underpinnings of tribal culture of Jharkhand. Just leveraging it for crafts and 
+performances will lead to a few small enterprises with no major aspirations to scale. 
+At the same time design, and design thinking, have become core competencies of 
+successful enterprises across the world. Also, there is huge growth in industries where 
+there is a huge role of design, for example media, video gaming, digital art, animation 
+etc. 
+There should be a long term view to capitalize on and hone the artistic and 
+design sensibilities of the tribal populace and, in the long term, promote Jharkhand as 
+a centre of design and media. 
+COE in Design will include an involvement from educational institutes with a 
+track record in design and allied areas, as well as involvement from proven design 
+firms. 
+(ii) The 4th Industrial Revolution for core sector 
+Jharkhand is blessed with natural resources and that has led to the setting up of 
+several large enterprises in the core sectors. It is just not restricted to mining industries, 
+but has led to several manufacturing and production industries as well. Also, there has 
+been a mushrooming of several small and medium enterprises to services the 
+requirements of these large industries. 
+Some of the highest potential ofbenefit in the application of the 4th industrial 
+revolution technologies lie in these traditional industries. Specifically, there is a huge 
+opportunity for additive manufacturing (3D printing), automation/robotics and Internet 
+of Things (loT). The COE should be set up with the involvement of major industrial 
+entities of the state like Tata, NTPC and others. 
+(iii) Agro/ Forest Products 
+A large proportion of the state depends on agriculture and forest resources for 
+their living. There is very little evidence of local value addition and processing. There 
+need to be concerted efforts to involve startups working in these fields and create a 
+network of allied services and products which lead to a high level of local value 
+addition. 
+The COE of agro and forest produce is to focus on creating implementable value 
+chains in the state that help the populace take a larger role in the value chains and 
+generate more value and wealth . 
+::3:: 
+
+G. Components of Jharkhand Startup Policy 
+The Government of Jharkhand proposes a two-pronged approach to create a robust 
+startup -cum- entrepreneurial ecosystem under its Startup Policy. The first part of the policy 
+proposes an Action Plan while the second part of the policy elucidates the various enablers 
+that are required for creating successful startups as well as creating the larger entrepreneurial 
+ecosystem in the State. 
+One institution can apply only in one category in a year. The approved institution 
+cannot avail similar benefit under state/central policy. Once approved institutions cannot 
+apply /change/modify the category. 
+1. Start-Up Support 
+This action plan aims to offer support tailored to the need of every entrepreneur 
+and the current stage of development of their Idea/venture. It shall provide one-on-one 
+customized support covering a broad range of topics, services, and resources important 
+to the growth of new startup companies through government/government-supported 
+incubation centres and accelerators. 
+1.1. Ideal Seed I Proto-type Stage- Support & Funding 
+(i) Any individual or group of individuals with an innovative idea/concept can 
+apply in any sector through the portal https://abvil.jharkhand.gov.in 
+::4:: 
+
+(ii) The selected individual or the group shall be provided with a stipend of INR 
+15,000/- per group member (maximum 3) per month for 12 months as a 
+subsistence allowance from the selection date. 
+(iii) Jharkhand Females, SC/ST, Transgender or Divyang (differently-abled) eligible 
+members from the selected individual or the group shall be eligible for an additional 
+special allowance of INR 2000/- per month for 12 months over and above the 
+subsistence allowance. 
+(iv) During this duration, the selected individual/group has to work on agreed upon 
+milestones 
+a) Idea research, Idea development, and Concept validation 
+b) Prototype development 
+c) Business plan development 
+(v) The selected idea/concept will be eligible for financial support upto INR 10 
+lakh (excluding subsistence allowance and special allowance) for the 
+development of the prototype/initial setup of the business/product/solution. 
+1.2 Secondary stage or Scale-up Stage - Support and funding for the Startups 
+(i) Selected start-ups who have achieved milestones (agreed upon at the Ideal Seed 
+I Proto-type Stage) and show promise, shall be provided continued fund 
+support to the start-ups. 
+(ii) A one-time grant upto INR 10 lakh would be provided to start-ups for support of the 
+business/product/solution for scale up their businesses. 
+(iii) To be eligible for this stage, there should be gap of minimum three months from 
+completion of the prototyping stage. 
+(iv) The Government of Jharkhand can provide fmancial support to start-ups for 
+scaling their product/solution and expansion of their businesses by its internal 
+fund. 
+(v) At the end of the programme, there will be a demo day where start-ups will be 
+able to connect with financiers and other potential stakeholders to help them 
+with the next stage of growth. 
+(vi) All incentives listed below shall be applicable for a unit till the time it remains 
+a 'startup' as defmed by Government of India. 
+::5:: 
+
+1.3 Reimbursements 
+(i) Reimbursement of GST paid: Start-ups, which are registered in Jharkhand, shall 
+be eligible for reimbursement of 100% of NET SGST paid in cash by the unit 
+per annum for 5 years. 
+(ii) Patent Filing: The Government of Jharkhand intends to encourage the filing of 
+patents by Start-ups located within the State. The Government therefore 
+proposes to create a pool of resources for successful filing of patents. Colleges 
+in the State of Jharkhand starting courses/ vocational courses for Patent Filing 
+shall be reimbursed the cost ofiNR 25,000 per candidate passing out subject to 
+a maximum of 20 candidates per year. This reimbursement shall be available to 
+the colleges applying for the same. The State shall reimburse the cost of fee to 
+filing patent a maximum ofiNR 50,000 per patent by the company/unit located 
+in Jharkhand provided the patent is filed from Jharkhand office and granted. 
+(iii) Registration fee/Stamp duty reimbursement: 100% reimbursement of stamp 
+duty and Registration fee paid by Start-up on sale/lease deeds on the first 
+transaction only. This incentive shall not be provided in case of Government 
+land. 
+(iv) Municipal duties: A three-year reimbursement on payment of all municipal 
+duties, taxes and fees by the Start-ups. 
+(v) Reimbursement on lease rentals: 75% of Lease rentals paid in the 1st year of 
+establishment, 50% of the Lease rental paid in the 2nd year and 25% of Lease 
+rentals paid in the 3rd, 4th and 5th years for office space, either in STPI, IT/ 
+Multi-purpose SEZs/ IT Parks/ DTP or in any private areal location, subject to 
+a maximum of INR 3 lakhs per annum, for a period of 5 years from the date of 
+start of commercial production/operation . Above shall be enacted in light of 
+Jharkhand Government Resolution no. - 48/Ra, dated 03.01.2017 and 
+Departmental Resolution no. 4306/Ra, dated 24.10.2014. 
+(vi) Internet Bandwidth Reimbursement:50% of Bandwidth connectivity paid to 
+Internet Service Provider (ISP) by Start-up subject to a maximum of INR 
+60,000 per annum, for a period of five years from the date of starting 
+commercial production! operation. 
+(vii) Electricity bills Reimbursement: A reimbursement of 30% of the amount paid 
+to Electricity dis-corns, shall be reimbursed, up to INR 60000/annum on 
+furnishing self-certified bills for a period of five years. 
+(viii) Provision of Land in IT Parks/SEZ: Start-ups, which are registered in 
+Jharkhand, will be prioritized for allocation of land/space in IT Parks and 
+special economic zones (SEZ). Above shall be enacted in light of Jharkhand 
+::6:: 
+
+Government Resolution no. - 48/Ra, dated 03.01.2017 and Departmental 
+Resolution no. 4306/Ra, dated 24.10.2014. 
+(ix) Govt. of Jharkhand intends to provide preference in tenders to start-ups as per 
+Jharkhand Procurement Policy. 
+(x) Reimbursement on Certification: The State Government shall reimburse, the 
+cost incurred by a Start-up unit operating in the state up to a limit of INR 
+50,0001-for domestic and INR 1.50 Lacs for international certifications per year 
+on furnishing self- certified bills for a period of five years. 
+(xi) Special incentives to SC/ST/Female/Transgender Divyang start-up: 
+Additional 5% on lease rentals, internet bandwidth and electricity bills shall be 
+reimbursed for SC/ST/Female/Divyang start-up maximum amount mentioned 
+in the respective reimbursements will remain same. 
+Note: Reimbursement of financial incentives stipulated for start-up shall be in 
+accordance with Common Incentive Disbursement Guidelines of the 
+Government of Jharkhand. 
+1.4 Jharkhand Entrepreneurship Development Fund 
+The Government of Jharkhand shall strive to provide funding support for 
+growth and development of innovation-driven enterprises in the state. To do so, the 
+state government will set up Jharkhand Entrepreneurship Development fund. The 
+board shall professionally manage these funds with private professionals drawn from 
+government, industry bodies, academia, and successful startups. 
+A separate corpus fund will be created under CIL for promoting 
+entrepreneurship and developing infrastructure in the state. CIL will professionally 
+manage and monitor this fund. This fund will solely be utilized for: 
+(i) Setting up and operationalization of ABVIL 
+(ii) Setting up of incubation centre in academic institutions and private incubators 
+(iii) Providing stipend, funding of prototype development cost for incubates/ 
+start-ups 
+(iv) The cost incurred for organizing fests, workshops and events to promote 
+entrepreneurship 
+(v) Funding and sponsoring startups to participate in national/international events 
+(vi) Reimbursement offmancial incentives stipulated for startups under this policy 
+(vii) Disbursement of Award/ Money to startups 
+(viii) Sponsoring mentor's accommodation, travel, and other related expenses 
+::7:: 
+
+The delegation of power to sanction funds tiom Jbarkh.and Enttepreneurahip 
+Development Fund shall be notified by the Deparlment of IT & e-Gov., GoJ. A 
+to!Dl of S% of the cmpus fund will be eamwked for meeting out the 008t of 
+project management and other overhead cos:ts. 
+NDte: Reimbursement of financial incentives stipnlawt for starl1lp!l shall be in 
+auordance with Common Incentive Disbursement Guidelines of the 
+Government of Jb.arkh.and 
+l.S 111~ 
+The Government of Jharkh.and intends to build c:cnnective infrastrac1ure 
+between aeade:mic and research institutions, industJy and their asiiOCiations. funding 
+institutions, and other relevant stakeholders to accelerate entrepreneurial growth and 
+success. 
+A Central Incubation lab in State's capital will act as the !rub of all 
+govemment/govemment-aidcd incubation centres in the lltate. The State shall help to 
+create new or upgrade existing incubation centres which would act as the spoke or the 
+peripheral incubation centres with one-time endowment funds. 
+I nc~AH~Uon c:et1tn! 1 In 
+lmt!Wtlona 
+O!nlrallncuballan !Jib 
+1.6 Ct!IIINII1111owztlo1t Lab (CIL) 
+VI!WallnaAI<rtor 
+The Oovemment of Jharkhand has created an entity - Central Irmovation Lab, 
+1111111ed: AIDl Dibari Vajpayee l'mlovation Lab (ABW.), which shall act as hub c:e&I1Ie 
+or the anchor unit fur all other incubation CCII1Ies 8C1'06S the State. This entity shall 
+provide an end-to-end solution fur setting up a su.ccess:ful startup fur the incu'batee!. 
+The entity should also act as the CCIIl:ra1 networking platform and shall bring synergy 
+in e:trorts of associated centres or spoke incubators. This Clltity acts. as the cen1nd hub 
+s11ppwting all govemmcrrt-aided e1111epn:ncurial activities across the state. 
+:: 8 :: 
+
+CIL is modeled, as a 'hybrid institution', which will have incubation facilities 
+and will have capacity to conduct accelerator programs. This lab will also act as the 
+facilitator for peripheral incubators. 
+Lists of key facility envisaged in CJL are: 
+(i) Provision to provide work space (Plug n' Play) setup for (State Evaluation 
+Board) SEB selected startups 
+(ii) Training and mentorship in areas like business communication, customer 
+relationship 
+(iii) Networking facilities (Industry-Knowledge- Market- Funding) 
+(iv) Market research support 
+(v) Accounting/Financial/Legal support 
+(vi) Design Labs and Fabrication Labs 
+(vii) Intellectual Property Rights support 
+(viii) Any other due/necessary facilitation required by startup 
+Above facilities will be provided through Central innovation lab for a tenure of 
+2 (Two) years. No professional fee would be charged from startups for aforementioned 
+facilities. 
+The vibrant ecosystem envisaged around CIL is depicted below: 
+Government 
+Legal and Tax 
+Entrepreneur 
+Market and Research 
+Industry & 
+Academia Angel Investor's 
+1. 7 Incubation centres in higher educational institutions 
+Banking and 
+Financial 
+Institution's 
+Incubator's I 
+Accelerator's 
+A special endowment would be provided to institutions of higher education in 
+the state to set up incubation/innovation centres in their respective institutions to 
+promote entrepreneurship and innovation in the educational institutes (With Co­
+working space, fabrication labs etc.) 
+(i) Government-funded reputed and prestigious institutes of Jharkhand would be 
+provided upto INR 1.0 (One) Crore in the first year and upto INR 50 lakhs 
+::9:: 
+
+annually for next four years (maximum of 10 institutions can be given this 
+grant) for setting up and continuity of the incubation/innovation centres. 
+(ii) The selected institutions will enter into a performance contract with the State 
+Government to successfully operate the centre for at least 5 years and mentor 
+at least 20 new startups every year, which are duly approved by the State 
+Evaluation Board. Further assistance may be provided based on the 
+performance of the centre. 
+(iii) Any private university/research institution can also apply for this funding, given 
+the fact that they have operated in the state for the last 4 years and qualify 
+through the selection process. 
+(iv) A competitive process will choose the institutions under this scheme, apart from 
+their repute and educational prowess. 
+(v) These Incubators will be responsible for creating a self-sustaining business 
+model needed for the execution of incubator after the end of support period of 
+5 years. 
+(vi) A one time special incentive upto INR 10 lacs would be given to the incubator 
+for every successful startup (Startup that raises series B funding, a minimum 
+fund of INR one crore) they incubate. 
+Note: Incubation centres in Government and private institutions will be free to 
+select the ideas/projects from student/individual or group, but these 
+ideas/projects have to be approved by the 'State Evaluation Board' in order to 
+avail the stipend and incentives given by the State Government. 
+1.8 Mentors and Events 
+There is a provision to conduct at least one event in a year to be carried out 
+by any CIL /Incubators inviting startups and ideas at the following levels but not 
+limited to: 
+(a). Educational Institutions 
+(b). ITI I Government Industrial Development Authorities/ Zila Udyog Kendra 
+(c). Open Industries, corporations, chambers of commerce, NASSCOM etc. 
+To be sponsored by Government of Jharkhand under this policy. lbis is to 
+further strengthen the bond and network of incubation centres. 
+(i) Mentors: Curriculum Vitae (CV) shall be invited from vanous 
+Incubators or Government officials or business houses or open-market 
+as Mentors. It should be duly communicated to State Evaluation Board 
+(SEB). Shortlisted. The Mentors shall be on probation for initial 6 
+:: 10:: 
+
+months with a contract for 2 years (Extendable every 2 years). Mentors 
+would be provided honorarium (depending upon startup numbers & 
+outcome). The honorarium of the Mentors shall be revised per year by 
+the SEB. A mentor can guide up-to 03 (Three) startups at a particular 
+time. 
+(ii) Chief Executive Officer (CEO): Shall be the de-facto head of the 
+Incubation Centre & be responsible for its direction, strategy, and 
+operations. The CEO shall report directly to the ABVIL Board. 
+(iii) The Mentor Board shall be formed by Incubation centre, comprising 
+over 10 mentors, who shall be readily available to mentor incubatees. 
+The Industry-Academia Incubation centre may be given funding support 
+by the sponsoring companies from their Corporate Social Responsibility 
+(CSR) or other funds. 
+1.9 Private Incubators/ Accelerators 
+(i) 10 new private incubators shall be established initially in coming 05 years, with 
+a maximum of 24 new private incubators. Total funding support for 05 years 
+for private incubators is INR 10 Crore. Funding support of 80% shall be 
+provided by State Government for establishment of new incubators and 20% 
+funding by the private sector has to be committed for each year. The incubator 
+shall be managed and operated by the private sector. Each private incubator 
+would be provided upto INR 50 lakhs in the first year and upto INR 10 lakhs 
+annually for next four years for setting up and continuity of the 
+incubation/innovation centre. 
+(ii) Assistance would be provided to private incubators who shall be corporates of 
+national repute/ industry association/other reputed institutions and shall operate 
+incubation centres within the State of Jharkhand. 
+(iii) The private incubators have to enter into a performance contract with the State 
+government to successfully operate the centre for at least 5 years to receive the 
+support. 
+(iv) The private incubators shall provide support to incubates for the first 5 years 
+from the start of their operations in the State. 
+(v) Private incubator centre has to facilitate and mentor at least 50 
+incubatees/startups every year, which have been approved by the 'State 
+Evaluation Board'. 
+(vi) Such private incubators will act as the peripheral node for the Central 
+Incubation lab. 
+:: 11 :: 
+
+(vii) Private incubators will be responsible for creating a self-sustaining business model needed for 
+execution of the incubator after the end of support period ofS years. 
+(viii) A one time special incentive upto INR 10 lacs would be given to the incubator for every 
+successful startup (a startup that raises series B funding, a minimum fund of INR one crore) 
+they incubate. 
+Note: Private incubation centres will be free to select the ideas/projects from individuals or 
+groups, but these ideas/projects have to be approved by the 'State Evaluation Board' to avail the 
+stipend and incentives given by the State government. 
+2 Public (Government) Incubators I Accelerators 
+(i) Assistance would be provided to ITI I Government Industrial Development 
+Authorities/ Zila Udyog Kendra other to set up and operate incubation centres in the 
+State. 
+(ii) Public incubators shall be provided with an annual support amount upto INR 50 lacs 
+per year for ftrst 5 years from the start of their operation in the State upto 24 Public 
+incubators. 
+(iii) These incubators have to enter into a Memorandum of Understanding (MoU) with the 
+CIL/ ABVIL to successfully operate the centre for at least 5 years to receive the annual 
+support. 
+(iv) Public incubator centre has to facilitate and mentor at least 20 incubatees/startups every 
+year, which have been approved by the 'State Evaluation Board' 
+(v) Such Public incubators will act as the peripheral node for the Central Incubation lab. 
+(vi) Public incubators will be responsible for creating a self-sustaining business model 
+needed for execution of the incubator after the end of support period of 5 years. 
+(vii) A one time special incentive upto INR 10 lacs would be given to the incubator for 
+every successful startup (a startup that raises series B funding, a minimum fund ofiNR 
+one crore) they incubate. 
+Note: Public incubation centres will be free to select the ideas/projects from individuals 
+or groups, but these ideas/projects have to be approved by the 'State Evaluation Board' 
+to avail the stipend and incentives given by the State government. 
+3 State Government Supported Industry-Academia Incubation centre 
+To identify, accelerate, incubate and invest in innovative early-stage startups, 
+Government of Jharkhand shall invite reputed and prestigious entities/organizations to 
+:: 12 :: 
+
+establish State Government supported Industry-Academia Incubation centres in partnership 
+with corporates/companies of national repute. 
+The fiscal incentive under clause 1.7 or 1.9 of this policy shall apply to the State 
+Government-supported Industry-Academia Incubation centre approved by State Evaluation 
+Board (SEB). Interested incubators shall enter into a performance contract with the 
+Government of Jharkhand to avail the said benefits. 
+(i) The partners (Industry and Academia) shall come together to form INCUBATOR, 
+which will help startups by providing incubation space, capacity building, mentorship, 
+industry connections, validation of their business models and fiscal incentive. 
+(ii) The INCUBATOR shall establish to support startups and innovations in the select 
+sector, based on the institute's core expertise and availability of relevant infrastructure. 
+(iii) Incubated startups and innovations shall be provided co-working office space I 
+separate office space as per the requirements of incubatees. Infrastructure and facilities 
+shall be provided to incubatees in accordance with the performance contract/MoD 
+signed and agreed upon with Incubators. 
+(iv) These Incubators will be responsible for creating a self-sustaining business model 
+needed for execution of the incubator after the end of support period of 5 years. 
+( v) Any Incubator centre having partners from private university/research institution, shall 
+fulfil the criteria that they have operated in the state for the last 4 years and qualify 
+through the selection process for this funding. 
+Note: Incubation centres in Government and private institutions will be free to select 
+the ideas/ projects from student/individual or group, but these ideas/projects have to 
+be approved by the 'State Evaluation Board' in order to avail the stipend and incentives 
+under this startup policy. 
+4 Virtual Incubator and Single Window Platform 
+The Government of Jharkhand shall create an online platform to bring in academia, 
+industries, and Investors together. This platform connects the incubators, startups, industrial 
+mentors, equity venture fmns, and all other relevant stakeholders. This platform would also 
+function as a repository of the ongoing startup projects in the state. 
+Single Window Concept will provide ease to incubates to have brief understanding and 
+applying for co-working space & funds. 
+Startups would be benefitted by the presence of robust Single Window Clearance 
+system in the state. They would be given preferential treatment for rapid and timely 
+:: 13:: 
+
+clearances. If required, further notifications may be issued time to time by Dept. of IT & e­
+Gov, GoJ. 
+Online Help Desk: Dedicated helpdesk shall provide support and clarification to 
+prospective Startups and incubatees. 
+5 Human Capital Development 
+It's imperative for the state of Jharkhand to create a vibrant culture of entrepreneurship 
+and creativity for realizing the missions that are laid out in this policy. This requires that we 
+reimagine and reinvigorate the role of universities and colleges as germinators, where young 
+minds can sprout, out of the box solution and ideas. It's also vital that we promote 
+entrepreneurial awareness, nurture skills and freethinking amongst citizen across age groups. 
+To realize this, the Government has planned a strategic approach: 
+(i) Short term Catalytic Interventions: Through idea conclaves, pitch your business 
+ideas/concepts, organizing college startup fests/events etc. 
+(ii) Medium term Interventions: To setup virtual entrepreneurial skills centre for 
+improvement of soft skills, such as persistence, networking and self-confidence on the 
+one hand and hard skills on the other hand, including basic startup knowledge, business 
+planning, fmancial literacy, managerial skills etc. Government of Jharkhand will 
+provide dedicated MOOC's (Massive Open Online Course) program (Self-Paced) 
+developed in association with Higher education institutes/reputed training entities with 
+certification (Optional). It will consist pre-recorded video sessions with lecture 
+sessions, slides, videos, live successful stories, interviews, and MCQ sessions, for 
+reaching out to masses. 
+(iii) Long term Strategic Intervention: Through changes in the college/school curriculum, 
+faculty training schemes, facilitating the use of startup kits in schools etc. 
+5.1 University/Higher Educational Institution (HEI) Syllabus 
+University/HEI's in the state to be facilitator to motivate the youths to take up 
+entrepreneurship, the universities and institutions of higher learning would be 
+encouraged to follow the global best practices. The Central Incubation Lab will help 
+them to upgrade their curriculum in-order to introduce mandatory courses on 
+entrepreneurship and fmancialliteracy. Universities in Jharkhand will be encouraged 
+to provide attendance requirement relaxations, if the student is selected under the 
+startup policy/scheme. 
+::14:: 
+
+5.2 State funded Schools Syllabus 
+The state school's curriculum will be updated to incorporate modules on basic 
+electronics, entrepreneurship, digital and basic fmancialliteracy to develop an aptitude 
+amongst the students. The Central Incubation Lab will provide knowledge assistance 
+to the Department of School Education and Literacy, Government of Jharkhand for the 
+up-dation of the syllabus. All schools should focus towards the establishment of a 
+Tinkering Lab. Knowledge support may be provided in association with Higher 
+Educational Institutions. 
+5.3 Faculty Up-gradation and training 
+Faculties would undergo a tailor made training at the State's Central Innovation 
+lab or other facility to develop a nuanced understanding of the latest development in 
+the field of startups and other skills. Government shall also support (non fmancial) 
+universities to train the faculty for promotion of innovation and entrepreneurship. 
+Mentors to be invited from educational institutions, shortlisted for training programs 
+or MOOC's certification to be offered for incubates. 
+Training module can include (not restricted to): 
+(i) Entrepreneurship module along 6C principle- Collaboration, Communication, 
+Content, Critical thinking, Creative innovation and Confidence. 
+(ii) Project management, business communication, manufacturing process, service 
+delivery, customer relationship. 
+(iii) Faculty Development Program - Universities/Colleges shall organize faculty 
+development program to promote innovation and entrepreneurship at the college level. 
+(iv) Establish E-Cells in Universities, Colleges and Schools - Entrepreneurship Cell 
+(E-Cell) would be established to encourage and support college-level student to start 
+their own Enterprise. 
+5.4 Interest reimbursement for Student loans 
+The student, whose ideas/concepts are to be selected by the State Evaluation 
+Board for incubation in government I government funded incubation centres, shall get 
+their interest reimbursed for study loans for a period of 3 years to a maximum of INR 
+10 lakhs for each student, after graduating from the academic institution where they 
+are pursuing their education. 
+5.5 Distribution of STEM (Science, Technology, Engineering & Math's) kit in 
+the schools 
+Government would provide STEM kits in the government funded/private 
+schools to help students learn basic computing, electronics and broaden their 
+:: 15:: 
+
+imagination through scientific thinking. Government would also strive to setup labs in 
+the schools. HEI /Corporate/Research Centre's with Science and related research 
+facilities can be approached for the same. 
+5. 6 Idea Boot camps/Conclave 
+Colleges and universities would be mandated to orgaruze quarterly boot 
+camps/conclaves in close partnership with the Incubators and Industry in the state to 
+seek out fresh ideas and projects. 
+5.7 Business Plan competitions/Awards 
+The Incubation centres shall organize business Idea/innovation/ challenges to 
+attract youth and motivate them to take up entrepreneurship. At the end of every year, 
+three successful entrepreneurs will be selected from these competitions and awarded 
+with a citation case award of INR. 1,00,000/-, INR. 75,000/- and INR. 50,000/­
+respectively along with the publication of their success stories. The same shall be 
+funded from the corpus maintained under Jharkhand entrepreneurship development 
+fund. 
+5.8 Scientific Conferences/Workshops for Academia-Industry cooperation 
+An annual workshop is envisaged to foster close ties between the two. Eminent 
+researchers and scientists will be called for the conference, which would also be 
+attended by the industry leaders. 
+5.9 Weekend Business Challenge Programs 
+Incubation Centre's in association with HEI's will organize startup weekends 
+specially targeting Individuals who are in service or jobs. These events would facilitate 
+their participation and help them to leverage their experience to enter into the realms 
+of entrepreneurship. 
+5.10 Special Platform for experience sharing 
+Special platforms and tools would be created to tell your story, to have a voice 
+and contribute to building a better company, community and state. It will also bring in 
+mentors/alumni from the state, industry, academia & others, and give them a platform 
+to share their experiences and learning. 
+Domestic accommodation and travel expenses of all mentors of this purpose 
+will be funded from the corpus maintained under Jharkhand entrepreneurship 
+development fund. 
+:: 16:: 
+
+6. Monitoring of Policy implementation 
+6.1 Screening Committee: 
+A Screening Committee under the chairpersonship of Secretary, Department of 
+IT & e-Gov., GoJ shall be set up which will also act as an Incentive Disbursement 
+Committee for Jharkhand Entrepreneurship Development Fund(JEDF). The 
+Committee shall be constituted as below: 
+(i) ACS!Pr. Secretary/Secretary, Department of IT & e-Gov., GoJ- Chairperson 
+(ii) Director, Department of Industries, GoJ- Member 
+(iii) Representative of Dept. of Finance, GoJ-Member 
+(iv) Director, Department of IT & e-Gov., GoJ- Member 
+(v) CEO, ABVIL- Member 
+Screening Committee shall be responsible for effective implementation of the 
+policy including the approval of disbursement of incentives. Other responsibilities of 
+this Committee include coordination with Central Innovation Lab(CIL), engagement 
+with stakeholders, promotion of the policy etc. 
+6.2 Date of Commercial Production(DoP) Approval Committee: 
+A DoP Approval Committee under the chairpersonship ofDirector, Department 
+of IT &e-Gov., GoJ shall be set up for the issuance ofDoP certificate to the applicants. 
+Further, Director, Department ofiT &e-Gov., GoJ may constitute Project Management 
+Unit (PMU) for verification of submitted documents of SEB for selected Startups by 
+ABVIL. 
+6.3 State Evaluation Board: 
+To constitute State Evaluation Board (SEB) which would comprise of members 
+from government, experts from industry, academia, private incubators and VC firms 
+operating in the State. This board shall be the fmal decision making authority for the 
+selection of the ideas/ concepts or start-ups for support. The State Evaluation Board 
+shall select the idea/concept based on pre-defined criteria and their decision will be 
+final. The idea/concept once approved, will become eligible to avail any 
+incentive/support/stipend by the State government. The SEB shall have the following 
+composition with experts from industry, academia, incubators and government: 
+(i) Convener- Director, Dept. of IT & e-Gov ., GoJ 
+(ii) In-Charge/CEO of ABVIL 
+(iii) Director, Dept. of Industries, GoJ 
+:: 17:: 
+
+(iv) Representative of Administrative Department (not below the rank of Deputy 
+Secretary) 
+(v) One member from liM Ranchi or XLRI 
+(vi) One member from panel of industry experts 
+(vii) One member from panel of external academic expert 
+Roles and Responsibilities of State Evaluation Board will be same as mentioned 
+in Common Incentives Disbursement Guidelines of the state. 
+Note: ABVIL will recommend to PMU (Under Dept. of IT & e-Gov., GoJ) 
+regarding the SEB selected startups for incentives. 
+7. Special features and Facilities 
+7.1 Startup only branch of Bank: 
+Government of Jharkhand will invite banks in the State to set up 'Startup only' 
+branch which could focus on special needs of startups like opening of bank accounts 
+for proprietorships, easier foreign exchange facilitation, easier handling of loan 
+requests for startups, and by providing trained staff specializing in startup issues. 
+7.2 Collaboration with Global Accelerators and Incubators: 
+International collaboration with leading global accelerators will be a key pivot 
+of this policy. Government will invite and partner with leading global accelerators and 
+incubators across the globe to facilitate the startup ecosystem in the state. 
+7.3 Jharkhand Startup Champion: 
+The State strives to impact startups directly just not by financial incentives but 
+also through a system of recognitions. The following recognitions will be provided 
+through merit based selection from public/private partnerships, and declared on 
+knowledge portals: 
+(i) Jharkhand Startup Champion: For Introducing the most innovative idea 
+(ii) ChiefMinister Startup Award 
+(iii) Best tribal startup 
+(iv) Best Female entrepreneur 
+( v) Best rural startup 
+(vi) Best student startup 
+(vii) Best startup in Social sector 
+:: 18:: 
+
+7.4 Entrepreneur Speak: 
+To expose people of Jharkhand to the best and brightest entrepreneurs in the 
+world, Government of Jharkhand will make special efforts to get leading entrepreneurs 
+to speak in Jharkhand under "Entrepreneur Speak" program. 
+7.5 One Form Policy: 
+To simplify procedures accessing the schemes and approvals under this policy, 
+the government will ensure creation of just one single form which will be required to 
+fill, in order to access all services. 
+7. 6 Support for Entrepreneur Associations: 
+Local entrepreneur associations and networks in the State would be encouraged 
+to form and facilitate entrepreneur association through incubation centres for meet up 
+groups, voluntary associations of people interested in entrepreneurship. 
+7. 7 Public portal and app: 
+A special 'Startup Jharkhand' portal and app would be created which will 
+provide details of successful startups and implementation, non-started and failed 
+implementations. This portal and app would also be used to accept applications for 
+incubation, registration, tracking status of application, filing compliances, applying for 
+schemes, and collaboration with ecosystem partners. Raise risk alert to local police and 
+government machinery. 
+8. Exit Clause 
+A startup will cease to receive benefits under this policy upon reaching turnover of 
+INR 25 Crores or 7 years (for biotechnology startups 10 years) from its date of 
+incorporation/registration, whichever is earlier. 
+9. Doubt resolution 
+(i) Doubts relating to interpretation of any term and I or dispute relating to the operation 
+of any provision under this policy shall have to be referred to the Dept. of IT & e-Gov., 
+GoJ for clarification I resolution and the decision of Department in this regard shall be 
+final and binding all concerned. 
+(ii) In case of any doubt the "English Version" of the policy will be considered an authentic 
+version. 
+:: 19:: 
+
+10. Power of the State Government 
+Notwithstanding anything contained in the foregoing paragraphs of this policy, the 
+State Government by the issuance of notification in the official gazette may amend or 
+withdraw any of provisions and/or the schemes mentioned here in above. 
+By the Order of the Governor of Jharkhand 
+Memo No.:ITSecl/IT-Startup-ITSl-112021/IT 
+sdi­
+(Vipra Bhal) 
+Secretary 
+Dept. of IT & e-Gov., GoJ 
+dated:-
+Copy forwarded to the Superintendent, Government Press, Hinoo, Ranchi for its publication 
+in the special edition of Jharkhand Gazette. It is requested that 250 (Two hundred fifty) copies 
+of the published Gazette be made available to the department. 
+Memo No.: ITSecl/IT-Startup-ITSl-1/2021/IT 
+sdi­
+Secretary 
+Dept. of IT & e-Gov., GoJ 
+dated:-
+Copy forwarded to Principal Secretary to the Hon'ble Governor, Jharkhand/Principal 
+Secretary to the Hon'ble Chief Minister, Jharkhand/OSD to Chief Secretary, Jharkhand/All 
+Additional Chief Secretary/Principal Investment Commissioner, Jharkhand Bhawan, New 
+Delhi/ All Principal Secretary/ All Secretary/ All Departmental Head, Jharkhand, Ranchil All 
+Divisional Commissioner, Jharkhand. 
+::20:: 
+sdi­
+Secretary 
+Dept. of IT & e-Gov., GoJ 
+
+Appendices Appendix-A 
+(1) Definitions:-
+(i) Innovation: The process of translating an idea or invention into a good or service that 
+creates value for which customers will pay. Innovation involves deliberate application 
+of information, imagination and initiative in deriving greater or different values from 
+resources. 
+(ii) Startup: Startup means an entity, incorporated or registered in Jharkhand: 
+• Not prior to seven years, however for Biotechnology Startups not prior to ten 
+years, 
+• With annual turnover not exceeding INR 25 crores in any preceding financial 
+year, and 
+• Working towards innovation, development or improvement of products or 
+processes or services, or if it is a scalable business model with a high potential 
+of employment generation or wealth creation. 
+Provided that such entity is not formed by splitting up, or reconstruction, of a business 
+already in existence. 
+Provided also that an entity shall cease to be a Startup if its turnover for the previous 
+financial years has exceeded INR 25 crores or it has completed 7 years (for 
+biotechnology startups 10 years) from the date of incorporation/ registration. 
+Provided further that a startup shall be eligible for tax benefits only after it has obtained 
+certification from the Inter-Ministerial Board, setup for such purpose. 
+The entity accredited/certified as a Startup by Department of Industrial Policy & 
+Promotion, Government of India, shall be considered as an eligible Startup for availing 
+benefits under this policy only if the startup starts one or more of its business 
+operations/ production facility in Jharkhand. 
+Provided that a startup shall be eligible for tax benefits only after it has obtained 
+certification from the "State Evaluation Board", setup for such purpose. 
+Successful Startup: Startup would be considered successful once it raises series 'B' 
+funding i.e. second round of fmancing by Private Equity Investors/self-sustainable 
+business. 
+(iii) Entity: 
+Private Limited Company (under The Companies Act, 2013) or a Registered 
+Partnership Firm (under The Indian Partnership Act, 1932) or Limited Liability 
+Partnership (under The Limited Liability Partnership Act, 2008). 
+::21 :: 
+
+(iv) Accelerator: 
+Accelerator is an organization or program that enables rapid growth of new startups by 
+providing specific services like: mentoring, training, resources and networking to help 
+startups increase their customer base, generate more profits, prepare for funding and 
+professionalize their organization. 
+(v) Entrepreneurship: 
+It's the act of being an entrepreneur, it implies the capacity and willingness to 
+undertake conception, organization, and management of a productive new venture, 
+accepting all attendant risks and seeks profit as a reward. 
+(vi) State Evaluation Board: 
+A special fix term board formed by the nodal agency for the evaluation and selection 
+of the proposals received from Individuals, groups, and startups. 
+(vii) Hybrid Institution: 
+A hybrid institution is a combination of incubator and accelerator. 
+(viii) Turnover: 
+As defined under The Companies Act, 2013 
+(ix) Female enterprise: 
+An enterprise headed by female where 100% Stake is owned by female. Partial 
+shareholding of female in an enterprise shall not be treated as female enterprise. 
+(x) SOP and document checklist: 
+Detailed Standard Operating Procedure and Document checklist would be issued separately. 
+Appendix -B 
+(1) References: 
+1. Jharkhand Single Window Clearance Act, 2015 
+2. Common Incentive Disbursement Guidelines of Govt. of Jharkhand. 
+3. Official Website of Government of Jharkhand.gov.in 
+4. Jharkhand Government Resolution no.- 48/Ra, dated 03.01.2017 and Departmental 
+Resolution no. 4306/Ra, dated 24.10.2014 
+5. https:/labviljharkhand.gov .in 
+::22:: 

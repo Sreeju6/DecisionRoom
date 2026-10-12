@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Gujarat
+Policy identified: Gujarat Industrial Policy-2020 Scheme for assistance for StartUps/Innovation
+Policy period: 2022-2027
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Gujarat-state-policy.html
+
+EVIDENCE SUMMARY
+Startup India lists the Gujarat Industrial Policy-2020 scheme for assistance for StartUps/Innovation. The accessible policy summary includes an interest subsidy of 8% per annum for three years, subject to a maximum of Rs. 4 lakh per year, and a sustenance allowance of Rs. 10,000 per month for one year for eligible innovators.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html

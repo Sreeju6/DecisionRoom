@@ -1,0 +1,20 @@
+DecisionRoom Government Evidence Record
+
+State/UT: Uttar Pradesh
+Policy identified: Uttar Pradesh Startup Policy 2026
+Policy period: 2026-2031
+
+OFFICIAL GOVERNMENT SOURCE
+https://www.startupindia.gov.in/content/sih/en/tejas.html
+
+EVIDENCE SUMMARY
+Startup India's July 2026 directory lists Uttar Pradesh Startup Policy 2026 for 2026-2031. The accessible detailed Startup India page is Uttar Pradesh Startup Policy 2020, which records startup support across seed funding, incubators, centres of excellence and startup incentives. This older page is retained as historical policy evidence only; current 2026 benefits should be verified against the 2026 policy document.
+
+RAG USE NOTE
+This file contains evidence extracted/summarized from an official Startup India / DPIIT government source. It is intended as a fallback evidence document where the state portal or direct PDF could not be reliably downloaded from the user's environment.
+
+CURRENT-POLICY CAUTION
+Where the detailed accessible page is an older policy, the file explicitly labels those details as historical. The current policy name and period are recorded separately from historical benefit details. The Research Agent must not merge historical benefits into a current-policy claim unless the current policy document confirms them.
+
+PRIMARY DIRECTORY
+https://www.startupindia.gov.in/content/sih/en/tejas.html
