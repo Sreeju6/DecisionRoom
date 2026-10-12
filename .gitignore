@@ -1,11 +1,45 @@
-﻿.env
+# Environment files (never commit secrets)
+.env
 .env.*
 !.env.example
 frontend/.env
+
+# Python virtual environments
 venv/
 .venv/
 env/
+
+# Python bytecode caches
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Test caches
+.pytest_cache/
+*.pytest_cache.zip
+
+# Frontend build artefacts
 frontend/node_modules/
 frontend/dist/
+
+# Local Qdrant storage (never commit DB files)
+storage/qdrant/
+storage/*.db
+storage/*.db-wal
+storage/*.db-shm
+
+# Reports (generated at runtime)
+reports/
+
+# HuggingFace model cache (large; download on first run)
+.cache/huggingface/
+
+# IDE / tool specific
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
