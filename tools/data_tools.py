@@ -1,4 +1,7 @@
+from pathlib import Path
 import pandas as pd
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 
 # ============================================================
@@ -13,7 +16,7 @@ def load_state_data():
     the national total, not an individual state/UT.
     """
 
-    file_path = "data/processed/state_decision_dataset.csv"
+    file_path = PROJECT_ROOT / "data" / "processed" / "state_decision_dataset.csv"
 
     df = pd.read_csv(file_path)
 
@@ -34,7 +37,7 @@ def load_worldbank_data():
     Load India-level World Bank market context.
     """
 
-    file_path = "data/processed/worldbank_india_market.csv"
+    file_path = PROJECT_ROOT / "data" / "processed" / "worldbank_india_market.csv"
 
     df = pd.read_csv(file_path)
 
