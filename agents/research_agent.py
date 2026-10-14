@@ -2,8 +2,8 @@ import json
 import os
 from pathlib import Path
 
-import faiss
-from sentence_transformers import SentenceTransformer
+faiss = None
+SentenceTransformer = None
 
 
 # --------------------------------------------------
@@ -34,7 +34,21 @@ _metadata = None
 
 def load_research_resources():
     """Load the embedding model, FAISS index, and metadata."""
-    global _model, _index, _metadata
+    global _model, _index, _metadata, faiss, SentenceTransformer
+
+    if _model is not None and _index is not None and _metadata is not None:
+        return
+
+    if faiss is None or SentenceTransformer is None:
+        try:
+            import faiss as _faiss
+            from sentence_transformers import SentenceTransformer as _ST
+            faiss = _faiss
+            SentenceTransformer = _ST
+        except ImportError as exc:
+            raise ImportError(
+                f"RAG dependencies not installed: {exc}. Install faiss-cpu and sentence-transformers."
+            ) from exc
 
     if _model is not None and _index is not None and _metadata is not None:
         return
