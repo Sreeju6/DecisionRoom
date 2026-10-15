@@ -1,45 +1,24 @@
-from pathlib import Path
-from datetime import datetime
-import json
+"""DecisionRoom CLI runner.
 
-from agents.data_agent import (
-    analyze_market_entry,
-    print_analysis,
-)
+Command-line entrypoint backed by the shared orchestration pipeline.
+Preserves existing interactive terminal output and reporting.
+"""
+from __future__ import annotations
 
-from agents.research_agent import (
-    search_policy_evidence,
-    print_research_results,
-)
+import sys
+from app.pipeline import run_pipeline
 
-from agents.tanseed_verification_agent import (
-    verify_tanseed_sources,
-    print_tanseed_verification,
-)
-
-from agents.risk_agent import (
-    analyze_market_entry_risks,
-    print_risk_analysis,
-)
-
-from agents.critic_agent import (
-    critique_decision_evidence,
-    print_critique,
-)
-
-from agents.planner_agent import (
-    create_market_entry_plans,
-    print_market_entry_plans,
-)
-
-from agents.decision_agent import (
-    generate_final_decision,
-    print_final_decision,
-)
+from agents.data_agent import print_analysis
+from agents.research_agent import print_research_results
+from agents.tanseed_verification_agent import print_tanseed_verification
+from agents.risk_agent import print_risk_analysis
+from agents.critic_agent import print_critique
+from agents.planner_agent import print_market_entry_plans
+from agents.decision_agent import print_final_decision
 
 
 def run_decisionroom():
-    """Run the complete DecisionRoom multi-agent workflow."""
+    """Run the complete DecisionRoom multi-agent workflow from CLI."""
 
     print("\n" + "=" * 60)
     print("       DECISIONROOM")
@@ -62,179 +41,52 @@ def run_decisionroom():
         print("Error: Please enter a decision question.")
         return
 
-    # STAGE 1: DATA AGENT
+    print("\nExecuting multi-agent workflow...")
+    payload = run_pipeline(
+        target_state=target_state,
+        decision_question=decision_question,
+        save_report=True,
+        report_prefix="decisionroom_report",
+    )
+
+    # Display stage results using existing formatted printers
     print("\n\nSTAGE 1: DATA AGENT")
     print("-" * 60)
+    print_analysis(payload["data_agent"])
 
-    data_analysis = analyze_market_entry(target_state)
-    print_analysis(data_analysis)
-
-    # STAGE 2: RESEARCH AGENT
     print("\n\nSTAGE 2: RESEARCH AGENT")
     print("-" * 60)
+    print_research_results(payload["research_agent"])
 
-    research_question = (
-        f"{decision_question} "
-        f"What startup policies, incentives, eligibility "
-        f"conditions, and market-entry support are documented "
-        f"for {target_state}?"
-    )
-
-    research_report = search_policy_evidence(
-        research_question,
-        top_k=5,
-    )
-    print_research_results(research_report)
-
-    # STAGE 2B: LIVE TANSEED SOURCE CHECK
-    # This checks reachability and page signals only; it does not certify
-    # that applications are open or that the startup is eligible.
-    funding_question = any(
-        term in decision_question.casefold()
-        for term in ("tanseed", "funding application", "apply for funding", "grant application")
-    )
-    if funding_question:
+    if payload.get("official_verification"):
         print("\n\nSTAGE 2B: OFFICIAL-SOURCE VERIFICATION")
         print("-" * 60)
-        official_verification = verify_tanseed_sources()
-        print_tanseed_verification(official_verification)
-        # Keep the report available to downstream agents and the final report.
-        research_report["official_verification"] = official_verification
+        print_tanseed_verification(payload["official_verification"])
 
-    # Preserve the original question for the Planner Agent.
-    # The research query is expanded, so it should not be used
-    # as the sole source for decision-type detection.
-
-    # STAGE 3: RISK AGENT
     print("\n\nSTAGE 3: RISK AGENT")
     print("-" * 60)
+    print_risk_analysis(payload["risk_agent"])
 
-    risk_report = analyze_market_entry_risks(
-        target_state,
-        data_analysis,
-        research_report,
-    )
-    print_risk_analysis(risk_report)
-
-    # STAGE 4: CRITIC AGENT
     print("\n\nSTAGE 4: CRITIC AGENT")
     print("-" * 60)
+    print_critique(payload["critic_agent"])
 
-    critique_report = critique_decision_evidence(
-        target_state,
-        data_analysis,
-        research_report,
-        risk_report,
-    )
-    print_critique(critique_report)
-
-    # STAGE 5: PLANNER AGENT
     print("\n\nSTAGE 5: PLANNER AGENT")
     print("-" * 60)
+    print_market_entry_plans(payload["planner_agent"])
 
-    planner_report = create_market_entry_plans(
-        target_state,
-        data_analysis,
-        research_report,
-        risk_report,
-        critique_report,
-        decision_question=decision_question,
-    )
-    print_market_entry_plans(planner_report)
-
-    # STAGE 6: FINAL DECISION AGENT
     print("\n\nSTAGE 6: FINAL DECISION AGENT")
     print("-" * 60)
+    print_final_decision(payload["final_decision_agent"])
 
-    final_report = generate_final_decision(
-        target_state,
-        decision_question,
-        data_analysis,
-        research_report,
-        risk_report,
-        critique_report,
-        planner_report,
-    )
-    print_final_decision(final_report)
-
-    # FINAL SUMMARY
+    # Final summary
     print("\n\n" + "=" * 60)
     print("DECISIONROOM — ANALYSIS SUMMARY")
     print("=" * 60)
-
     print(f"Target state: {target_state}")
     print(f"Decision question: {decision_question}")
-
-    print("\nAgents executed:")
-    print("1. Data Agent")
-    print("2. Research Agent")
-    if funding_question:
-        print("3. Official-Source Verification")
-        print("4. Risk Agent")
-        print("5. Critic Agent")
-        print("6. Planner Agent")
-        print("7. Final Decision Agent")
-    else:
-        print("3. Risk Agent")
-        print("4. Critic Agent")
-        print("5. Planner Agent")
-        print("6. Final Decision Agent")
-
-    print("\nReport summary:")
-    print(
-        "Research evidence items:",
-        research_report.get("result_count", 0),
-    )
-    print("Risks identified:", risk_report.get("risk_count", 0))
-    print("Critic findings:", critique_report.get("finding_count", 0))
-    print(
-        "Alternative plans generated:",
-        len(planner_report.get("plans", [])),
-    )
-
-    print("\nIMPORTANT:")
-    if planner_report.get("decision_type") == "funding_application":
-        print(
-            "This is a preliminary funding assessment. Verify current "
-            "scheme availability, official eligibility criteria, and "
-            "application requirements before acting."
-        )
-    else:
-        print(
-            "The recommendation uses LLM-assisted evidence synthesis "
-            "with a conservative safeguard and rule-based fallback. "
-            "It is preliminary, not a validated business forecast. "
-            "Verify data quality, current policy eligibility, customer "
-            "demand, funding, and operating costs before making an "
-            "actual market-entry decision."
-        )
-
-    # Save the full multi-agent output without losing structured evidence.
-    report_dir = Path("reports")
-    report_dir.mkdir(parents=True, exist_ok=True)
-    stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    payload = {
-        "target_state": target_state,
-        "decision_question": decision_question,
-        "generated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
-        "data_agent": data_analysis,
-        "research_agent": research_report,
-        "official_verification": research_report.get("official_verification") if funding_question else None,
-        "risk_agent": risk_report,
-        "critic_agent": critique_report,
-        "planner_agent": planner_report,
-        "final_decision_agent": final_report,
-    }
-    output_path = report_dir / f"decisionroom_report_{stamp}.json"
-    try:
-        output_path.write_text(
-            json.dumps(payload, indent=2, ensure_ascii=False, default=str),
-            encoding="utf-8",
-        )
-        print("\nComplete structured report saved:", output_path.resolve())
-    except OSError as exc:
-        print("\nReport could not be saved:", exc)
-
+    if "_report_path" in payload:
+        print("\nComplete structured report saved:", payload["_report_path"])
     print("\n" + "=" * 60)
     print("DECISIONROOM ANALYSIS COMPLETED")
     print("=" * 60)
