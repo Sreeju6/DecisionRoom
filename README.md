@@ -77,14 +77,23 @@ Models are strictly routed via configuration and validated against `APPROVED_MOD
 ## Windows PowerShell Quickstart
 
 ### 1. Prerequisites
-- Python 3.11+
+- Python 3.13+ (or [uv](https://docs.astral.sh/uv/) for high-speed dependency resolution)
 - Node.js 18+ and npm
 
 ### 2. Environment Setup
+
+#### Option A: Using `uv` (Recommended)
 ```powershell
-# In DecisionRoom repository root:
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+# Create environment and install dependencies
+uv venv .venv
+.\.venv\Scripts\Activate.ps1
+uv pip install -r requirements.txt
+```
+
+#### Option B: Standard Python `venv`
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 

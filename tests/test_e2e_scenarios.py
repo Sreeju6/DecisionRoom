@@ -41,6 +41,7 @@ def test_scenario_1_sound_proposal_proceeds():
     agent = BusinessDecisionAgent()
     case = BusinessCase(
         proposal="Expand enterprise B2B analytics platform into Singapore",
+        objective="Enterprise market expansion with positive unit economics",
         company_name="CloudMetrics",
         target_market_or_state="Singapore",
         budget_limit=250000.0,
@@ -50,6 +51,10 @@ def test_scenario_1_sound_proposal_proceeds():
         EvidenceCitation(source_id="sg_2", title="Enterprise Demand Survey", snippet="72 enterprise pilot expressions of interest.", verified=True),
         EvidenceCitation(source_id="sg_3", title="Singapore Cloud Infra", snippet="AWS and GCP regions provide local data residency.", verified=True),
         EvidenceCitation(source_id="sg_4", title="Pricing Benchmark", snippet="Average contract value is $45,000 ARR.", verified=True),
+        EvidenceCitation(source_id="sg_5", title="Financial Audit & Unit Economics", snippet="Audited unit economics show 80% gross margin and 24-month runway.", verified=True),
+        EvidenceCitation(source_id="sg_6", title="Market Demand & TAM", snippet="Verified customer demand with signed pilot pre-commitments.", verified=True),
+        EvidenceCitation(source_id="sg_7", title="Security & Architecture", snippet="SOC2 compliant architecture meeting all enterprise SLA requirements.", verified=True),
+        EvidenceCitation(source_id="sg_8", title="Legal Counsel Review", snippet="Standard commercial contracts reviewed under Singapore jurisdiction.", verified=True),
     ]
     findings = {
         "sales": SalesAgent().analyze(case, citations, []),
