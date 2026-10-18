@@ -23,6 +23,7 @@ import hashlib
 import logging
 import math
 import re
+import threading
 from abc import ABC, abstractmethod
 from typing import Any, Dict, List, Optional, Tuple
 import numpy as np
@@ -177,10 +178,15 @@ class HuggingFaceEmbedder(BaseEmbedder):
         return f"HuggingFaceEmbedder({self.model_name}, dim={self.dimension})"
 
 
+# Embedder instances are expensive (HF model load) — cache per provider key so
+# repeated QdrantVectorStore() construction in API endpoints doesn't reload the model.
+_EMBEDDER_CACHE: Dict[str, BaseEmbedder] = {}
+
+
 def build_embedder(
     force_hash: bool = False,
 ) -> BaseEmbedder:
-    """Build the configured embedder.
+    """Build the configured embedder (cached per provider; force_hash bypasses the cache).
 
     Args:
         force_hash: If True, always return FastHashEmbedder (test injection).
@@ -202,10 +208,30 @@ def build_embedder(
         return FastHashEmbedder()
 
     # Default: huggingface
-    return HuggingFaceEmbedder(
-        model_name=settings.embedding_model_name,
-        expected_dim=settings.embedding_dimension,
-    )
+    cached = _EMBEDDER_CACHE.get(provider)
+    if cached is None:
+        cached = HuggingFaceEmbedder(
+            model_name=settings.embedding_model_name,
+            expected_dim=settings.embedding_dimension,
+        )
+        _EMBEDDER_CACHE[provider] = cached
+    return cached
+
+
+# Shared production store: local-mode Qdrant locks its storage path, so a second
+# concurrent instance would fail to open the same directory. Cache the no-arg instance.
+_default_store: Optional["QdrantVectorStore"] = None
+_default_store_lock = threading.Lock()
+
+
+def get_vector_store() -> "QdrantVectorStore":
+    """Return the shared production QdrantVectorStore (thread-safe singleton)."""
+    global _default_store
+    if _default_store is None:
+        with _default_store_lock:
+            if _default_store is None:
+                _default_store = QdrantVectorStore()
+    return _default_store
 
 
 class QdrantVectorStore:
@@ -322,7 +348,10 @@ class QdrantVectorStore:
                 raise ValueError(
                     f"Embedding dimension mismatch: got {len(emb)}, expected {self.embedder.dimension}"
                 )
-            point_id = _stable_hash(chunk.chunk_id) % (2**63 - 1)
+            # Scope the point ID by tenant: chunk_id alone (doc-hash based) would collide
+            # when the same file content is uploaded under two companies or projects,
+            # and the later upload would silently overwrite the earlier scope's vectors.
+            point_id = _stable_hash(f"{chunk.company_id}|{chunk.project_id}|{chunk.chunk_id}") % (2**63 - 1)
             points.append(
                 self.models.PointStruct(
                     id=point_id,
@@ -402,24 +431,39 @@ class QdrantVectorStore:
 
         return citations
 
-    def delete_document(self, company_id: str, doc_hash: str) -> bool:
-        """Delete all chunks for a document by hash, scoped to company. Returns True if any deleted."""
+    def delete_document(
+        self,
+        company_id: str,
+        doc_hash: str,
+        project_id: Optional[str] = None,
+    ) -> bool:
+        """Delete chunks for a document by hash, scoped to company (+ project when given).
+
+        Returns True if the delete executed (Qdrant by-filter deletes don't report counts)."""
+        must_conditions: list[Any] = [
+            self.models.FieldCondition(
+                key="company_id",
+                match=self.models.MatchValue(value=company_id),
+            ),
+            self.models.FieldCondition(
+                key="doc_hash",
+                match=self.models.MatchValue(value=doc_hash),
+            ),
+        ]
+        if project_id:
+            # Same file content may legitimately live in several projects; without this
+            # filter a project-scoped delete would also destroy sibling projects' vectors.
+            must_conditions.append(
+                self.models.FieldCondition(
+                    key="project_id",
+                    match=self.models.MatchValue(value=project_id),
+                )
+            )
         try:
-            result = self.client.delete(
+            self.client.delete(
                 collection_name=self.collection_name,
                 points_selector=self.models.FilterSelector(
-                    filter=self.models.Filter(
-                        must=[
-                            self.models.FieldCondition(
-                                key="company_id",
-                                match=self.models.MatchValue(value=company_id),
-                            ),
-                            self.models.FieldCondition(
-                                key="doc_hash",
-                                match=self.models.MatchValue(value=doc_hash),
-                            ),
-                        ]
-                    )
+                    filter=self.models.Filter(must=must_conditions)
                 ),
             )
             return True

@@ -38,7 +38,7 @@ from config.config import settings
 from schemas.decision import BusinessCase
 from tools.document_parser import DocumentChunk, DocumentParser, FileValidationError, ParsingError
 from tools.memory import AgentMemoryItem, MemoryStore, ProjectMemoryItem, ProvenanceType
-from tools.vector_store import QdrantVectorStore
+from tools.vector_store import get_vector_store
 
 logger = logging.getLogger("decisionroom.api")
 
@@ -57,7 +57,9 @@ origins = os.getenv(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[item.strip() for item in origins.split(",") if item.strip() and "*" not in item],
-    allow_origin_regex=r"https://[a-zA-Z0-9-]+\.netlify\.app" if "*.netlify.app" in origins else None,
+    # Local-only API: trust any loopback port (Vite auto-increments when 5173 is busy)
+    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1|\[::1\])(:\d+)?"
+    + (r"|https://[a-zA-Z0-9-]+\.netlify\.app" if "*.netlify.app" in origins else ""),
     allow_credentials=False,
     allow_methods=["GET", "POST", "DELETE", "OPTIONS"],
     allow_headers=["*"],
@@ -278,9 +280,11 @@ def list_documents(
 def ingest_document_text(payload: DocumentIngestRequest):
     """Ingest, chunk, and index pasted text into Qdrant with tenant isolation."""
     try:
-        store = QdrantVectorStore()
+        store = get_vector_store()
         # Use SHA-256 of text for content-addressed chunk IDs
-        doc_hash = hashlib.sha256(payload.text.encode("utf-8")).hexdigest()[:32]
+        # Full 64-char digest: must match the hash DocumentParser stores in chunk payloads,
+        # or delete filters (which match on payload doc_hash) silently match nothing.
+        doc_hash = hashlib.sha256(payload.text.encode("utf-8")).hexdigest()
         chunk = DocumentChunk(
             chunk_id=f"{payload.company_id}_{doc_hash[:8]}",
             company_id=payload.company_id,
@@ -347,7 +351,9 @@ async def upload_document(
             f"File exceeds maximum size of {MAX_UPLOAD_BYTES // (1024*1024)} MB.",
         )
 
-    doc_hash = hashlib.sha256(raw_bytes).hexdigest()[:32]
+    # Full 64-char digest: DocumentParser recomputes and stores this exact value in chunk
+    # payloads; a truncated hash here would make delete filters silently match nothing.
+    doc_hash = hashlib.sha256(raw_bytes).hexdigest()
     document_name = file.filename
 
     try:
@@ -371,9 +377,9 @@ async def upload_document(
         raise _error(422, "No readable content extracted from the uploaded file.")
 
     try:
-        store = QdrantVectorStore()
-        # Deduplicate: delete any prior version of same doc_hash + company before re-indexing
-        store.delete_document(company_id=company_id, doc_hash=doc_hash)
+        store = get_vector_store()
+        # Deduplicate: delete any prior version of same doc_hash in this project scope before re-indexing
+        store.delete_document(company_id=company_id, doc_hash=doc_hash, project_id=project_id)
         count = store.index_chunks(chunks)
     except Exception as exc:
         logger.error("Vector indexing failed: %s", exc, exc_info=True)
@@ -415,8 +421,8 @@ def delete_document(
 ):
     """Delete document chunks by doc_hash enforcing company + project scope."""
     try:
-        store = QdrantVectorStore()
-        success = store.delete_document(company_id=company_id, doc_hash=doc_hash)
+        store = get_vector_store()
+        success = store.delete_document(company_id=company_id, doc_hash=doc_hash, project_id=project_id)
 
         # Remove from document registry
         mem = MemoryStore()
