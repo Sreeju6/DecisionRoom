@@ -150,6 +150,7 @@ class Settings(BaseModel):
             "embedding_provider": self.embedding_provider,
             "embedding_model_name": self.embedding_model_name,
             "embedding_dimension": self.embedding_dimension,
+            "approved_models": sorted(APPROVED_MODEL_IDS),
             "max_agent_concurrency": self.max_agent_concurrency,
             "max_retries": self.max_retries,
             "request_timeout_seconds": self.request_timeout_seconds,

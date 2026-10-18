@@ -25,11 +25,45 @@ import {
   TrendingUp,
   Cpu,
   Lock,
+  Sun,
+  Moon,
   Upload
 } from "lucide-react";
 import "./styles.css";
 
 const API = (import.meta.env.VITE_API_URL || "http://127.0.0.1:8000").replace(/\/$/, "");
+const THEME_KEY = "dr-theme";
+
+function initialTheme() {
+  try {
+    const saved = localStorage.getItem(THEME_KEY);
+    if (saved === "light" || saved === "dark") return saved;
+  } catch { /* storage unavailable */ }
+  try {
+    return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+  } catch {
+    return "dark";
+  }
+}
+
+function useDebounced(value, delay = 400) {
+  const [debounced, setDebounced] = useState(value);
+  useEffect(() => {
+    const t = setTimeout(() => setDebounced(value), delay);
+    return () => clearTimeout(t);
+  }, [value, delay]);
+  return debounced;
+}
+
+// Backend errors arrive as {detail: string} or pydantic's {detail: [{loc, msg}, ...]}
+function errMsg(data, fallback) {
+  const detail = data?.detail ?? data?.error;
+  if (typeof detail === "string") return detail;
+  if (Array.isArray(detail)) {
+    return detail.map((e) => `${(e.loc || []).slice(1).join(".")}: ${e.msg}`).join("; ");
+  }
+  return fallback;
+}
 
 const DEFAULT_PROPOSAL = "Should our B2B SaaS company expand operations into the German DACH market with a local European cloud infrastructure deployment, and what regulatory, unit economics, and competitive barriers must be resolved?";
 
@@ -96,6 +130,19 @@ function App() {
   const [companyId, setCompanyId] = useState("acme_corp");
   const [projectId, setProjectId] = useState("eu_expansion");
 
+  // Theme (index.html sets data-theme pre-paint; this syncs toggles + persists)
+  const [theme, setTheme] = useState(initialTheme);
+  useEffect(() => {
+    document.documentElement.dataset.theme = theme;
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.content = theme === "light" ? "#f4f5fa" : "#090a15";
+    try { localStorage.setItem(THEME_KEY, theme); } catch { /* ignore */ }
+  }, [theme]);
+
+  // Debounced tenant/project inputs drive passive fetches (per-keystroke fetch storms otherwise)
+  const debouncedCompanyId = useDebounced(companyId);
+  const debouncedProjectId = useDebounced(projectId);
+
   // Decision Room State
   const [proposal, setProposal] = useState(DEFAULT_PROPOSAL);
   const [objective, setObjective] = useState("Strategic Expansion Evaluation");
@@ -136,12 +183,21 @@ function App() {
   // Config Status
   const [configStatus, setConfigStatus] = useState(null);
 
+  // Elapsed-time ticker for the evaluate loading card (runs take minutes)
+  const [elapsed, setElapsed] = useState(0);
+  useEffect(() => {
+    if (!loading) { setElapsed(0); return; }
+    const startedAt = Date.now();
+    const t = setInterval(() => setElapsed(Math.floor((Date.now() - startedAt) / 1000)), 1000);
+    return () => clearInterval(t);
+  }, [loading]);
+
   useEffect(() => {
     if (activeTab === "decision_room" || activeTab === "documents") fetchDocuments();
     if (activeTab === "history") fetchRuns();
     if (activeTab === "memory") fetchMemory();
     if (activeTab === "settings") fetchConfig();
-  }, [activeTab, companyId, projectId]);
+  }, [activeTab, debouncedCompanyId, debouncedProjectId]);
 
   async function fetchConfig() {
     try {
@@ -152,10 +208,11 @@ function App() {
     }
   }
 
-  async function fetchRuns() {
+  // Passive fetchers default to the debounced tenant scope; pass live values after mutations.
+  async function fetchRuns(company = debouncedCompanyId) {
     setLoadingRuns(true);
     try {
-      const res = await fetch(`${API}/api/runs?company_id=${encodeURIComponent(companyId)}`);
+      const res = await fetch(`${API}/api/runs?company_id=${encodeURIComponent(company)}`);
       if (res.ok) setRuns(await res.json());
     } catch (e) {
       console.error(e);
@@ -177,9 +234,9 @@ function App() {
     }
   }
 
-  async function fetchMemory() {
+  async function fetchMemory(company = debouncedCompanyId) {
     try {
-      const res = await fetch(`${API}/api/memory?company_id=${encodeURIComponent(companyId)}`);
+      const res = await fetch(`${API}/api/memory?company_id=${encodeURIComponent(company)}`);
       if (res.ok) setMemoryItems(await res.json());
     } catch (e) {
       console.error(e);
@@ -203,7 +260,7 @@ function App() {
       });
       if (res.ok) {
         setMemContent("");
-        fetchMemory();
+        fetchMemory(companyId, projectId);
       }
     } catch (e) {
       console.error(e);
@@ -215,16 +272,16 @@ function App() {
       const res = await fetch(`${API}/api/memory/${memId}?company_id=${encodeURIComponent(companyId)}`, {
         method: "DELETE",
       });
-      if (res.ok) fetchMemory();
+      if (res.ok) fetchMemory(companyId, projectId);
     } catch (e) {
       console.error(e);
     }
   }
 
-  async function fetchDocuments() {
+  async function fetchDocuments(company = debouncedCompanyId, project = debouncedProjectId) {
     setLoadingDocs(true);
     try {
-      const res = await fetch(`${API}/api/documents?company_id=${encodeURIComponent(companyId)}&project_id=${encodeURIComponent(projectId)}`);
+      const res = await fetch(`${API}/api/documents?company_id=${encodeURIComponent(company)}&project_id=${encodeURIComponent(project)}`);
       if (res.ok) {
         setDocuments(await res.json());
       }
@@ -259,11 +316,11 @@ function App() {
         setSelectedFile(null);
         const fileInput = document.getElementById("docFileInput");
         if (fileInput) fileInput.value = "";
-        fetchDocuments();
+        fetchDocuments(companyId, projectId);
       } else {
         setUploadFeedback({
           type: "error",
-          message: data.detail || data.error || "File upload and indexing failed.",
+          message: errMsg(data, "File upload and indexing failed."),
         });
       }
     } catch (err) {
@@ -283,10 +340,10 @@ function App() {
         { method: "DELETE" }
       );
       if (res.ok) {
-        fetchDocuments();
+        fetchDocuments(companyId, projectId);
       } else {
         const err = await res.json().catch(() => ({}));
-        alert(`Delete failed: ${err.detail || "Unknown error"}`);
+        alert(`Delete failed: ${errMsg(err, "Unknown error")}`);
       }
     } catch (err) {
       alert(`Delete error: ${err.message}`);
@@ -314,10 +371,10 @@ function App() {
         setDocIngestMsg(`Success: Indexed ${d.chunks_indexed} chunk(s) into company isolation scope.`);
         setDocName("");
         setDocText("");
-        fetchDocuments();
+        fetchDocuments(companyId, projectId);
       } else {
-        const err = await res.json();
-        setDocIngestMsg(`Error: ${err.detail || "Ingestion failed"}`);
+        const err = await res.json().catch(() => ({}));
+        setDocIngestMsg(`Error: ${errMsg(err, "Ingestion failed")}`);
       }
     } catch (err) {
       setDocIngestMsg(`Error: ${err.message}`);
@@ -353,10 +410,14 @@ function App() {
         }),
       });
       const data = await res.json().catch(() => ({}));
-      if (!res.ok) throw new Error(data.detail || data.error || `Evaluation error (${res.status})`);
+      if (!res.ok) throw new Error(errMsg(data, `Evaluation error (${res.status})`));
       setReport(data);
     } catch (err) {
-      setError(`${err.message}. Verify that the DecisionRoom backend is active.`);
+      // Network failures (fetch rejects with TypeError) mean the backend is unreachable;
+      // HTTP errors already carry a meaningful message from the API.
+      setError(err instanceof TypeError
+        ? `${err.message}. Verify that the DecisionRoom backend is active.`
+        : err.message);
     } finally {
       setLoading(false);
     }
@@ -402,6 +463,15 @@ function App() {
               title="Multi-tenant company isolation ID"
             />
           </div>
+          <button
+            type="button"
+            className="theme-toggle"
+            onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+            aria-label={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+            title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+          >
+            {theme === "dark" ? <Sun size={15} /> : <Moon size={15} />}
+          </button>
           <span className={`status ${loading ? "busy" : report ? "done" : ""}`}>
             <i />
             {loading ? "Reconciling Agents" : report ? "Decision Reconciled" : "System Ready"}
@@ -559,6 +629,7 @@ function App() {
                 <div>
                   <b>Evaluating Multi-Agent Decision Branches</b>
                   <p>Executing Sales, Finance, Legal, Technical, and Risk specialists; consulting vector RAG and synthesizing evidence...</p>
+                  <span className="elapsed-note">{elapsed}s elapsed — multi-agent runs typically take 1–3 minutes</span>
                 </div>
               </div>
             )}
@@ -810,8 +881,8 @@ function App() {
                           <td>{new Date(r.created_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
                           <td className="truncate-cell">{r.proposal}</td>
                           <td>
-                            <span className={`outcome-chip ${r.outcome?.toLowerCase()}`}>
-                              {r.outcome || "PENDING"}
+                            <span className={`outcome-chip ${(r.outcome || (r.status === "FAILED" ? "failed" : "")).toLowerCase()}`}>
+                              {r.outcome || (r.status === "FAILED" ? "FAILED" : "PENDING")}
                             </span>
                           </td>
                           <td>{r.confidence || "N/A"}</td>
@@ -950,7 +1021,7 @@ function App() {
                 <div>
                   <h4>Upload Document File</h4>
                   <p className="file-help">
-                    Supported formats: <b>PDF, DOCX, TXT, CSV, XLSX</b> (Max 20MB). Content is deduplicated by SHA-256 raw bytes.
+                    Supported formats: <b>PDF, DOCX, TXT, CSV, XLSX</b> (Max 15MB). Content is deduplicated by SHA-256 raw bytes.
                   </p>
                 </div>
               </div>

@@ -94,26 +94,7 @@ def run_business_decision(
       * DO_NOT_PROCEED -> CriticAgent produces RejectionRationale & Alternatives.
       * HOLD_FOR_EVIDENCE -> Returns Missing Evidence Checklist.
     """
-    from agents.decision_room import BusinessDecisionAgent
-    from agents.specialists import (
-        FinanceAgent,
-        LegalAgent,
-        RiskAgent,
-        SalesAgent,
-        TechnicalAgent,
-    )
-    from tools.vector_store import QdrantVectorStore
-    from tools.web_research import WebResearchService
-
     memory = memory_store or MemoryStore()
-    # shortcut: one QdrantVectorStore per request; use persistent local path or remote
-    try:
-        vector_store = QdrantVectorStore()
-    except Exception as exc:
-        logger.warning("QdrantVectorStore init failed (%s), using in-memory fallback for this run", exc)
-        vector_store = QdrantVectorStore(_force_hash_embedder=True, in_memory=True)
-    web_service = WebResearchService()
-
     run_id = str(uuid.uuid4())
     run_record = RunRecord(
         run_id=run_id,
@@ -131,6 +112,61 @@ def run_business_decision(
         event_type="RUN_START",
         details={"case": case.model_dump(), "company_id": company_id, "project_id": project_id},
     )
+
+    try:
+        return _execute_business_decision(
+            case=case,
+            company_id=company_id,
+            project_id=project_id,
+            save_report=save_report,
+            memory=memory,
+            run_id=run_id,
+            run_record=run_record,
+        )
+    except Exception as exc:
+        # Persist the failure so run history never shows a phantom IN_PROGRESS run
+        logger.exception("Run %s failed", run_id)
+        run_record.status = "FAILED"
+        run_record.completed_at = datetime.now(timezone.utc).isoformat()
+        run_record.errors = [f"{type(exc).__name__}: {str(exc)[:300]}"]
+        memory.save_run(run_record)
+        memory.log_audit_event(
+            run_id=run_id,
+            company_id=company_id,
+            event_type="RUN_FAILED",
+            details={"error_type": type(exc).__name__, "message": str(exc)[:500]},
+        )
+        raise
+
+
+def _execute_business_decision(
+    case: BusinessCase,
+    company_id: str,
+    project_id: str,
+    save_report: bool,
+    memory: MemoryStore,
+    run_id: str,
+    run_record: RunRecord,
+) -> Dict[str, Any]:
+    """Agent stages of the business decision workflow; caller owns run-record lifecycle."""
+    from agents.decision_room import BusinessDecisionAgent
+    from agents.specialists import (
+        FinanceAgent,
+        LegalAgent,
+        RiskAgent,
+        SalesAgent,
+        TechnicalAgent,
+    )
+    from tools.vector_store import QdrantVectorStore, get_vector_store
+    from tools.web_research import WebResearchService
+
+    # Reuse the shared production store; degrade to in-memory hash evidence for this run on failure
+    try:
+        vector_store = get_vector_store()
+    except Exception as exc:
+        logger.warning("QdrantVectorStore init failed (%s), using in-memory fallback for this run", exc)
+        vector_store = QdrantVectorStore(_force_hash_embedder=True, in_memory=True)
+    web_service = WebResearchService()
 
     # Retrieve prior USER_CONFIRMED project context for this agent session
     prior_memory = []
@@ -158,7 +194,11 @@ def run_business_decision(
     except Exception as exc:
         logger.warning("Vector store search failed: %s", exc)
         company_evidence = []
-    web_evidence = web_service.get_citations(query=case.proposal, limit=3)
+    try:
+        web_evidence = web_service.get_citations(query=case.proposal, limit=3)
+    except Exception as exc:
+        logger.warning("Web research failed: %s", exc)
+        web_evidence = []
     rag_latency = round((time.perf_counter() - start_rag) * 1000, 2)
 
     memory.log_audit_event(
@@ -201,11 +241,20 @@ def run_business_decision(
                 event_type="AGENT_ERROR",
                 details={"agent": name, "error": type(exc).__name__, "message": str(exc)[:500]},
             )
-            raise
+            # Degrade to a placeholder finding instead of failing the whole run;
+            # the decision agent already treats low-confidence/no-evidence findings as gaps.
+            findings[name] = AgentFinding(
+                agent_name=name.capitalize(),
+                summary=f"{name.capitalize()} analysis unavailable due to an agent error ({type(exc).__name__}).",
+                confidence=ConfidenceLevel.LOW,
+                confidence_rationale="Specialist agent failed; treat this domain as unverified.",
+                missing_information=[f"{name.capitalize()} analysis could not be produced (agent error)."],
+            )
+            continue
         lat = round((time.perf_counter() - start_t) * 1000, 2)
         findings[name] = f
-        # Track actual model only if LLM was invoked (specialist.llm_client records this)
-        if settings.is_nvidia_configured or settings.is_google_configured:
+        # Track the model only when the LLM was actually invoked (rule-based fallbacks don't count)
+        if getattr(agent, "last_llm_used", False):
             models_invoked.append(settings.model_specialist)
 
         memory.save_agent_memory(
@@ -237,6 +286,8 @@ def run_business_decision(
     start_r = time.perf_counter()
     risk_agent = RiskAgent()
     findings["risk"] = risk_agent.analyze(case, findings)
+    if getattr(risk_agent, "last_llm_used", False):
+        models_invoked.append(settings.model_specialist)
     risk_lat = round((time.perf_counter() - start_r) * 1000, 2)
 
     memory.save_agent_memory(
@@ -326,6 +377,7 @@ def run_business_decision(
             "success": True,
             "market_summary": findings["sales"].summary,
             "budget_limit": case.budget_limit or 0.0,
+            "currency": case.currency,
             "financial_summary": findings["finance"].summary,
         },
         "research_agent": {

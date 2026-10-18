@@ -3,9 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#070816" />
+    <meta name="theme-color" content="#090a15" />
     <meta name="description" content="DecisionRoom — multi-agent AI decision support." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%237a5af8'/%3E%3Cpath d='M11 8h5a8 8 0 0 1 0 16h-5z' fill='white'/%3E%3C/svg%3E" />
     <title>DecisionRoom | AI Decision Intelligence</title>
+    <script>
+      // Set theme before first paint to avoid a flash of the wrong palette
+      (function () {
+        var t = null;
+        try { t = localStorage.getItem("dr-theme"); } catch (e) {}
+        if (t !== "light" && t !== "dark") {
+          try { t = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"; }
+          catch (e) { t = "dark"; }
+        }
+        document.documentElement.dataset.theme = t;
+      })();
+    </script>
   </head>
   <body><div id="root"></div><script type="module" src="/src/main.jsx"></script></body>
 </html>

@@ -105,6 +105,8 @@ class BaseSpecialistAgent:
     """Base class for all domain specialist agents."""
 
     name: str = "BaseSpecialist"
+    # True when the most recent analysis actually reached the LLM (vs rule-based fallback)
+    last_llm_used: bool = False
 
     def __init__(self, llm_client: Optional[LLMClient] = None):
         self.llm_client = llm_client or LLMClient()
@@ -160,18 +162,22 @@ class BaseSpecialistAgent:
             f"Based ONLY on the evidence above and your domain expertise, provide your structured analysis."
         )
         try:
-            return self.llm_client.generate_structured(
+            out = self.llm_client.generate_structured(
                 prompt=user_prompt,
                 response_model=SpecialistOutput,
                 system_prompt=system_prompt,
                 model=model,
                 temperature=0.15,
             )
+            self.last_llm_used = True
+            return out
         except ProviderNotConfiguredError as exc:
             logger.warning("%s LLM provider not configured, using rule-based fallback: %s", self.name, exc)
+            self.last_llm_used = False
             return None
         except LLMError as exc:
             logger.warning("%s LLM call failed, using rule-based fallback: %s", self.name, exc)
+            self.last_llm_used = False
             return None
 
 
@@ -536,6 +542,7 @@ class RiskAgent(BaseSpecialistAgent):
             )
         except (ProviderNotConfiguredError, LLMError) as exc:
             logger.warning("RiskAgent LLM call failed, using rule-based fallback: %s", exc)
+        self.last_llm_used = llm_out is not None
 
         if llm_out:
             summary = llm_out.summary

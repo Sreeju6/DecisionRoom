@@ -143,7 +143,7 @@ class DocumentParser:
     def parse_pdf(cls, content: bytes, doc_name: str, company_id: str, project_id: str) -> List[DocumentChunk]:
         """Extract text page-by-page from PDF using PyMuPDF."""
         try:
-            import fitz  # PyMuPDF
+            import pymupdf as fitz  # PyMuPDF; new module name ('fitz' alias is deprecated)
             doc = fitz.open(stream=content, filetype="pdf")
         except Exception as exc:
             raise ParsingError(f"Corrupt or unreadable PDF '{doc_name}': {exc}") from exc

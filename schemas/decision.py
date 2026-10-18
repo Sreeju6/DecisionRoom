@@ -45,6 +45,7 @@ class BusinessCase(BaseModel):
     target_market_or_state: Optional[str] = Field(default=None, description="Geographic market, state, or jurisdiction.")
     constraints: List[str] = Field(default_factory=list, description="Budget, timeline, or policy constraints.")
     budget_limit: Optional[float] = Field(default=None, ge=0.0, description="Explicit monetary budget ceiling if applicable.")
+    currency: Optional[str] = Field(default=None, description="Currency code for budget figures (e.g. USD, EUR, INR).")
     raw_question: str = Field(default="", description="Original verbatim user input string.")
 
     @classmethod
