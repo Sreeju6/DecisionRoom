@@ -41,6 +41,8 @@ reports/
 .vscode/
 *.swp
 *.swo
+*.docx
+*.txt
 .DS_Store
 Thumbs.db
 docs/
