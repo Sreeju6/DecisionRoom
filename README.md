@@ -118,8 +118,9 @@ python -m pytest tests/ -v
 
 ### 5. Launch Backend Server
 ```powershell
-python -m uvicorn api:app --host 127.0.0.1 --port 8000 --reload
+.\start_backend.ps1
 ```
+(Equivalent to `python -m uvicorn api:app --host 127.0.0.1 --port 8000 --reload --reload-exclude "<repo>\.venv"` — the exclude is required: without it the watcher restarts the server whenever torch/pandas/openai touch caches in `.venv`, killing requests mid-flight.)
 OpenAPI documentation: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ### 6. Launch Frontend UI

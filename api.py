@@ -23,7 +23,6 @@ from __future__ import annotations
 import hashlib
 import io
 import logging
-import os
 import traceback
 import uuid
 from pathlib import Path
@@ -49,20 +48,18 @@ app = FastAPI(
     description="Multi-agent business decision support system. Local-only; not production-secure multi-tenancy.",
 )
 
-# Local development + Netlify frontend CORS configuration
-origins = os.getenv(
-    "DECISIONROOM_CORS_ORIGINS",
-    "http://localhost:5173,http://127.0.0.1:5173,https://*.netlify.app",
-)
+# CORS: this API is local-only and unauthenticated (company/project IDs are namespaces,
+# not credentials), so accept every origin and answer Chrome's Private-Network preflights.
+# A restrictive origin list 400'd preflights from any caller Chrome deemed "more public"
+# than the backend — and since multipart uploads are CORS-safelisted (no preflight),
+# only the JSON POST /api/decision surfaced the failure.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[item.strip() for item in origins.split(",") if item.strip() and "*" not in item],
-    # Local-only API: trust any loopback port (Vite auto-increments when 5173 is busy)
-    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1|\[::1\])(:\d+)?"
-    + (r"|https://[a-zA-Z0-9-]+\.netlify\.app" if "*.netlify.app" in origins else ""),
+    allow_origins=["*"],
     allow_credentials=False,
-    allow_methods=["GET", "POST", "DELETE", "OPTIONS"],
+    allow_methods=["*"],
     allow_headers=["*"],
+    allow_private_network=True,
 )
 
 # Allowed file types for upload

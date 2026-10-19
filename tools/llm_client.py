@@ -185,10 +185,10 @@ class GoogleGenAIProvider(BaseLLMProvider):
                     "max_output_tokens": max_tokens,
                 },
             )
-            text = getattr(response, "text", "")
-            if not text:
+            raw_text = getattr(response, "text", None) or ""
+            if not raw_text.strip():
                 raise LLMError("Google GenAI returned an empty response.")
-            return text.strip()
+            return raw_text.strip()
         except Exception as exc:
             clean_msg = str(exc).replace(self.api_key, redact_secret(self.api_key))
             raise LLMError(f"Google GenAI call failed for model {target_model}: {clean_msg}") from exc

@@ -855,7 +855,7 @@ function App() {
                 <h2>Execution History & Observability</h2>
                 <p>Auditable log of analysis runs and granular trace events for tenant: <b>{companyId}</b></p>
               </div>
-              <button className="action-btn" onClick={fetchRuns} disabled={loadingRuns}>
+              <button className="action-btn" onClick={() => fetchRuns()} disabled={loadingRuns}>
                 <RefreshCw size={14} className={loadingRuns ? "spin" : ""} /> Refresh Runs
               </button>
             </div>
@@ -937,7 +937,7 @@ function App() {
                 <h2>Persistent Project Memory</h2>
                 <p>Curated constraints, confirmed facts, and goals with explicit provenance tracking.</p>
               </div>
-              <button className="action-btn" onClick={fetchMemory}>
+              <button className="action-btn" onClick={() => fetchMemory()}>
                 <RefreshCw size={14} /> Refresh
               </button>
             </div>
@@ -1009,7 +1009,7 @@ function App() {
                 <h2>Document Library & Vector Ingestion</h2>
                 <p>Upload PDF, DOCX, TXT, CSV, or XLSX files. Chunks are embedded and indexed into Qdrant vector storage with strict company ({companyId}) and project ({projectId}) isolation.</p>
               </div>
-              <button className="action-btn" onClick={fetchDocuments} disabled={loadingDocs}>
+              <button className="action-btn" onClick={() => fetchDocuments()} disabled={loadingDocs}>
                 <RefreshCw size={14} className={loadingDocs ? "spin" : ""} /> Refresh Library
               </button>
             </div>

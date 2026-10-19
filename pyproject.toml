@@ -7,7 +7,26 @@ authors = [
     { name = "Raunak-23", email = "rpal2003822@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "einops>=0.8.0",
+    "fastapi>=0.110.0",
+    "google-genai>=0.1.0",
+    "httpx>=0.25.0",
+    "numpy>=1.24.0",
+    "openai>=1.0.0",
+    "openpyxl>=3.1.0",
+    "pandas>=2.1.0",
+    "pydantic>=2.5.0",
+    "pymupdf>=1.24.0",
+    "pytest>=7.4.0",
+    "python-docx>=1.1.0",
+    "python-dotenv>=1.0.0",
+    "python-multipart>=0.0.9",
+    "qdrant-client>=1.19.0",
+    "requests>=2.31.0",
+    "sentence-transformers>=3.0.0",
+    "uvicorn[standard]>=0.27.0",
+]
 
 [project.scripts]
 decisionroom = "decisionroom:main"

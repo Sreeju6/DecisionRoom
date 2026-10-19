@@ -14,14 +14,15 @@ from pydantic import BaseModel, Field, field_validator
 # Root project directory
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
-# Load .env file from project root if it exists
-load_dotenv(PROJECT_ROOT / ".env")
+# Load .env file from project root if it exists (override system env so configured keys take precedence)
+load_dotenv(PROJECT_ROOT / ".env", override=True)
 
 
 # Approved Model Registry as specified in IMPLEMENTATION_PLAN.md Section 3.2
 APPROVED_MODEL_IDS: Set[str] = {
     "gemini-3.1-flash-lite",
     "gemini-3.5-flash-lite",
+    "gemini-3.7-flash",
     "gemma-4-26b-a4b-it",
     "gemma-4-31b-it",
     "nvidia/nemotron-3-super-120b-a12b",
